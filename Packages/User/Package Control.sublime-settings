@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"BracketHighlighter",
+		"CTags",
+		"FileHeader",
+		"Git",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"TrailingSpaces"
+	]
+}

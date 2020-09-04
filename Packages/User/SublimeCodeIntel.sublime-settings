@@ -1,0 +1,12 @@
+{
+    "python":{
+        "python":"C:/Python37/python.exe",
+        "pythonExtraPaths":[
+            "C:/Users/Administrator/AppData/Local/Programs/Python/Python37",
+            "C:/Python37/DLLs",
+            "C:/Python37/Lib",
+            "C:/Python37/Lib/site-packages",
+
+        ]
+    }
+}
