@@ -1,6 +1,16 @@
 {
+	"draw_minimap_border": true,
+	"font_size": 18,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"save_on_focus_lost": true,
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"word_wrap": "true"
 }
