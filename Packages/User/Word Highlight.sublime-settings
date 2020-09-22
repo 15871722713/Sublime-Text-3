@@ -1,7 +1,7 @@
 {
 
         "draw_outlined": false,
-
         "color_scope_name": "wordhighlight",
+        // "highlight_when_selection_is_empty": true,
 
 }
