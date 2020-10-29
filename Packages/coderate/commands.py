@@ -88,31 +88,38 @@ class CodeRateListener(sublime_plugin.EventListener):
         code_sum = 0
 
         my_lines = contents.split('\n')
-        # print(my_lines)
-        ser = 0
+        ser1 = 0
+        ser2 = 0
         serial_num_list = []
 
         # 逐行检索文本中是否包含注释
         for serial_num, line in enumerate(my_lines):
-            # print(serial_num, line)
-            # print(20 * '+')
             if line.strip() != "":  # 过滤空行
                 serial_num = serial_num + 1
+                line = line.strip()
 
-                if re.match(r".*\"\"\".*", line):  # 记录文档注释行行数
+                if re.match(r".*\"\"\".*", line) or re.match(r".*\'\'\'.*", line):  # 记录文档注释行行数
                     serial_num_list.append(serial_num)
 
-                elif "#" in line:  # 记录单行注释行数
+                elif line[0] == "#":  # 记录纯注释行
                     linelist = line.split('#')
                     node1 = linelist[1]
                     nodenum = get_number(node1)
                     if nodenum > 4:  # 单行注释中文个数不小于5个为有效注释
-                        ser += 1
-                # print(serial_num)
+                        ser1 += 1
 
-                code_sum += 1
+                elif "#" in line:  # 记录单行注释行数
+                    code_sum += 1
+                    linelist = line.split('#')
+                    node1 = linelist[1]
+                    nodenum = get_number(node1)
+                    if nodenum > 4:  # 单行注释中文个数不小于5个为有效注释
+                        ser2 += 1
 
-        serial_num_sum2 = 0
+                else:    # 无注释代码行
+                    code_sum += 1
+
+        serial_num_sum2 = 0   # 初始化文档注释行
 
         try:  # 计算文本注释
             for ser_num, value in enumerate(serial_num_list):
@@ -121,13 +128,13 @@ class CodeRateListener(sublime_plugin.EventListener):
                 else:
                     end_num = value
                     # 行尾与行头行数相减即为文档注释所占行数，累加所有文档注释
-                    serial_num_sum2 += (int(end_num) - int(top_num) + 1)
+                    serial_num_sum2 += (int(end_num) - int(top_num) - 1)
         except Exception as ex:
             print(ex)
-            print("%s源码注释不规范!自动跳过!" % user_path)
 
+        code_sum = code_sum - serial_num_sum2
         # serial_num_sum = ser + serial_num_sum2  # 叠加两种注释行数
-        serial_num_sum = ser # 只计算单行注释
+        serial_num_sum = ser1 + ser2 # 只计算“#”注释
         if code_sum != 0:
             exp_rate = 100 * (serial_num_sum / code_sum)  # 计算注释比
         else:
