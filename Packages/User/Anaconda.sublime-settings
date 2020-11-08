@@ -2,7 +2,7 @@
     //由于Anaconda插件本身无法知道Python安装的路径，所以需要设置Python主程序的实际位置
     "python_interpreter": "C:\\Python\\python.exe",
     //忽略各种空格不对, 超过79字, import的函数没有使用的提醒,
-    "pep8_ignore": ["E501", "W292", "E303", "W391", "E225", "E302", "W293", "E402"],
+    "pep8_ignore": ["E501", "W292", "E303", "W391", "E225", "E302", "W293", "E402", "E121"],
     "pyflakes_explicit_ignore":
     [
         "UnusedImport"

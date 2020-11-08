@@ -1,8 +1,9 @@
 {
 	"folder_history":
 	[
-		"/D/desktop/Autotest",
 		"/D/hgu_autotestc103",
+		"/D/desktop/py_test",
+		"/D/desktop/Autotest",
 		"/C/Users/cienet/Desktop/openacs",
 		"/C/Users/cienet/Desktop/baacloud",
 		"//10.182.34.15/d$/FHATP/user/hgu_autotestc103/Service/WiFi/solocase",
@@ -25,7 +26,7 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 79,
+	"last_window_id": 83,
 	"log_indexing": false,
 	"settings":
 	{
@@ -105,8 +106,22 @@
 			},
 			"file_history":
 			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-mousemap",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
 				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
@@ -138,17 +153,16 @@
 				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
 				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 261.0,
 				"where_history":
 				[
 				]
@@ -158,6 +172,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"InternetGatewayDevice.DeviceInfo.SoftwareVersion",
+					"sublime.set_timeout"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -174,7 +190,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -196,7 +212,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -205,6 +221,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
 					[
 						"abshgu",
 						"Lib\\general\\util_basic\\absHGUProduct.py"
@@ -266,27 +290,226 @@
 			"buffers":
 			[
 				{
-					"file": "/D/hgu_autotestc103/sftp-config.json",
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
 					"settings":
 					{
-						"buffer_size": 1331,
+						"buffer_size": 9812,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+					"file": "/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
 					"settings":
 					{
-						"buffer_size": 9626,
-						"line_ending": "Unix"
+						"buffer_size": 105547,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
 					"settings":
 					{
-						"buffer_size": 10232,
+						"buffer_size": 8996,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
+					"settings":
+					{
+						"buffer_size": 9342,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
+					"settings":
+					{
+						"buffer_size": 8893,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
+					"settings":
+					{
+						"buffer_size": 8820,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
+					"settings":
+					{
+						"buffer_size": 9787,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
+					"settings":
+					{
+						"buffer_size": 10358,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
+					"settings":
+					{
+						"buffer_size": 10402,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
+					"settings":
+					{
+						"buffer_size": 9684,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
+					"settings":
+					{
+						"buffer_size": 9516,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
+					"settings":
+					{
+						"buffer_size": 10332,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
+					"settings":
+					{
+						"buffer_size": 9031,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
+					"settings":
+					{
+						"buffer_size": 9026,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
+					"settings":
+					{
+						"buffer_size": 9604,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
+					"settings":
+					{
+						"buffer_size": 9465,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
+					"settings":
+					{
+						"buffer_size": 8938,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
+					"settings":
+					{
+						"buffer_size": 9244,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
+					"settings":
+					{
+						"buffer_size": 9566,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
+					"settings":
+					{
+						"buffer_size": 8805,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
+					"settings":
+					{
+						"buffer_size": 8993,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
+					"settings":
+					{
+						"buffer_size": 10028,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
+					"settings":
+					{
+						"buffer_size": 10102,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
+					"settings":
+					{
+						"buffer_size": 9907,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
+					"settings":
+					{
+						"buffer_size": 8846,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -358,14 +581,29 @@
 			[
 				"/D/hgu_autotestc103",
 				"/D/hgu_autotestc103/Service",
-				"/D/hgu_autotestc103/Service/__pycache__",
-				"/D/hgu_autotestc103/Service/AC",
-				"/D/hgu_autotestc103/Service/AC/solocase",
-				"/D/hgu_autotestc103/Service/TR069"
+				"/D/hgu_autotestc103/Service/Start",
+				"/D/hgu_autotestc103/Service/Start/solocase"
 			],
 			"file_history":
 			[
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_004.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
+				"/D/desktop/commands.pyc",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
 				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
@@ -403,13 +641,14 @@
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 261.0,
 				"where_history":
 				[
+					"D:\\hgu_autotestc103\\Service\\Start\\solocase"
 				]
 			},
 			"find_state":
@@ -417,6 +656,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"【配置成功】, ",
+					"【配置失败】, ",
+					"【查询失败】, ",
+					"【查询成功】, "
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -424,6 +667,7 @@
 				"regex": false,
 				"replace_history":
 				[
+					""
 				],
 				"reverse": false,
 				"show_context": true,
@@ -440,24 +684,24 @@
 			"groups":
 			[
 				{
-					"selected": 2,
+					"selected": 21,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/hgu_autotestc103/sftp-config.json",
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1331,
+								"buffer_size": 9812,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										246,
-										246
+										6844,
+										6844
 									]
 								],
 								"settings":
@@ -467,27 +711,12 @@
 									{
 										"close":
 										{
-											"1":
-											[
-												1329,
-												1330
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/curly_bracket.png",
-												"region.purplish"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												0,
-												1
-											]
 										},
 										"unmatched":
 										{
@@ -495,21 +724,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -530,26 +764,173 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										43,
+										14,
+										157,
+										228,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2904.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 21,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 105547,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										91668,
+										91236
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
-										"bh_angle_content"
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"c_time":
 									[
@@ -583,11 +964,11 @@
 										11,
 										5,
 										10,
-										43,
-										38,
-										7,
-										200,
-										151,
+										54,
+										29,
+										6,
+										66,
+										33,
 										113,
 										1,
 										133,
@@ -601,32 +982,2963 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+									"syntax": "Packages/Python/Python.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 47520.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 22,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8996,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6693,
+										6693
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												6692,
+												6693
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												6641,
+												6642
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										44,
+										1,
+										171,
+										208,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2618.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 20,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9342,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7339,
+										7339
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										44,
+										3,
+										251,
+										252,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2574.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 19,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8893,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5183,
+										5183
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												5185,
+												5186
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												5177,
+												5178
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										44,
+										6,
+										91,
+										187,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2596.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 18,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8820,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6886,
+										6886
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										44,
+										8,
+										160,
+										67,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3300.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 17,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9787,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7236,
+										7236
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										44,
+										10,
+										236,
+										124,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3234.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 16,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10358,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5508,
+										5508
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										47,
+										6,
+										208,
+										140,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1873.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 14,
+							"type": "text"
+						},
+						{
+							"buffer": 8,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10402,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8004,
+										8004
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												8008,
+												8009
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7960,
+												7961
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										47,
+										9,
+										52,
+										49,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2269.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 11,
+							"type": "text"
+						},
+						{
+							"buffer": 9,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9684,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5906,
+										5972
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												5971,
+												5972
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												5842,
+												5843
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										47,
+										11,
+										140,
+										39,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2313.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 12,
+							"type": "text"
+						},
+						{
+							"buffer": 10,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9516,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7404,
+										7404
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7403,
+												7404
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7362,
+												7363
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										47,
+										13,
+										208,
+										163,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2228.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 13,
+							"type": "text"
+						},
+						{
+							"buffer": 11,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10332,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9508,
+										9508
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												9507,
+												9508
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												9441,
+												9442
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										0,
+										238,
+										35,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3828.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 10,
+							"type": "text"
+						},
+						{
+							"buffer": 12,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9031,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5737,
+										5818
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												5795,
+												5796
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												5736,
+												5737
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										3,
+										42,
+										213,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2423.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 9,
+							"type": "text"
+						},
+						{
+							"buffer": 13,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9026,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3327,
+										3327
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												3327,
+												3328
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												3319,
+												3320
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										5,
+										119,
+										25,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1386.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 8,
+							"type": "text"
+						},
+						{
+							"buffer": 14,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9604,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										8095,
+										8095
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												8108,
+												8109
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												8076,
+												8077
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										7,
+										203,
+										77,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3234.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"type": "text"
+						},
+						{
+							"buffer": 15,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9465,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7207,
+										7207
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										10,
+										132,
+										133,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2772.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 16,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8938,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7915,
+										7915
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												7993,
+												7994
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												7905,
+												7906
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										12,
+										111,
+										100,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2816.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 17,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9244,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1518,
+										1518
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1518,
+												1519
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												1510,
+												1511
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										48,
+										14,
+										207,
+										38,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 836.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 18,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9566,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5491,
+										5491
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										49,
+										1,
+										217,
+										42,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1254.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 19,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8805,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4855,
+										4855
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										49,
+										4,
+										33,
+										141,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 1320.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+							"buffer": 20,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9626,
+								"buffer_size": 8993,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										7899,
+										7915
 									]
 								],
 								"settings":
@@ -636,12 +3948,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												7925,
+												7926
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												7898,
+												7899
+											]
 										},
 										"unmatched":
 										{
@@ -649,21 +3976,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -684,26 +4016,21 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"c_time":
 									[
@@ -736,12 +4063,12 @@
 										228,
 										11,
 										5,
-										10,
-										41,
-										30,
-										5,
-										184,
-										51,
+										11,
+										0,
+										49,
+										6,
+										117,
+										156,
 										113,
 										1,
 										133,
@@ -760,27 +4087,27 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 5676.0,
+								"translation.y": 3168.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 2,
-							"file": "/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
-							"semi_transient": true,
+							"buffer": 21,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10232,
+								"buffer_size": 10028,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1612,
-										1612
+										3092,
+										3092
 									]
 								],
 								"settings":
@@ -803,21 +4130,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -838,26 +4170,21 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"c_time":
 									[
@@ -890,12 +4217,12 @@
 										228,
 										11,
 										5,
-										10,
-										56,
-										56,
+										11,
+										0,
+										49,
 										8,
-										67,
-										118,
+										197,
+										197,
 										113,
 										1,
 										133,
@@ -914,10 +4241,472 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 2706.0,
+								"translation.y": 1112.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 22,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10102,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										9276,
+										8676
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										45,
+										7,
+										70,
+										233,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3479.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 15,
+							"type": "text"
+						},
+						{
+							"buffer": 23,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9907,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7426,
+										7426
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										43,
+										9,
+										253,
+										145,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2970.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 24,
+							"type": "text"
+						},
+						{
+							"buffer": 24,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8846,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6374,
+										6374
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										43,
+										12,
+										77,
+										186,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2640.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 23,
 							"type": "text"
 						}
 					]
@@ -925,7 +4714,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -967,11 +4756,11 @@
 				"height": 151.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,802,1910,444,2809",
+			"position": "0,2,3,-1,-1,-1,-1,542,2098,184,2997",
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -980,6 +4769,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
 					[
 						"abshgu",
 						"Lib\\general\\util_basic\\absHGUProduct.py"
@@ -1026,7 +4823,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 73,
+			"window_id": 81,
 			"workspace_name": ""
 		},
 		{
@@ -1043,19 +4840,61 @@
 			"buffers":
 			[
 				{
-					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-keymap",
+					"file": "/D/desktop/py_test/test001.py",
 					"settings":
 					{
-						"buffer_size": 2657,
+						"buffer_size": 1063,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/desktop/py_test/test002.py",
+					"settings":
+					{
+						"buffer_size": 399,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/desktop/Autotest/output/20201027191615/test.log",
+					"file": "/D/desktop/直真日志/ITFService.traces",
 					"settings":
 					{
-						"buffer_size": 1659,
+						"buffer_size": 14183704,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/desktop/直真日志/TR069Adaptor.traces",
+					"settings":
+					{
+						"buffer_size": 15594769,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/desktop/直真日志/ACSServer.traces",
+					"settings":
+					{
+						"buffer_size": 34996156,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+					"settings":
+					{
+						"buffer_size": 9627,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"read_only": true
+					}
+				},
+				{
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+					"settings":
+					{
+						"buffer_size": 122883,
 						"line_ending": "Windows"
 					}
 				}
@@ -1124,17 +4963,26 @@
 			},
 			"expanded_folders":
 			[
-				"/D/desktop/Autotest",
-				"/D/desktop/Autotest/output",
-				"/D/desktop/Autotest/output/20201027164425",
-				"/D/desktop/Autotest/output/20201027191615",
-				"/D/desktop/Autotest/test",
-				"/D/desktop/Autotest/test/web"
+				"/D/desktop/py_test"
 			],
 			"file_history":
 			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-mousemap",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
 				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
@@ -1166,17 +5014,16 @@
 				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
 				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 261.0,
 				"where_history":
 				[
 				]
@@ -1186,6 +5033,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"B/r/r",
+					"B",
+					"InternetGatewayDevice.DeviceInfo.SoftwareVersion",
+					"sublime.set_timeout"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1203,30 +5054,184 @@
 			"folders":
 			[
 				{
-					"path": "D:\\desktop\\Autotest"
+					"path": "D:\\desktop\\py_test"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 1,
+					"selected": 5,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-keymap",
+							"file": "/D/desktop/py_test/test001.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2657,
+								"buffer_size": 1063,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										296,
-										296
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										9,
+										21,
+										24,
+										11,
+										137,
+										22,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/desktop/py_test/test002.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 399,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										354,
+										354
 									]
 								],
 								"settings":
@@ -1238,24 +5243,24 @@
 										{
 											"1":
 											[
-												2655,
-												2656
+												353,
+												354
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												239,
-												240
+												351,
+												352
 											]
 										},
 										"unmatched":
@@ -1350,13 +5355,13 @@
 										7,
 										228,
 										11,
-										3,
+										5,
+										9,
 										21,
-										42,
-										29,
-										13,
-										31,
-										200,
+										24,
+										11,
+										152,
+										169,
 										113,
 										1,
 										133,
@@ -1370,24 +5375,174 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 51.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
-							"buffer": 1,
-							"file": "/D/desktop/Autotest/output/20201027191615/test.log",
-							"semi_transient": true,
+							"buffer": 2,
+							"file": "/D/desktop/直真日志/ITFService.traces",
+							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1659,
+								"buffer_size": 14183704,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14146564,
+										14146400
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										4,
+										17,
+										12,
+										7,
+										9,
+										104,
+										99,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4469920.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/desktop/直真日志/TR069Adaptor.traces",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15594769,
 								"regions":
 								{
 								},
@@ -1431,377 +5586,13 @@
 										7,
 										228,
 										11,
-										5,
-										9,
-										21,
-										28,
-										3,
-										8,
-										202,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 71.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 391.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 151.0
-			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,384,26,26,925",
-			"project": "",
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"abshgu",
-						"Lib\\general\\util_basic\\absHGUProduct.py"
-					],
-					[
-						"hgutel",
-						"Lib\\general\\hgu_telnet.py"
-					],
-					[
-						"impwe",
-						"Lib\\general\\util_basic\\impWEBChn.py"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 266.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 74,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"dataw2",
-						"data_wan_conx2\tstatement"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"contents": "[2020-10-27 19:16:15,895][testmgr.py      :_phase02_init_logging                   :00103][INFO ]Initializing logging options: done\n[2020-10-27 19:16:15,896][testmgr.py      :_phase11_init_test_strategy_factory     :00106][INFO ]Initializing test strategy factory\n[2020-10-27 19:16:15,896][testmgr.py      :_phase11_init_test_strategy_factory     :00108][INFO ]Initializing test strategy factory: done\n[2020-10-27 19:16:15,897][conftest.py     :test_gateway                            :00029][INFO ]PERFORMING TEST PREPARATION\n[2020-10-27 19:16:15,897][selection.py    :test_strategy                           :00037][INFO ]Selected test strategy WebUITestStrategy for test webui\n[2020-10-27 19:16:15,898][webui.py        :begin                                   :00024][INFO ]begin\n[2020-10-27 19:16:15,899][test_web.py     :test_webui                              :00035][INFO ]Start to test\n[2020-10-27 19:16:15,906][test_web.py     :test_webui_two                          :00042][ERROR]ValueError\nTraceback (most recent call last):\n  File \"C:\\Users\\cienet\\Desktop\\Autotest\\test\\web\\test_web.py\", line 40, in test_webui_two\n    raise ValueError('ValueError')\nValueError: ValueError\n[2020-10-27 16:44:25,038][webui.py        :cleanup                                 :00027][INFO ]cleanup\n[2020-10-27 16:44:25,053][conftest.py     :cleanup                                 :00025][INFO ]Tearing down test_gateway fixture\n[2020-10-27 16:44:25,053][conftest.py     :cleanup                                 :00041][INFO ]Tearing down test_manager fixture\n[2020-10-27 16:44:25,054][testmgr.py      :teardown                                :00046][INFO ]teardown\n\n",
-					"file": "/D/desktop/Autotest/output/20201027191615/test.log",
-					"file_size": 1675,
-					"file_write_time": 132482709759254726,
-					"settings":
-					{
-						"buffer_size": 1660,
-						"line_ending": "Windows",
-						"read_only": true
-					}
-				},
-				{
-					"contents": "[2020-10-27 19:16:15,895][testmgr.py      :_phase02_init_logging                   :00103][INFO ]Initializing logging options: done\n[2020-10-27 19:16:15,896][testmgr.py      :_phase11_init_test_strategy_factory     :00106][INFO ]Initializing test strategy factory\n[2020-10-27 19:16:15,896][testmgr.py      :_phase11_init_test_strategy_factory     :00108][INFO ]Initializing test strategy factory: done\n[2020-10-27 19:16:15,897][conftest.py     :test_gateway                            :00029][INFO ]PERFORMING TEST PREPARATION\n[2020-10-27 19:16:15,897][selection.py    :test_strategy                           :00037][INFO ]Selected test strategy WebUITestStrategy for test webui\n[2020-10-27 19:16:15,898][webui.py        :begin                                   :00024][INFO ]begin\n[2020-10-27 19:16:15,899][test_web.py     :test_webui                              :00035][INFO ]Start to test\n[2020-10-27 19:16:15,906][test_web.py     :test_webui_two                          :00042][ERROR]ValueError\nTraceback (most recent call last):\n  File \"C:\\Users\\cienet\\Desktop\\Autotest\\test\\web\\test_web.py\", line 40, in test_webui_two\n    raise ValueError('ValueError')\nValueError: ValueError\n[2020-10-27 16:44:25,038][webui.py        :cleanup                                 :00027][INFO ]cleanup\n[2020-10-27 16:44:25,053][conftest.py     :cleanup                                 :00025][INFO ]Tearing down test_gateway fixture\n[2020-10-27 16:44:25,053][conftest.py     :cleanup                                 :00041][INFO ]Tearing down test_manager fixture\n[2020-10-27 16:44:25,054][testmgr.py      :teardown                                :00046][INFO ]teardown\n\n",
-					"file": "/D/desktop/Autotest/output/20201027164425/test.log",
-					"file_size": 1645,
-					"file_write_time": 132482618650545985,
-					"settings":
-					{
-						"buffer_size": 1660,
-						"line_ending": "Windows",
-						"read_only": true
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"pi",
-						"Package Control: Install Package"
-					],
-					[
-						"pacc",
-						"Install Package Control"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 458.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"file_history":
-			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Default (Windows).sublime-mousemap",
-				"/D/hgu_autotestc103/sftp-config.json",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
-				"/C/Users/cienet/Desktop/py_test/conftest.py",
-				"/C/Users/cienet/Desktop/py_test/pytest.ini",
-				"/C/Users/cienet/Desktop/py_test/test_py_001.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/模块.py",
-				"/C/Users/cienet/Desktop/py_test/test002.py",
-				"/C/Users/cienet/Desktop/py_test/log01/test.log",
-				"/C/Users/cienet/Desktop/py_test/log01/boss.log",
-				"/C/Users/cienet/Desktop/py_test/log01/coder.log",
-				"/C/Users/cienet/Desktop/py_test/log01",
-				"/C/Users/cienet/Desktop/test.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/test.py",
-				"/C/Users/cienet/Desktop/py_test/assets/console.py",
-				"/C/Users/cienet/Desktop/py_test/report.html",
-				"/C/Users/cienet/Desktop/py_test/bbb.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-				"/c/Python/lib/site-packages/pexpect/__init__.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/BRDGMC/bizBRDGMC.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/hgu_telnet.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Config/site_para.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/absHGUProduct.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 0.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"groups":
-			[
-				{
-					"selected": 0,
-					"sheets":
-					[
-						{
-							"buffer": 0,
-							"file": "/D/desktop/Autotest/output/20201027191615/test.log",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1660,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										1186,
-										1186
-									]
-								],
-								"settings":
-								{
-									"__vi_external_disable": true,
-									"bracket_highlighter.busy": false,
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
+										4,
+										17,
 										11,
-										5,
-										9,
-										21,
-										28,
-										3,
-										8,
-										202,
+										50,
+										10,
+										192,
+										68,
 										113,
 										1,
 										133,
@@ -1812,52 +5603,39 @@
 										3,
 										46
 									],
-									"draw_white_space": "all",
-									"highlight_line": true,
 									"incomplete_sync": null,
-									"is_sublimerge_view": true,
-									"line_numbers": false,
 									"remote_loading": false,
-									"save_on_focus_lost": false,
-									"scroll_past_end": false,
 									"synced": false,
 									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false,
-									"word_wrap": false
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 4,
 							"type": "text"
-						}
-					]
-				},
-				{
-					"selected": 0,
-					"sheets":
-					[
+						},
 						{
-							"buffer": 1,
-							"file": "/D/desktop/Autotest/output/20201027164425/test.log",
+							"buffer": 4,
+							"file": "/D/desktop/直真日志/ACSServer.traces",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1660,
+								"buffer_size": 34996156,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1186,
-										1186
+										764,
+										764
 									]
 								],
 								"settings":
 								{
-									"__vi_external_disable": true,
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1962,13 +5740,13 @@
 										7,
 										228,
 										11,
-										5,
-										9,
-										21,
-										28,
+										4,
+										17,
+										10,
+										48,
 										2,
-										214,
-										38,
+										171,
+										155,
 										113,
 										1,
 										133,
@@ -1979,21 +5757,346 @@
 										3,
 										46
 									],
-									"draw_white_space": "all",
-									"highlight_line": true,
 									"incomplete_sync": null,
-									"is_sublimerge_view": true,
-									"line_numbers": false,
 									"remote_loading": false,
-									"save_on_focus_lost": false,
-									"scroll_past_end": false,
 									"synced": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"translate_tabs_to_spaces": false,
-									"word_wrap": false
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9627,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1240,
+										1240
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												1283,
+												1284
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/square_bracket.png",
+												"region.bluish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												887,
+												888
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										10,
+										41,
+										30,
+										5,
+										184,
+										51,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 984.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 122883,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										345,
+										345
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												413,
+												414
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/single_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												407,
+												408
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										6,
+										19,
+										31,
+										40,
+										3,
+										220,
+										103,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 48.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 1,
@@ -2004,7 +6107,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -2019,18 +6122,11 @@
 						0,
 						1,
 						1
-					],
-					[
-						1,
-						0,
-						2,
-						1
 					]
 				],
 				"cols":
 				[
 					0.0,
-					0.5,
 					1.0
 				],
 				"rows":
@@ -2039,11 +6135,7 @@
 					1.0
 				]
 			},
-			"menu_visible": false,
-			"output.active_lines_compare":
-			{
-				"height": 151.0
-			},
+			"menu_visible": true,
 			"output.exec":
 			{
 				"height": 391.0
@@ -2057,11 +6149,11 @@
 				"height": 151.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,488,130,130,1029",
+			"position": "0,2,3,-32000,-32000,-1,-1,384,26,26,925",
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -2070,6 +6162,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
 					[
 						"abshgu",
 						"Lib\\general\\util_basic\\absHGUProduct.py"
@@ -2116,7 +6216,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 79,
+			"window_id": 80,
 			"workspace_name": ""
 		}
 	],

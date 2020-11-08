@@ -1,6 +1,8 @@
 {
 	"folder_history":
 	[
+		"/D/desktop/py_test",
+		"/D/desktop/Autotest",
 		"/D/hgu_autotestc103",
 		"/C/Users/cienet/Desktop/openacs",
 		"/C/Users/cienet/Desktop/baacloud",
@@ -24,7 +26,7 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 73,
+	"last_window_id": 80,
 	"log_indexing": false,
 	"settings":
 	{
@@ -72,11 +74,11 @@
 				"selected_items":
 				[
 					[
-						"pi",
+						"pci",
 						"Package Control: Install Package"
 					],
 					[
-						"pci",
+						"pi",
 						"Package Control: Install Package"
 					],
 					[
@@ -104,6 +106,21 @@
 			},
 			"file_history":
 			[
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
+				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
@@ -141,13 +158,15 @@
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 261.0,
 				"where_history":
 				[
+					"<open files>",
+					"<current file>"
 				]
 			},
 			"find_state":
@@ -155,6 +174,16 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"self.num",
+					"def prepare(self):\n        res = ImpACFactory().create_product_acswitch(cfg='WEB').operate_firewall()  # 关闭防火墙\n        if res == 'ErrorInCalling':\n            logger.show_opr_one_step(AbsInCo('prepare', 'cfg-quit'), '关闭防火墙失败。')\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', 'cfg'), '关闭防火墙成功。')",
+					"rxrate",
+					"packet_loss_judge1",
+					"driver",
+					"driver.driver",
+					"5E3C27412BBDA6BD0",
+					"InternetGatewayDevice.WANDevice.1.WANConnectionDevice.3.",
+					"reboot",
+					"5E3C27412BBDA6BD0"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -162,6 +191,10 @@
 				"regex": false,
 				"replace_history":
 				[
+					"self.vara",
+					"def prepare(self):\n        logger.show_one_step(AbsInCo('prepare', 'success'), '1、设备正常注册上OLT，并配置业务通道；设备防火墙关闭。')\n        res = ImpACFactory().create_product_acswitch(cfg='WEB').operate_firewall()  # 关闭防火墙\n        if res == 'ErrorInCalling':\n            logger.show_opr_one_step(AbsInCo('prepare', 'cfg-quit'), '1、设备正常注册上OLT，并配置业务通道；设备防火墙关闭。')\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', 'cfg'), '1、设备正常注册上OLT，并配置业务通道；设备防火墙关闭。')",
+					"rxresult",
+					"result_judge"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -171,7 +204,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -186,10 +219,14 @@
 			{
 				"height": 0.0
 			},
+			"output.sftp":
+			{
+				"height": 151.0
+			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -198,6 +235,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
 					[
 						"abshgu",
 						"Lib\\general\\util_basic\\absHGUProduct.py"
@@ -235,7 +280,7 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 165.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -258,6 +303,56 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/D/desktop/py_test/test001.py",
+					"settings":
+					{
+						"buffer_size": 1063,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/desktop/py_test/test002.py",
+					"settings":
+					{
+						"buffer_size": 399,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/desktop/直真日志/ITFService.traces",
+					"settings":
+					{
+						"buffer_size": 14183704,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/desktop/直真日志/TR069Adaptor.traces",
+					"settings":
+					{
+						"buffer_size": 15594769,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/desktop/直真日志/ACSServer.traces",
+					"settings":
+					{
+						"buffer_size": 34996156,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+					"settings":
+					{
+						"buffer_size": 123608,
+						"encoding": "Western (Windows 1252)",
+						"line_ending": "Windows"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -291,11 +386,11 @@
 				"selected_items":
 				[
 					[
-						"pi",
+						"pci",
 						"Package Control: Install Package"
 					],
 					[
-						"pci",
+						"pi",
 						"Package Control: Install Package"
 					],
 					[
@@ -323,10 +418,25 @@
 			},
 			"expanded_folders":
 			[
-				"/D/hgu_autotestc103"
+				"/D/desktop/py_test"
 			],
 			"file_history":
 			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
+				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
@@ -364,11 +474,11 @@
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 44.0
 			},
 			"find_in_files":
 			{
-				"height": 0.0,
+				"height": 261.0,
 				"where_history":
 				[
 				]
@@ -378,6 +488,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"InternetGatewayDevice.DeviceInfo.SoftwareVersion",
+					"sublime.set_timeout"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -395,20 +507,881 @@
 			"folders":
 			[
 				{
-					"path": "D:\\hgu_autotestc103"
+					"path": "D:\\desktop\\py_test"
 				}
 			],
 			"groups":
 			[
 				{
+					"selected": 5,
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/D/desktop/py_test/test001.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1063,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										9,
+										21,
+										24,
+										11,
+										137,
+										22,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/desktop/py_test/test002.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 399,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										354,
+										354
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												353,
+												354
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												351,
+												352
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										9,
+										21,
+										24,
+										11,
+										152,
+										169,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 51.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/desktop/直真日志/ITFService.traces",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 14183704,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										14146564,
+										14146400
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										4,
+										17,
+										12,
+										7,
+										9,
+										104,
+										99,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 4469920.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/D/desktop/直真日志/TR069Adaptor.traces",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 15594769,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										4,
+										17,
+										11,
+										50,
+										10,
+										192,
+										68,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/desktop/直真日志/ACSServer.traces",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34996156,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										764,
+										764
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										4,
+										17,
+										10,
+										48,
+										2,
+										171,
+										155,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 123608,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10699,
+										10699
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										6,
+										10,
+										5,
+										43,
+										7,
+										187,
+										245,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5812.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
 					]
 				}
 			],
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 31.0
 			},
 			"input":
 			{
@@ -445,12 +1418,16 @@
 			{
 				"height": 0.0
 			},
+			"output.sftp":
+			{
+				"height": 151.0
+			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-32000,-32000,-1,-1,802,1910,444,2809",
+			"position": "0,2,3,-32000,-32000,-1,-1,384,26,26,925",
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 58.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -459,6 +1436,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
 					[
 						"abshgu",
 						"Lib\\general\\util_basic\\absHGUProduct.py"
@@ -500,12 +1485,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 165.0,
+			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 73,
+			"window_id": 80,
 			"workspace_name": ""
 		}
 	],
