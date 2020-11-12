@@ -1,20 +1,21 @@
 {
 	"auto_find_in_selection": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"dpi_scale": 1.0,
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "Microsoft YaHei Mono",
-	"font_size": 16,
+	"font_face": "YaHei Consolas Hybrid",
+	"font_size": 17,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"zzz A File Icon zzz"
 	],
 	"save_on_focus_lost": true,
-	"theme": "Adaptive.sublime-theme",
+	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
