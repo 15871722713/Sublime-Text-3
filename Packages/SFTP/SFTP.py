@@ -276,6 +276,7 @@ def sftp_uncaught_except(type, value, tb):
         else:
             sublime.set_timeout(append_log, 10)
 
+
 if reload_mods and old_callbacks:
     for name in old_callbacks:
         ExcepthookChain.add(name, old_callbacks[name])
