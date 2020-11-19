@@ -2,6 +2,8 @@
 	"folder_history":
 	[
 		"/D/hgu_autotestc103",
+		"/D/desktop/sftp",
+		"/D/desktop/sftp_backup",
 		"/D/desktop/genieacs-sim",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp",
@@ -29,7 +31,7 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 116,
+	"last_window_id": 131,
 	"log_indexing": false,
 	"settings":
 	{
@@ -117,10 +119,10 @@
 			},
 			"file_history":
 			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/openacs/.git/config",
 				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
 				"/C/Program Files/Sublime Text 3/sublime.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/直真日志/ACSServer.traces",
 				"/D/desktop/直真日志/TR069Adaptor.traces",
 				"/D/desktop/直真日志/ITFService.traces",
@@ -320,310 +322,6 @@
 			},
 			"buffers":
 			[
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"pi",
-						"Package Control: Install Package"
-					],
-					[
-						"pacc",
-						"Install Package Control"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 458.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/D/hgu_autotestc103"
-			],
-			"file_history":
-			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
-				"/D/desktop/openacs/.git/config",
-				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
-				"/C/Program Files/Sublime Text 3/sublime.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
-				"/D/desktop/直真日志/ACSServer.traces",
-				"/D/desktop/直真日志/TR069Adaptor.traces",
-				"/D/desktop/直真日志/ITFService.traces",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
-				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
-				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
-				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
-				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-				"/D/hgu_autotestc103/Service/Global.py",
-				"/D/desktop/电信直真日志/TR069Adaptor.traces",
-				"/D/desktop/电信直真日志/ACSServer.traces",
-				"/D/desktop/电信直真日志/ITFService.traces",
-				"/D/hgu_autotestc103/sftp-config.json",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
-				"/C/Users/cienet/Desktop/py_test/conftest.py",
-				"/C/Users/cienet/Desktop/py_test/pytest.ini",
-				"/C/Users/cienet/Desktop/py_test/test_py_001.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/模块.py",
-				"/C/Users/cienet/Desktop/py_test/test002.py",
-				"/C/Users/cienet/Desktop/py_test/log01/test.log",
-				"/C/Users/cienet/Desktop/py_test/log01/boss.log",
-				"/C/Users/cienet/Desktop/py_test/log01/coder.log",
-				"/C/Users/cienet/Desktop/py_test/log01",
-				"/C/Users/cienet/Desktop/test.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/test.py",
-				"/C/Users/cienet/Desktop/py_test/assets/console.py",
-				"/C/Users/cienet/Desktop/py_test/report.html",
-				"/C/Users/cienet/Desktop/py_test/bbb.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-				"/c/Python/lib/site-packages/pexpect/__init__.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/BRDGMC/bizBRDGMC.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/hgu_telnet.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Config/site_para.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/absHGUProduct.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
-			],
-			"find":
-			{
-				"height": 34.0
-			},
-			"find_in_files":
-			{
-				"height": 261.0,
-				"where_history":
-				[
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"folders":
-			[
-				{
-					"path": "D:\\hgu_autotestc103"
-				}
-			],
-			"groups":
-			[
-				{
-					"sheets":
-					[
-					]
-				}
-			],
-			"incremental_find":
-			{
-				"height": 34.0
-			},
-			"input":
-			{
-				"height": 71.0
-			},
-			"layout":
-			{
-				"cells":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				],
-				"cols":
-				[
-					0.0,
-					1.0
-				],
-				"rows":
-				[
-					0.0,
-					1.0
-				]
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 427.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 151.0
-			},
-			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,644,1003,286,1900",
-			"project": "",
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"glob",
-						"Service\\Global.py"
-					],
-					[
-						"bizstart",
-						"Lib\\Service\\Start\\bizStart.py"
-					],
-					[
-						"abshgu",
-						"Lib\\general\\util_basic\\absHGUProduct.py"
-					],
-					[
-						"hgutel",
-						"Lib\\general\\hgu_telnet.py"
-					],
-					[
-						"impwe",
-						"Lib\\general\\util_basic\\impWEBChn.py"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"selected_group": 0,
-			"settings":
-			{
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 266.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			},
-			"window_id": 116,
-			"workspace_name": ""
-		},
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"Im",
-						"ImpStartOther\tclass"
-					],
-					[
-						"type",
-						"type_\tparam"
-					],
-					[
-						"dataw2",
-						"data_wan_conx2\tstatement"
-					]
-				]
-			},
-			"buffers":
-			[
 				{
 					"file": "/D/desktop/py_test/test001.py",
 					"settings":
@@ -643,11 +341,13 @@
 					}
 				},
 				{
+					"contents": "访问控制：\n1、多台PC接LAN侧，接wifi没有评审过的组网图。\n\n系统启动：\n1、头文件错误镜像、CRC正确文件内容错误的升级镜像、CRC校验错误的镜像。\n2、升级镜像文件存放问题。\n3、预配置问题。\n\n\n1、预配置问题：预配置测试不做自动化。\n2、升级镜像文件存放问题：和TR069一样的目录格式，放到SVN管理。\n3、访问控制多台PC组网图问题：刘培智明天下班前给结论。\n\n\nreset  10\n异常升级 22\nswitch  15\n\n\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BDstport\n",
 					"file": "/D/desktop/test.py",
+					"file_size": 12203,
+					"file_write_time": 132494732950028521,
 					"settings":
 					{
 						"buffer_size": 11903,
-						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
@@ -656,15 +356,6 @@
 					"settings":
 					{
 						"buffer_size": 618344,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
-					"settings":
-					{
-						"buffer_size": 123677,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -688,11 +379,13 @@
 					}
 				},
 				{
+					"contents": "import os\nimport uncompyle6\nyour_directory = 'D:\\\\desktop\\\\sftp'\nfor dirpath, b, filenames in os.walk(your_directory):\n    for filename in filenames:\n        # print(filename)\n        if not filename.endswith('.pyc'):\n            continue\n\n        filepath = dirpath + '\\\\' + filename\n        original_filename = filename.split('.')[0]\n        # print(original_filename)\n        original_filepath = dirpath + '\\\\' + original_filename + '.py'\n        print(original_filepath, filepath)\n        os.system('uncompyle6 -o {} {}'.format(original_filepath, filepath))\n",
 					"file": "/D/desktop/testpyc.py",
+					"file_size": 562,
+					"file_write_time": 132495666877843062,
 					"settings":
 					{
 						"buffer_size": 562,
-						"encoding": "UTF-8",
 						"line_ending": "Unix",
 						"name": "import os"
 					}
@@ -766,10 +459,10 @@
 			],
 			"file_history":
 			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/openacs/.git/config",
 				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
 				"/C/Program Files/Sublime Text 3/sublime.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/直真日志/ACSServer.traces",
 				"/D/desktop/直真日志/TR069Adaptor.traces",
 				"/D/desktop/直真日志/ITFService.traces",
@@ -869,7 +562,7 @@
 			"groups":
 			[
 				{
-					"selected": 4,
+					"selected": 3,
 					"sheets":
 					[
 						{
@@ -1023,7 +716,7 @@
 								"translation.y": 150.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 7,
+							"stack_index": 6,
 							"type": "text"
 						},
 						{
@@ -1175,7 +868,7 @@
 								"translation.y": 1002.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 5,
 							"type": "text"
 						},
 						{
@@ -1367,6 +1060,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1377,51 +1090,31 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
 									"c_time":
 									[
@@ -1478,168 +1171,14 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3667.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 123677,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10845,
-										10845
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										11,
-										18,
-										35,
-										54,
-										11,
-										87,
-										55,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 240.0,
+								"translation.y": 235.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
+							"buffer": 4,
 							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 							"semi_transient": false,
 							"settings":
@@ -1806,7 +1345,7 @@
 							"type": "text"
 						},
 						{
-							"buffer": 6,
+							"buffer": 5,
 							"semi_transient": false,
 							"settings":
 							{
@@ -1980,11 +1519,11 @@
 								"translation.y": 597.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
+							"buffer": 6,
 							"file": "/D/desktop/testpyc.py",
 							"semi_transient": false,
 							"settings":
@@ -2195,7 +1734,7 @@
 				"height": 151.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,667,47,309,944",
+			"position": "0,0,1,-1,-1,-1,-1,667,47,309,944",
 			"project": "",
 			"replace":
 			{
@@ -2263,6 +1802,479 @@
 			{
 			},
 			"window_id": 80,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Im",
+						"ImpStartOther\tclass"
+					],
+					[
+						"type",
+						"type_\tparam"
+					],
+					[
+						"dataw2",
+						"data_wan_conx2\tstatement"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
+					"settings":
+					{
+						"buffer_size": 8553,
+						"encoding": "UTF-8",
+						"line_ending": "Windows",
+						"read_only": true
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pacc",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 458.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/hgu_autotestc103",
+				"/D/hgu_autotestc103/Service",
+				"/D/hgu_autotestc103/Service/Start",
+				"/D/hgu_autotestc103/Service/Start/solocase"
+			],
+			"file_history":
+			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/desktop/openacs/.git/config",
+				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
+				"/C/Program Files/Sublime Text 3/sublime.py",
+				"/D/desktop/直真日志/ACSServer.traces",
+				"/D/desktop/直真日志/TR069Adaptor.traces",
+				"/D/desktop/直真日志/ITFService.traces",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
+				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
+				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
+				"/C/Users/cienet/Desktop/py_test/conftest.py",
+				"/C/Users/cienet/Desktop/py_test/pytest.ini",
+				"/C/Users/cienet/Desktop/py_test/test_py_001.py",
+				"/C/Users/cienet/Desktop/烽火/系统启动/资料/模块.py",
+				"/C/Users/cienet/Desktop/py_test/test002.py",
+				"/C/Users/cienet/Desktop/py_test/log01/test.log",
+				"/C/Users/cienet/Desktop/py_test/log01/boss.log",
+				"/C/Users/cienet/Desktop/py_test/log01/coder.log",
+				"/C/Users/cienet/Desktop/py_test/log01",
+				"/C/Users/cienet/Desktop/test.py",
+				"/C/Users/cienet/Desktop/烽火/系统启动/资料/test.py",
+				"/C/Users/cienet/Desktop/py_test/assets/console.py",
+				"/C/Users/cienet/Desktop/py_test/report.html",
+				"/C/Users/cienet/Desktop/py_test/bbb.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/c/Python/lib/site-packages/pexpect/__init__.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/BRDGMC/bizBRDGMC.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/hgu_telnet.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Config/site_para.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/absHGUProduct.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 261.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\hgu_autotestc103"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8553,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										299,
+										299
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										5,
+										11,
+										0,
+										42,
+										13,
+										248,
+										253,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"complete_parameters": false,
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 427.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 151.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,488,130,130,1027",
+			"project": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
+					[
+						"abshgu",
+						"Lib\\general\\util_basic\\absHGUProduct.py"
+					],
+					[
+						"hgutel",
+						"Lib\\general\\hgu_telnet.py"
+					],
+					[
+						"impwe",
+						"Lib\\general\\util_basic\\impWEBChn.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 131,
 			"workspace_name": ""
 		}
 	],

@@ -1,15 +1,16 @@
 {
+	"auto_upgrade": false,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Anaconda",
 		"ayu",
 		"BracketHighlighter",
 		"CTags",
-		"FileDiffs",
 		"FileHeader",
 		"Git",
 		"Package Control",
@@ -18,6 +19,7 @@
 		"SublimeCodeIntel",
 		"Sublimerge Pro",
 		"SublimeSimpleSync",
+		"Terminal",
 		"TrailingSpaces",
 		"WordHighlight"
 	]

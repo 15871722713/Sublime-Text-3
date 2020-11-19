@@ -5,7 +5,7 @@
     "pep8_ignore": ["E501", "W292", "E303", "W391", "E225", "E302", "W293", "E402", "E121"],
     "pyflakes_explicit_ignore":
     [
-        "UnusedImport"
+        // "UnusedImport"
     ],
     //保存文件后自动pep8格式化
     "auto_formatting": true,
@@ -17,7 +17,13 @@
     //ST3也有自动补全提示，但只提示文件中输入过的单词，这个功能可用提示变量可用的函数等。
     "suppress_word_completions": true,
     "suppress_explicit_completions": true,
+
     //代码排版时，行的默认长度太短，根据喜好设置
     "pep8_max_line_length": 120,
     "swallow_startup_errors": true,
+
+    //行内显示错误内容
+    "anaconda_linter_phantoms": true,
+
+
 }

@@ -1,4 +1,5 @@
 {
+    "codeintel_selected_catalogs": ["python"],
     "python":{
         "python":"C:/Python/python.exe",
         "pythonExtraPaths":[
