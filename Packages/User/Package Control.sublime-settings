@@ -3,6 +3,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"TypeScript"
 	],
 	"installed_packages":
 	[

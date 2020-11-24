@@ -1,6 +1,7 @@
 {
     "name": "ayu",
     "globals": {
+        // "background": "grey",
         "background": "#1f2430",
         "foreground": "#cbccc6",
         "invisibles": "#cbccc64d",
@@ -10,12 +11,12 @@
         "accent": "#ffcc66",
         "popup_css": "\n      html, body {\n        background-color: #232834;\n        color: #cbccc6;\n      }\n      body {\n        padding: 1px 3px;\n      }\n      a {\n        color: rgba(92,207,230, .7);\n      }\n    ",
         "gutter": "#1f2430",
-        "gutter_foreground": "#707a8c66",
+        "gutter_foreground": "white",  //line_number 字体颜色
         "line_diff_width": "2",
         "line_diff_added": "#a6cc70",
         "line_diff_modified": "#77a8d9",
         "line_diff_deleted": "#f27983",
-        "selection": "#33415e",
+        "selection": "white",
         "selection_border": "#323a4c",
         "selection_border_width": "1",
         "inactive_selection": "#323a4c",
@@ -36,7 +37,7 @@
             "name": "Comment",
             "scope": "comment",
             "font_style": "italic",
-            "foreground": "#5c6773"
+            "foreground": "#57A64A"
         },
         {
             "name": "String",
@@ -46,7 +47,7 @@
         {
             "name": "Regular Expressions and Escape Characters",
             "scope": "string.regexp, constant.character, constant.other",
-            "foreground": "#95e6cb"
+            "foreground": "red"
         },
         {
             "name": "Number",
@@ -198,7 +199,8 @@
         {
             "name": "Invalid",
             "scope": "invalid",
-            "foreground": "#ff3333"
+            "foreground": "#ff3333",
+            // "background": "yellow"
         },
         {
             "name": "diff.header",

@@ -223,36 +223,42 @@ class SftpThread(HookedThread):
                 try:
                     if not self.make_connection():
                         return
-                    debug_print('SFTP: Checking license key', 2)
-                    SftpCommand.setup_elements(self.config)
-                    do_show = False
-                    if self.action not in ('list', 'listr', 'llist', 'llistr', 'cwd'):
-                        SftpCommand.elements[0] += 1
+                    do_show = True
+                    # debug_print('SFTP: Checking license key', 2)
+                    # SftpCommand.setup_elements(self.config)
+                    # do_show = False
+                    # if self.action not in ('list', 'listr', 'llist', 'llistr', 'cwd'):
+                    #     SftpCommand.elements[0] += 1
 
-                        def zip_to_i(element):
-                            if isinstance(element, int):
-                                return element
-                            return ord(element)
+                    #     def zip_to_i(element):
+                    #         if isinstance(element, int):
+                    #             return element
+                    #         return ord(element)
 
-                        if sys.version_info >= (3, ):
-                            key_prefix = bytes([zip_to_i(x) ^ zip_to_i(y) for x, y in izip(SftpCommand.elements[1], cycle('22'))])
-                        else:
-                            key_prefix = ''.join([chr(zip_to_i(x) ^ zip_to_i(y)) for x, y in izip(SftpCommand.elements[1], cycle('22'))])
-                        key_prefix = binascii.hexlify(key_prefix)[:30]
-                        clen = 6
-                        chunks = [key_prefix[(i - 1) * clen:i * clen] for i in xrange(1, int(len(key_prefix) / clen + 1))]
-                        key_prefix = '-'.join(chunks).decode('utf-8')
-                        if SftpCommand.elements[0] > 0 and SftpCommand.elements[0] % 10 == 0 and key_prefix != SftpCommand.elements[(-1)]:
+                    #     print('sys.version_info:{}'.format(sys.version_info))
+                    #     if sys.version_info >= (3, ):
+                    #         key_prefix = bytes([zip_to_i(x) ^ zip_to_i(y) for x, y in izip(SftpCommand.elements[1], cycle('22'))])
+                    #     else:
+                    #         key_prefix = ''.join([chr(zip_to_i(x) ^ zip_to_i(y)) for x, y in izip(SftpCommand.elements[1], cycle('22'))])
+                    #     key_prefix = binascii.hexlify(key_prefix)[:30]
+                    #     print('key_prefix:{}'.format(key_prefix))
+                    #     print('llllllllllllllllllllllllllllllllllllllllllllllll')
+                    #     clen = 6
+                    #     chunks = [key_prefix[(i - 1) * clen:i * clen] for i in xrange(1, int(len(key_prefix) / clen + 1))]
+                    #     print('chunks:{}'.format(chunks))
+                    #     print('chunkssssss:{}'.format('-'.join(chunks)))
+                    #     key_prefix = '-'.join(chunks).decode('utf-8')
+                    #     if SftpCommand.elements[0] > 0 and SftpCommand.elements[0] % 10 == 0 and key_prefix != SftpCommand.elements[(-1)]:
 
-                            def reg():
-                                if int(sublime.version()) >= 2190:
-                                    if sublime.ok_cancel_dialog(SftpCommand.elements[(-2)], 'Buy Now'):
-                                        sublime.active_window().run_command('open_url', {'url': 'http://wbond.net/sublime_packages/sftp/buy'})
-                                else:
-                                    sublime.error_message(SftpCommand.elements[(-2)])
+                    #         def reg():
+                    #             if int(sublime.version()) >= 2190:
+                    #                 if sublime.ok_cancel_dialog(SftpCommand.elements[(-2)], 'Buy Now'):
+                    #                     sublime.active_window().run_command('open_url', {'url': 'http://wbond.net/sublime_packages/sftp/buy'})
+                    #             else:
+                    #                 sublime.error_message(SftpCommand.elements[(-2)])
 
-                            # sublime.set_timeout(reg, 1)
-                            do_show = True
+                    #         sublime.set_timeout(reg, 1)
+                    #         do_show = True
                     self.do_operation(do_show)
                 except (OSError, BinaryMissingError) as e:
                     if self.on_fail:

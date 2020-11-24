@@ -2,6 +2,8 @@
 	"folder_history":
 	[
 		"/D/hgu_autotestc103",
+		"/D/desktop/baacloud",
+		"/D/desktop/genieacs",
 		"/D/desktop/sftp",
 		"/D/desktop/sftp_backup",
 		"/D/desktop/genieacs-sim",
@@ -31,7 +33,7 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 130,
+	"last_window_id": 139,
 	"log_indexing": false,
 	"settings":
 	{
@@ -87,6 +89,10 @@
 				"selected_items":
 				[
 					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
 						"pci",
 						"Package Control: Install Package"
 					],
@@ -119,6 +125,112 @@
 			},
 			"file_history":
 			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/D/Desktop/sublime_sftp_debug.txt",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_011.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_009.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_007.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_013.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_RANDOM_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_SHORT_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_014.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_015.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_016.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_GEN_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_Key_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_FR_RFS_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_FR_RFS_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CM_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CM_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_Key_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_LRest_CTC_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_LRest_CTC_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_Time_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_GEN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_GEN_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_Key_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_Key_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CM_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CTC_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_APP_CTC_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CM_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_INPLAT_CTC_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CTC_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_CRCERR_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_FNCH_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_HFE_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_NMF_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Local_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Patch_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Safe_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_EPOff_Safe_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_DUPWEB_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_PCRboot_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_SDWP_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_SwhWEB_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_ACS_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_Admin_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_MTN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBY_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERRT_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Safe_Admin_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Safe_MTN_001.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/general/stc/impHost.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/base.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/impStart.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/impParaWork.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_001.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_003.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_004.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_008.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_010.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_012.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_003.py",
+				"/D/hgu_autotestc103/Lib/general/log/bizLog.py",
+				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_TR069_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/openacs/.git/config",
 				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
@@ -129,12 +241,9 @@
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
 				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
-				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
 				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
 				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
 				"/D/hgu_autotestc103/Service/Global.py",
 				"/D/desktop/电信直真日志/TR069Adaptor.traces",
 				"/D/desktop/电信直真日志/ACSServer.traces",
@@ -143,48 +252,18 @@
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
-				"/C/Users/cienet/Desktop/py_test/conftest.py",
-				"/C/Users/cienet/Desktop/py_test/pytest.ini",
-				"/C/Users/cienet/Desktop/py_test/test_py_001.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/模块.py",
-				"/C/Users/cienet/Desktop/py_test/test002.py",
-				"/C/Users/cienet/Desktop/py_test/log01/test.log",
-				"/C/Users/cienet/Desktop/py_test/log01/boss.log",
-				"/C/Users/cienet/Desktop/py_test/log01/coder.log",
-				"/C/Users/cienet/Desktop/py_test/log01",
-				"/C/Users/cienet/Desktop/test.py",
-				"/C/Users/cienet/Desktop/烽火/系统启动/资料/test.py",
-				"/C/Users/cienet/Desktop/py_test/assets/console.py",
-				"/C/Users/cienet/Desktop/py_test/report.html",
-				"/C/Users/cienet/Desktop/py_test/bbb.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
-				"/c/Python/lib/site-packages/pexpect/__init__.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/BRDGMC/bizBRDGMC.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/hgu_telnet.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Config/site_para.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/absHGUProduct.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
-				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+				"/C/Users/cienet/Desktop/py_test/log01/__init__.py"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 56.0
 			},
 			"find_in_files":
 			{
 				"height": 261.0,
 				"where_history":
 				[
-					""
+					"D:\\hgu_autotestc103\\Service\\Start\\solocase"
 				]
 			},
 			"find_state":
@@ -192,13 +271,42 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"reg",
-					"•",
-					"InternetGatewayDevice",
-					"B/r/r",
-					"B",
-					"InternetGatewayDevice.DeviceInfo.SoftwareVersion",
-					"sublime.set_timeout"
+					"logger.show_opr_one_step",
+					"logger.show_info(AbsInCo('process', 'success'), '配置Internet业务')",
+					"logger.show_info(AbsInCo('process', 'success'), '配置IPTV业务')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'cfg-quit'), 'voip WAN不能获取到IP')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'cfg'), 'voip WAN能获取到IP')",
+					"logger.show_one_step(AbsInCo('process', 'success'), '配置语音业务')",
+					"logger.show_one_step(AbsInCo('process', 'success'), '配置IPTV业务')",
+					"logger.show_one_step(AbsInCo('process', 'success'), '配置Internet业务')",
+					"【check】命令行查询插件进程（按照大部分需求默认出厂一致的插件）（按照大部分需求默认出厂一致的插件），记录ONU从重启到最后一个插件进程（按照大部分需求默认出厂一致的插件）（按照大部分需求默认出厂一致的插件）启动时间",
+					"【check】PC2可播放视频收到组播视频流及查询报文。记录ONU远程重启指令下发到有线收到组播视频流时间",
+					"查看ONU在线状态，并观察指示灯，ONU重启后灯灭，上线后指示灯亮。",
+					"logger.show_opr_one_step",
+					"cfg",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
+					"process",
+					"start_para",
+					"s start_pa",
+					"site_para",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip用户2注册失败')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip用户2注册成功。')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip用户1注册失败')",
+					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip用户1注册成功。')",
+					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置语音业务')",
+					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置IPTV业务')",
+					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置Internet业务')",
+					"检查设备语音是否可以正常拨打和接听电话。（自动化测试需要加入压力验证次数：不少于100次）",
+					"检查设备有线上网是否正常（ping通外网Var不丢包）（ping通外网Var不丢包）；",
+					"平台上能否查找到设备，查询设备是否在线，查看设备版本号是否已更新为新版本，（如果平台可以显示升级状态，查看设备的升级状态是否成功）",
+					"平台上能否查找到设备，查询设备是否在线，查看设备版本号是否已更新为新版本，（如果平台可以显示升级状态，查看设备的升级状态是否成功）。",
+					"bridge",
+					"Start_UPGRD_NRM_RMSCENE_INTERRT_001",
+					"upgrade_flag",
+					"impstartfactory",
+					"acs",
+					"openacs"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -206,6 +314,22 @@
 				"regex": false,
 				"replace_history":
 				[
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置Internet业务')",
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置IPTV业务')",
+					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
+					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置语音业务')",
+					"logger.show_info(AbsInCo('process', 'success'), '配置IPTV业务')",
+					"logger.show_info(AbsInCo('process', 'success'), '配置Internet业务')",
+					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
+					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
+					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip用户2注册失败')",
+					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip用户2注册成功。')",
+					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip用户1注册失败')",
+					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip用户1注册成功。')",
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置语音业务')",
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置IPTV业务')",
+					"logger.show_info(AbsInCo('prepare', 'success'), '配置Internet业务')"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -215,7 +339,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 56.0
 			},
 			"input":
 			{
@@ -247,12 +371,20 @@
 				"selected_items":
 				[
 					[
-						"glob",
-						"Service\\Global.py"
+						"imphost.py",
+						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"acsrecov007.py",
+						"Service\\Start\\solocase\\Start_Reboot_Remote_ACS_RECOV_007.py"
 					],
 					[
 						"bizstart",
 						"Lib\\Service\\Start\\bizStart.py"
+					],
+					[
+						"glob",
+						"Service\\Global.py"
 					],
 					[
 						"abshgu",
@@ -290,8 +422,8 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 266.0,
+			"side_bar_visible": true,
+			"side_bar_width": 416.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -341,17 +473,6 @@
 					}
 				},
 				{
-					"contents": "访问控制：\n1、多台PC接LAN侧，接wifi没有评审过的组网图。\n\n系统启动：\n1、头文件错误镜像、CRC正确文件内容错误的升级镜像、CRC校验错误的镜像。\n2、升级镜像文件存放问题。\n3、预配置问题。\n\n\n1、预配置问题：预配置测试不做自动化。\n2、升级镜像文件存放问题：和TR069一样的目录格式，放到SVN管理。\n3、访问控制多台PC组网图问题：刘培智明天下班前给结论。\n\n\nreset  10\n异常升级 22\nswitch  15\n\n\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.1.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.2.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.3.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.4.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.5.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.6.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.7.BDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BName\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BProtocol\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMinSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMaxSrcaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BSrcmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BSrcport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMinDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BMaxDstaddr\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BDstmask\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.WDstport\nInternetGatewayDevice.Services.X_FIB_COM_FireWall.PortFilter.8.BDstport\n",
-					"file": "/D/desktop/test.py",
-					"file_size": 12203,
-					"file_write_time": 132494732950028521,
-					"settings":
-					{
-						"buffer_size": 11903,
-						"line_ending": "Unix"
-					}
-				},
-				{
 					"file": "/D/desktop/py_test/test002.py",
 					"settings":
 					{
@@ -366,28 +487,6 @@
 					{
 						"buffer_size": 9627,
 						"line_ending": "Unix"
-					}
-				},
-				{
-					"contents": "Searching 716 files for \"•\"\n\nC:\\Users\\cienet\\AppData\\Roaming\\Sublime Text 3\\Packages\\SFTP\\sftp\\commands.py:\n  685              if not is_root(self.remote_path):\n  686                  self.files.insert(1, '..')\n  687:                 self.entries.insert(1, ' • Up a folder')\n  688              self.files.insert(1, '.')\n  689:             self.entries.insert(1, ' • Folder actions')\n  690              self.existing_files = [\n  691               '.', '..']\n  ...\n  738          actions = [\n  739           '' + self.config['host'] + ':' + self.selected_path,\n  740:          ' • Back to list',\n  741:          ' • New file',\n  742:          ' • New folder',\n  743:          ' • Rename',\n  744:          ' • Chmod',\n  745:          ' • Delete']\n  746          if not self.config.get('is_tmp'):\n  747:             actions.insert(4, ' • Download')\n  748          show_qp(self.window, actions, self.modify_dir_action)\n  749  \n  ...\n  855          actions = [\n  856           '' + self.config['host'] + ':' + self.selected_path,\n  857:          ' • Back to list',\n  858:          ' • Edit',\n  859:          ' • Rename',\n  860:          ' • Chmod',\n  861:          ' • Delete']\n  862          if not self.config.get('is_tmp'):\n  863              actions[2] += ' (remote version)'\n  864:             actions.insert(3, ' • Download')\n  865          show_qp(self.window, actions, self.modify_file_action)\n  866  \n\n15 matches in 1 file\n",
-					"settings":
-					{
-						"buffer_size": 1426,
-						"line_ending": "Unix",
-						"name": "Find Results",
-						"scratch": true
-					}
-				},
-				{
-					"contents": "import os\nimport uncompyle6\nyour_directory = 'D:\\\\desktop\\\\sftp'\nfor dirpath, b, filenames in os.walk(your_directory):\n    for filename in filenames:\n        # print(filename)\n        if not filename.endswith('.pyc'):\n            continue\n\n        filepath = dirpath + '\\\\' + filename\n        original_filename = filename.split('.')[0]\n        # print(original_filename)\n        original_filepath = dirpath + '\\\\' + original_filename + '.py'\n        print(original_filepath, filepath)\n        os.system('uncompyle6 -o {} {}'.format(original_filepath, filepath))\n",
-					"file": "/D/desktop/testpyc.py",
-					"file_size": 562,
-					"file_write_time": 132495666877843062,
-					"settings":
-					{
-						"buffer_size": 562,
-						"line_ending": "Unix",
-						"name": "import os"
 					}
 				}
 			],
@@ -459,6 +558,11 @@
 			],
 			"file_history":
 			[
+				"/D/desktop/test.py",
+				"/D/desktop/py_test/t3.py",
+				"/D/desktop/py_test/t2.py",
+				"/D/desktop/py_test/t1.py",
+				"/D/desktop/testpyc.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/openacs/.git/config",
 				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
@@ -716,7 +820,7 @@
 								"translation.y": 150.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 6,
+							"stack_index": 3,
 							"type": "text"
 						},
 						{
@@ -732,8 +836,8 @@
 								"selection":
 								[
 									[
-										987,
-										987
+										400,
+										400
 									]
 								],
 								"settings":
@@ -743,12 +847,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												399,
+												400
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												398,
+												399
+											]
 										},
 										"unmatched":
 										{
@@ -756,6 +875,51 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -765,52 +929,7 @@
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_square_content"
 									],
 									"c_time":
 									[
@@ -865,166 +984,14 @@
 									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 1002.0,
+								"translation.y": 482.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 5,
+							"stack_index": 2,
 							"type": "text"
 						},
 						{
 							"buffer": 2,
-							"file": "/D/desktop/test.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11903,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										11902,
-										10443
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										5,
-										9,
-										21,
-										22,
-										3,
-										118,
-										60,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 163.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
 							"file": "/D/desktop/py_test/test002.py",
 							"semi_transient": false,
 							"settings":
@@ -1036,8 +1003,8 @@
 								"selection":
 								[
 									[
-										0,
-										618344
+										796,
+										796
 									]
 								],
 								"settings":
@@ -1060,11 +1027,26 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
@@ -1075,46 +1057,31 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content"
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content"
 									],
 									"c_time":
 									[
@@ -1171,14 +1138,14 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 235.0,
+								"translation.y": 663.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 4,
+							"buffer": 3,
 							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 							"semi_transient": false,
 							"settings":
@@ -1190,8 +1157,8 @@
 								"selection":
 								[
 									[
-										0,
-										0
+										498,
+										498
 									]
 								],
 								"settings":
@@ -1201,27 +1168,12 @@
 									{
 										"close":
 										{
-											"1":
-											[
-												1283,
-												1284
-											]
 										},
 										"icon":
 										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
-											]
 										},
 										"open":
 										{
-											"1":
-											[
-												887,
-												888
-											]
 										},
 										"unmatched":
 										{
@@ -1229,6 +1181,51 @@
 									},
 									"bracket_highlighter.regions":
 									[
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
@@ -1238,52 +1235,7 @@
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
+										"bh_square_content"
 									],
 									"c_time":
 									[
@@ -1338,353 +1290,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 993.0,
+								"translation.y": 265.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1426,
-								"regions":
-								{
-									"match":
-									{
-										"flags": 112,
-										"regions":
-										[
-											[
-												259,
-												260
-											],
-											[
-												364,
-												365
-											],
-											[
-												577,
-												578
-											],
-											[
-												612,
-												613
-											],
-											[
-												643,
-												644
-											],
-											[
-												676,
-												677
-											],
-											[
-												705,
-												706
-											],
-											[
-												733,
-												734
-											],
-											[
-												832,
-												833
-											],
-											[
-												1042,
-												1043
-											],
-											[
-												1077,
-												1078
-											],
-											[
-												1104,
-												1105
-											],
-											[
-												1133,
-												1134
-											],
-											[
-												1161,
-												1162
-											],
-											[
-												1313,
-												1314
-											]
-										],
-										"scope": ""
-									}
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"default_dir": "C:\\Users\\cienet\\AppData\\Roaming\\Sublime Text 3\\Packages\\SFTP\\sftp",
-									"detect_indentation": false,
-									"line_numbers": false,
-									"output_tag": 1,
-									"result_base_dir": "",
-									"result_file_regex": "^([^ \t].*):$",
-									"result_line_regex": "^ +([0-9]+):",
-									"scroll_past_end": true,
-									"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 597.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/desktop/testpyc.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 562,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										550,
-										550
-									]
-								],
-								"settings":
-								{
-									"auto_name": "import os",
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												559,
-												560
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/round_bracket.png",
-												"region.yellowish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												531,
-												532
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										11,
-										18,
-										59,
-										30,
-										12,
-										103,
-										17,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 3.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1734,7 +1343,7 @@
 				"height": 151.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,667,47,309,944",
+			"position": "0,2,2,-32000,-32000,-1,-1,648,609,290,1506",
 			"project": "",
 			"replace":
 			{

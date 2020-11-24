@@ -23,7 +23,7 @@
     "swallow_startup_errors": true,
 
     //行内显示错误内容
-    "anaconda_linter_phantoms": true,
+    // "anaconda_linter_phantoms": true,
 
 
 }

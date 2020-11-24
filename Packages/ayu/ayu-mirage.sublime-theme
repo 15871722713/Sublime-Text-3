@@ -149,7 +149,7 @@
                 ]
             }
         ],
-        "fg": "#707a8c",
+        "fg": "white",
         "font.bold": false
     },
     {
@@ -190,7 +190,7 @@
                 ]
             }
         ],
-        "fg": "#cbccc6"
+        "fg": "red"
     },
     {
         "class": "sidebar_label",
@@ -224,7 +224,7 @@
                 ]
             }
         ],
-        "fg": "#507a8c80"
+        "fg": "#F0FF8c80"  // ignored files and folders.
     },
     {
         "class": "disclosure_button_control",
@@ -641,7 +641,7 @@
     },
     {
         "class": "tab_label",
-        "fg": "white",
+        "fg": "white",  // 标题栏字体颜色
         "font.italic": false,
         "font.bold": false,
         "font.size": 14
@@ -667,7 +667,7 @@
                 ]
             }
         ],
-        "fg": "#cbccc6"
+        "fg": "white"
     },
     {
         "class": "tab_label",
@@ -900,7 +900,7 @@
             12
         ],
         "layer0.tint": "#232834",
-        "layer0.opacity": 1
+        "layer0.opacity": 1,
     },
     {
         "class": "quick_panel",
@@ -972,16 +972,17 @@
                 "class": "overlay_control"
             }
         ],
-        "fg": "#707a8c",
+        "fg": "white",  // 跳转框字体颜色
         "match_fg": "#ffcc66",
-        "selected_fg": "#cbccc6",
-        "selected_match_fg": "#ffcc66"
+        "selected_fg": "red",
+        "selected_match_fg": "#ffcc66",
+        "font.size": 16
     },
     {
         "class": "quick_panel_path_label",
-        "fg": "#5f6878",
+        "fg": "#57A64A",  // 跳转框路径字体颜色
         "match_fg": "#b6b7b2",
-        "selected_fg": "#5f6878",
+        "selected_fg": "red",
         "selected_match_fg": "#b6b7b2"
     },
     {
