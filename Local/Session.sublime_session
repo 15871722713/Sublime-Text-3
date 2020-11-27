@@ -2,12 +2,12 @@
 	"folder_history":
 	[
 		"/D/hgu_autotestc103",
+		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP",
+		"/D/desktop/sftp",
 		"/D/desktop/baacloud",
 		"/D/desktop/genieacs",
-		"/D/desktop/sftp",
 		"/D/desktop/sftp_backup",
 		"/D/desktop/genieacs-sim",
-		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp",
 		"/D/desktop/py_test",
 		"/D/desktop/Autotest",
@@ -33,7 +33,7 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 139,
+	"last_window_id": 153,
 	"log_indexing": false,
 	"settings":
 	{
@@ -89,10 +89,6 @@
 				"selected_items":
 				[
 					[
-						"pcr",
-						"Package Control: Remove Package"
-					],
-					[
 						"pci",
 						"Package Control: Install Package"
 					],
@@ -109,7 +105,7 @@
 			},
 			"console":
 			{
-				"height": 458.0,
+				"height": 653.0,
 				"history":
 				[
 				]
@@ -125,445 +121,14 @@
 			},
 			"file_history":
 			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
-				"/D/Desktop/sublime_sftp_debug.txt",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_011.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_009.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_007.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_013.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_RANDOM_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_SHORT_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_014.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_015.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_016.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_GEN_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Default_CM_Key_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_FR_RFS_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_FR_RFS_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CM_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CM_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Local_CTC_Key_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_LRest_CTC_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_LRest_CTC_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_MRest_CTC_Time_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_GEN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_GEN_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_Key_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_Remote_CTC_Key_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CM_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CTC_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_APP_CTC_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CM_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_INPLAT_CTC_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CTC_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_CRCERR_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_FNCH_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_HFE_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_NMF_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Local_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Patch_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Safe_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_EPOff_Safe_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_DUPWEB_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_PCRboot_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_SDWP_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_ABNR_Local_SwhWEB_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_ACS_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_Admin_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Local_MTN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBY_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERRT_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Safe_Admin_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_Safe_MTN_001.py",
-				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
-				"/D/hgu_autotestc103/Lib/general/stc/impHost.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/base.py",
-				"/D/hgu_autotestc103/Lib/Service/Start/impStart.py",
-				"/D/hgu_autotestc103/Lib/Service/Start/impParaWork.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_001.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_003.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_004.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_008.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_010.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_012.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_003.py",
-				"/D/hgu_autotestc103/Lib/general/log/bizLog.py",
-				"/D/hgu_autotestc103/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_TR069_001.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py",
 				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
-				"/D/desktop/openacs/.git/config",
-				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
-				"/C/Program Files/Sublime Text 3/sublime.py",
-				"/D/desktop/直真日志/ACSServer.traces",
-				"/D/desktop/直真日志/TR069Adaptor.traces",
-				"/D/desktop/直真日志/ITFService.traces",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
-				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
-				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
-				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
-				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
-				"/D/hgu_autotestc103/Service/Global.py",
-				"/D/desktop/电信直真日志/TR069Adaptor.traces",
-				"/D/desktop/电信直真日志/ACSServer.traces",
-				"/D/desktop/电信直真日志/ITFService.traces",
-				"/D/hgu_autotestc103/sftp-config.json",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
-				"/C/Users/cienet/Desktop/py_test/log01/__init__.py"
-			],
-			"find":
-			{
-				"height": 56.0
-			},
-			"find_in_files":
-			{
-				"height": 261.0,
-				"where_history":
-				[
-					"D:\\hgu_autotestc103\\Service\\Start\\solocase"
-				]
-			},
-			"find_state":
-			{
-				"case_sensitive": false,
-				"find_history":
-				[
-					"logger.show_opr_one_step",
-					"logger.show_info(AbsInCo('process', 'success'), '配置Internet业务')",
-					"logger.show_info(AbsInCo('process', 'success'), '配置IPTV业务')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'cfg-quit'), 'voip WAN不能获取到IP')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'cfg'), 'voip WAN能获取到IP')",
-					"logger.show_one_step(AbsInCo('process', 'success'), '配置语音业务')",
-					"logger.show_one_step(AbsInCo('process', 'success'), '配置IPTV业务')",
-					"logger.show_one_step(AbsInCo('process', 'success'), '配置Internet业务')",
-					"【check】命令行查询插件进程（按照大部分需求默认出厂一致的插件）（按照大部分需求默认出厂一致的插件），记录ONU从重启到最后一个插件进程（按照大部分需求默认出厂一致的插件）（按照大部分需求默认出厂一致的插件）启动时间",
-					"【check】PC2可播放视频收到组播视频流及查询报文。记录ONU远程重启指令下发到有线收到组播视频流时间",
-					"查看ONU在线状态，并观察指示灯，ONU重启后灯灭，上线后指示灯亮。",
-					"logger.show_opr_one_step",
-					"cfg",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
-					"process",
-					"start_para",
-					"s start_pa",
-					"site_para",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip用户2注册失败')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip用户2注册成功。')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry-quit'), 'voip用户1注册失败')",
-					"logger.show_opr_one_step(AbsInCo('prepare', 'qry'), 'voip用户1注册成功。')",
-					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置语音业务')",
-					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置IPTV业务')",
-					"logger.show_one_step(AbsInCo('prepare', 'success'), '配置Internet业务')",
-					"检查设备语音是否可以正常拨打和接听电话。（自动化测试需要加入压力验证次数：不少于100次）",
-					"检查设备有线上网是否正常（ping通外网Var不丢包）（ping通外网Var不丢包）；",
-					"平台上能否查找到设备，查询设备是否在线，查看设备版本号是否已更新为新版本，（如果平台可以显示升级状态，查看设备的升级状态是否成功）",
-					"平台上能否查找到设备，查询设备是否在线，查看设备版本号是否已更新为新版本，（如果平台可以显示升级状态，查看设备的升级状态是否成功）。",
-					"bridge",
-					"Start_UPGRD_NRM_RMSCENE_INTERRT_001",
-					"upgrade_flag",
-					"impstartfactory",
-					"acs",
-					"openacs"
-				],
-				"highlight": true,
-				"in_selection": false,
-				"preserve_case": false,
-				"regex": false,
-				"replace_history":
-				[
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置Internet业务')",
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置IPTV业务')",
-					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
-					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置语音业务')",
-					"logger.show_info(AbsInCo('process', 'success'), '配置IPTV业务')",
-					"logger.show_info(AbsInCo('process', 'success'), '配置Internet业务')",
-					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip WAN不能获取到IP')",
-					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip WAN能获取到IP')",
-					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip用户2注册失败')",
-					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip用户2注册成功。')",
-					"logger.show_info(AbsInCo('prepare', 'qry-quit'), 'voip用户1注册失败')",
-					"logger.show_info(AbsInCo('prepare', 'qry'), 'voip用户1注册成功。')",
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置语音业务')",
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置IPTV业务')",
-					"logger.show_info(AbsInCo('prepare', 'success'), '配置Internet业务')"
-				],
-				"reverse": false,
-				"show_context": true,
-				"use_buffer2": true,
-				"whole_word": false,
-				"wrap": true
-			},
-			"incremental_find":
-			{
-				"height": 56.0
-			},
-			"input":
-			{
-				"height": 71.0
-			},
-			"menu_visible": true,
-			"output.exec":
-			{
-				"height": 427.0
-			},
-			"output.find_results":
-			{
-				"height": 0.0
-			},
-			"output.sftp":
-			{
-				"height": 151.0
-			},
-			"pinned_build_system": "",
-			"replace":
-			{
-				"height": 64.0
-			},
-			"save_all_on_build": true,
-			"select_file":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"imphost.py",
-						"Lib\\general\\stc\\impHost.py"
-					],
-					[
-						"acsrecov007.py",
-						"Service\\Start\\solocase\\Start_Reboot_Remote_ACS_RECOV_007.py"
-					],
-					[
-						"bizstart",
-						"Lib\\Service\\Start\\bizStart.py"
-					],
-					[
-						"glob",
-						"Service\\Global.py"
-					],
-					[
-						"abshgu",
-						"Lib\\general\\util_basic\\absHGUProduct.py"
-					],
-					[
-						"hgutel",
-						"Lib\\general\\hgu_telnet.py"
-					],
-					[
-						"impwe",
-						"Lib\\general\\util_basic\\impWEBChn.py"
-					]
-				],
-				"width": 0.0
-			},
-			"select_project":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"select_symbol":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-				],
-				"width": 0.0
-			},
-			"show_minimap": true,
-			"show_open_files": false,
-			"show_tabs": true,
-			"side_bar_visible": true,
-			"side_bar_width": 416.0,
-			"status_bar_visible": true,
-			"template_settings":
-			{
-			}
-		},
-		"new_window_width": 881.0
-	},
-	"windows":
-	[
-		{
-			"auto_complete":
-			{
-				"selected_items":
-				[
-					[
-						"Im",
-						"ImpStartOther\tclass"
-					],
-					[
-						"type",
-						"type_\tparam"
-					],
-					[
-						"dataw2",
-						"data_wan_conx2\tstatement"
-					]
-				]
-			},
-			"buffers":
-			[
-				{
-					"file": "/D/desktop/py_test/test001.py",
-					"settings":
-					{
-						"buffer_size": 1057,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/bbb.py",
-					"settings":
-					{
-						"buffer_size": 2949,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/test002.py",
-					"settings":
-					{
-						"buffer_size": 618344,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
-					"settings":
-					{
-						"buffer_size": 9627,
-						"line_ending": "Unix"
-					}
-				}
-			],
-			"build_system": "",
-			"build_system_choices":
-			[
-				[
-					[
-						[
-							"Anaconda Python Builder",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
-			],
-			"build_varint": "",
-			"command_palette":
-			{
-				"height": 0.0,
-				"last_filter": "",
-				"selected_items":
-				[
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"pi",
-						"Package Control: Install Package"
-					],
-					[
-						"pacc",
-						"Install Package Control"
-					]
-				],
-				"width": 0.0
-			},
-			"console":
-			{
-				"height": 458.0,
-				"history":
-				[
-				]
-			},
-			"distraction_free":
-			{
-				"menu_visible": true,
-				"show_minimap": false,
-				"show_open_files": false,
-				"show_tabs": false,
-				"side_bar_visible": false,
-				"status_bar_visible": false
-			},
-			"expanded_folders":
-			[
-				"/D/desktop/py_test"
-			],
-			"file_history":
-			[
 				"/D/desktop/test.py",
 				"/D/desktop/py_test/t3.py",
 				"/D/desktop/py_test/t2.py",
 				"/D/desktop/py_test/t1.py",
 				"/D/desktop/testpyc.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
 				"/D/desktop/openacs/.git/config",
 				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
 				"/C/Program Files/Sublime Text 3/sublime.py",
@@ -636,13 +201,335 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"reg",
-					"•",
-					"InternetGatewayDevice",
-					"B/r/r",
-					"B",
-					"InternetGatewayDevice.DeviceInfo.SoftwareVersion",
-					"sublime.set_timeout"
+					"sftp_diff_remote_file",
+					"sftp_upload_file"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 34.0
+			},
+			"input":
+			{
+				"height": 71.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 427.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.sftp":
+			{
+				"height": 151.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
+					[
+						"abshgu",
+						"Lib\\general\\util_basic\\absHGUProduct.py"
+					],
+					[
+						"hgutel",
+						"Lib\\general\\hgu_telnet.py"
+					],
+					[
+						"impwe",
+						"Lib\\general\\util_basic\\impWEBChn.py"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 266.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 881.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"Im",
+						"ImpStartOther\tclass"
+					],
+					[
+						"type",
+						"type_\tparam"
+					],
+					[
+						"dataw2",
+						"data_wan_conx2\tstatement"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "# uncompyle6 version 3.6.4\n# Python bytecode 3.3 (3230)\n# Decompiled from: Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)]\n# Embedded file name: /Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/listeners.py\n# Compiled at: 2015-11-05 02:18:34\n# Size of source mod 2**32: 13010 bytes\nimport sublime\nimport sublime_plugin\nimport shutil\nimport re\nimport time\nimport os\nfrom .config import build_config, find_config, load_config, prepare_server_config, setup_tmp_dir\nfrom .debug import debug_print\nfrom .panel_printer import PanelPrinter\nfrom .commands import SftpCommand\nfrom .paths import dirname\nfrom .views import get_all_views\nfrom .threads import ThreadTracker, HookedThread\n\n\ndef find_window(callback, view):\n    window = view.window()\n    print('listeners:24:window:{}'.format(window))\n    if window is None:\n        windows = sublime.windows()\n        for w in windows:\n            for v in w.views():\n                if v.id() == view.id():\n                    window = w\n                    break\n\n            if window:\n                break\n\n        if not window:\n            if view.size() == 0 and view.name() == '' and view.file_name() is None:\n                return\n            else:\n                sublime.set_timeout(lambda: find_window(callback, view), 200)\n                return\n    return callback(window)\n\n\nclass SftpCloseListener(sublime_plugin.EventListener):\n\n    def on_close(self, view):\n        if view is None or isinstance(view, bool):\n            return\n        else:\n            view.erase_status('sftp_monitor')\n            return\n\n\nclass SftpLoadListener(sublime_plugin.EventListener, SftpCommand):\n\n    def on_load(self, view):\n        if view is None or isinstance(view, bool):\n            return\n        else:\n            settings = view.settings()\n            if settings.get('is_widget'):\n                return\n            was_synced = settings.get('synced')\n            remote_loading = settings.get('remote_loading')\n            settings.set('remote_loading', False)\n            if not remote_loading:\n                settings.set('synced', False)\n            if was_synced and not remote_loading:\n                settings.set('incomplete_sync', None)\n                DoSyncThread(self.extract_settings(settings), view, view.file_name()).start()\n            return\n\n    def on_modified(self, view):\n        if view is None or isinstance(view, bool):\n            return\n        else:\n            settings = view.settings()\n            if settings.get('is_widget'):\n                return\n            else:\n                if not settings.get('incomplete_sync'):\n                    return\n                settings.set('incomplete_sync', None)\n                if settings.get('synced'):\n                    pass\n                return\n            DoSyncThread(self.extract_settings(settings), view, view.file_name()).start()\n            return\n\n    def on_activated(self, view):\n        if view is None or isinstance(view, bool):\n            return\n        else:\n            if view.is_loading():\n                return\n            settings = view.settings()\n            if settings.get('is_widget'):\n                return\n\n            def try_sync(window):\n                ids = [v.id() for v in window.views()]\n                if view.id() not in ids:\n                    settings.set('incomplete_sync', True)\n                    return\n                else:\n                    settings.set('incomplete_sync', None)\n                    DoSyncThread(self.extract_settings(settings), view, view.file_name()).start()\n                    return\n\n            def do_find_window():\n                find_window(try_sync, view)\n\n            if sublime.platform() == 'osx':\n                svn_settings = sublime.load_settings('SFTP.sublime-settings')\n                sync_down_on_open_delay = int(svn_settings.get('osx_sync_down_on_open_delay', 500))\n                sublime.set_timeout(do_find_window, sync_down_on_open_delay)\n            else:\n                do_find_window()\n            return\n\n    def extract_settings(self, settings):\n        output = {}\n        for key in ['is_remote', 'tmp_dir', 'local_path', 'synced']:\n            output[key] = settings.get(key)\n\n        return output\n\n\nclass DoSyncThread(HookedThread):\n\n    def __init__(self, settings, view, path):\n        self.settings = settings\n        self.view = view\n        self.path = path\n        super(DoSyncThread, self).__init__()\n\n    def run(self):\n        settings = self.settings\n        view = self.view\n        path = self.path\n        has_config = bool(find_config(path, True))\n        if settings.get('is_remote') and not has_config:\n            tmp_dir = settings.get('tmp_dir')\n            local_path = settings.get('local_path')\n            try:\n                if os.name == 'nt' and len(tmp_dir) and tmp_dir == '/':\n                    raise OSError('Switched platforms')\n                if os.name != 'nt' and len(tmp_dir) and re.match('^[a-z]:\\\\\\\\', tmp_dir, re.I) is not None:\n                    raise OSError('Switched platforms')\n                if not local_path:\n                    if not os.path.exists(tmp_dir):\n                        os.makedirs(tmp_dir)\n                    remote_name = os.path.basename(tmp_dir.rstrip('/\\\\'))\n                    if remote_name == 'mapped':\n                        return\n                    raw_config = prepare_server_config(remote_name)\n                    config_file = raw_config['file_path']\n                else:\n                    raw_config, config_file = load_config(local_path)\n            except (OSError, IOError):\n                raw_config = None\n\n            if raw_config is None:\n\n                def show_error():\n                    sublime.error_message(\n                        'Sublime SFTP\\n\\nError loading config for remote file - please close and reopen the file')\n                    view.settings().set('is_remote', None)\n                    return\n\n                sublime.set_timeout(show_error, 1)\n                return\n            tmp_dir = setup_tmp_dir(raw_config, tmp_dir)\n            has_config = True\n        if not has_config:\n            return\n        try:\n            config, config_file = load_config(path)\n        except IOError:\n            config = None\n\n        if config is None:\n            return\n        config_dir = dirname(config_file)\n        config = build_config(config, config_dir, config_file, True, skip_settings=True)\n        if not config or not config.get('sync_down_on_open'):\n            return\n        if 'ignore_regex' in config and re.search(config['ignore_regex'], path) is not None:\n            return\n        else:\n            if config.get('name') and not settings.get('is_remote'):\n                return\n            if settings.get('synced'):\n                return\n            params = {'paths': [\n                path],\n                'ignore_delete': True,\n                'on_complete': 'open_refresh',\n                'reset_lcd': dirname(dirname(config.get('local_dir'))),\n                'synchronous': True}\n\n            def execute_sync():\n                if view.settings().get('synced'):\n                    return\n\n                def do_real_sync(window):\n                    debug_print('SFTP: Starting Sync Down on Open', 2)\n                    window.run_command('sftp_sync_down', params)\n\n                find_window(do_real_sync, view)\n                view.settings().set('synced', True)\n\n            sublime.set_timeout(execute_sync, 300)\n            return\n\n\nclass DelayedDeleteThread(HookedThread):\n\n    def __init__(self, tmp_dir, window_id):\n        self.window_id = window_id\n        self.tmp_dir = tmp_dir\n        super(DelayedDeleteThread, self).__init__()\n\n    def run(self):\n        last_thread = ThreadTracker.get_last_added(self.window_id)\n        if last_thread:\n            last_thread.join()\n        if os.path.exists(self.tmp_dir):\n            try:\n                shutil.rmtree(self.tmp_dir)\n            except WindowsError:\n                pass\n\n\nclass SftpAutoUploadListener(sublime_plugin.EventListener, SftpCommand):\n\n    def on_close(self, view):\n        if view is None or isinstance(view, bool):\n            return\n        else:\n            settings = view.settings()\n            if settings.get('is_remote') and settings.get('tmp_dir'):\n                tmp_dir = settings.get('tmp_dir')\n                for _view in get_all_views(sublime.active_window()):\n                    if _view.id() == view.id():\n                        continue\n                    if _view.settings().get('tmp_dir') == tmp_dir:\n                        return\n\n                DelayedDeleteThread(dirname(tmp_dir), sublime.active_window().id()).start()\n            return\n\n    def on_post_save(self, view):\n        view_settings = view.settings()\n        print('listeners:255:on_post_save', 2)\n        if view_settings.get('sftp_auto_save'):\n            view_settings.erase('sftp_auto_save')\n            return\n\n        def do_upload():\n            initial_dupes = view_settings.get('sftp_duplicate_views', 0) or 0\n            if initial_dupes > 0:\n                if (view_settings.get('sftp_duplicate_views', 0) or 0) > 0:\n                    view_settings.set('sftp_duplicate_views', view_settings.get('sftp_duplicate_views') - 1)\n                    return\n            else:\n                window = view.window()\n                if window is None:\n                    window = sublime.active_window()\n                if window is not None:\n                    for other_view in window.views():\n                        if other_view.id() == view.id():\n                            continue\n                        if other_view.file_name() == view.file_name():\n                            view_settings.set('sftp_duplicate_views',\n                                              (view_settings.get('sftp_duplicate_views', 0) or 0) + 1)\n                            continue\n\n                path = self.get_path(view=view)\n                print('listeners:279:path:{}'.format(path), 2)\n                if not path:\n                    return\n                if not self.has_config(path):\n                    print('listeners:283:if;{}'.format(self.has_config(path), 2))\n                    return\n                else:\n                    print('listeners:284', 2)\n                    quiet = True\n                    if os.path.basename(view.file_name()) in ('sftp-config.json', 'sftp-settings.json'):\n                        quiet = False\n                    config = self.get_config(path, quiet=quiet)\n                    if not config or not config.get('upload_on_save'):\n                        return\n                    if config.get('ignore_regex') and re.search(config.get('ignore_regex'), path) is not None:\n                        debug_print('SFTP: Ignoring file save event due to ignore_regex', 2)\n                        return\n                    params = {'paths': [path]}\n                    if view_settings.get('is_remote') and view_settings.get('tmp_dir'):\n                        params['reset_lcd'] = dirname(dirname(view_settings.get('tmp_dir')))\n\n                    def execute_upload(window):\n                        print('listeners:302:execute_upload:params:{}'.format(params))\n                        window.run_command('sftp_upload_file', params)\n\n                    print('listeners:305')\n\n                    def execute_diff(window):\n                        window.run_command('sftp_diff_remote_file', params)\n                    a = find_window(execute_diff, view)\n\n                    print('listeners:311:diff:{}'.format(a))\n                    find_window(execute_upload, view)\n                    return\n\n        sublime.set_timeout(do_upload, 10)\n\n\nclass SftpAutoConnectListener(sublime_plugin.EventListener, SftpCommand):\n\n    def on_post_save(self, view):\n        view_settings = view.settings()\n        if not view_settings.get('sftp_new_server'):\n            return\n        else:\n            view_settings.set('sftp_new_server', None)\n\n            def connect():\n                if view.window():\n                    view.window().run_command('sftp_browse_server', {'name': os.path.basename(view.file_name())})\n\n            sublime.set_timeout(connect, 500)\n            return\n\n\nclass SftpFocusListener(sublime_plugin.EventListener, SftpCommand):\n\n    def __init__(self):\n        self.keys = []\n        self.last_query = 0\n\n    def check_keys(self, window):\n        if window is None:\n            return\n        else:\n            if self.keys[(-1)] == 'panel_visible':\n                PanelPrinter.get(window.id()).visible = False\n            return\n\n    def on_query_context(self, view, key, operator, operand, match_all):\n        if view is None or isinstance(view, bool) or view.window() is None:\n            return\n        else:\n            printer = PanelPrinter.get(view.window().id())\n            if not hasattr(printer, 'panel') or not printer.panel:\n                return\n            if time.time() <= self.last_query + 1:\n                self.keys.append(key)\n            else:\n                sublime.set_timeout(lambda: self.check_keys(view.window()), 100)\n                self.keys = [key]\n            self.last_query = time.time()\n            return\n\n    def on_modified(self, view):\n        if view is None or view.window() is None:\n            return\n        else:\n            printer = PanelPrinter.get(view.window().id())\n            if not printer.visible:\n                return\n            if hasattr(printer, 'panel') and printer.panel and printer.panel.id() == view.id():\n                printer.visible = True\n                return\n            if view.settings().get('is_widget') and view.buffer_id() >= 3 and view.buffer_id() <= 19:\n                printer.visible = False\n            return\n\n    def on_activated(self, view):\n        if view is None or view.window() is None:\n            return\n        else:\n            printer = PanelPrinter.get(view.window().id())\n            if not printer.visible:\n                return\n            if hasattr(printer, 'panel') and printer.panel and printer.panel.id() == view.id():\n                printer.visible = True\n                return\n            if view.settings().get('is_widget') and view.buffer_id() >= 3 and view.buffer_id() <= 19:\n                printer.visible = False\n            return\n",
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/listeners.py",
+					"file_size": 14844,
+					"file_write_time": 132509316975467389,
+					"settings":
+					{
+						"buffer_size": 14453,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Context.sublime-menu",
+					"settings":
+					{
+						"buffer_size": 1613,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# uncompyle6 version 3.6.4\n# Python bytecode 3.3 (3230)\n# Decompiled from: Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)]\n# Embedded file name: /Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py\n# Compiled at: 2015-11-05 03:18:03\n# Size of source mod 2**32: 33345 bytes\nimport sublime, os, tempfile, time, datetime, shutil, re, json\ntry:\n    basestring\n    str_cls = unicode\nexcept NameError:\n    basestring = str\n    str_cls = str\n\nif os.name != 'nt':\n    import unicodedata\nfrom .debug import debug_print\nfrom .errors import CancelledError, ConnectionError, DisconnectionError, NotFoundError, PermissionError\nfrom .paths import canonicalize, dirname, fix_windows_path, ignore_paths, is_dir, local_to_remote\nfrom .panel_printer import ProgressThread\nfrom .times import timestamp_to_string\nfrom .threads import HookedThread\n\ndef keepaliveize(fn):\n\n    def handler(self, *args, **kwargs):\n        set_keepalive = self.clear_keepalive()\n        try:\n            result = fn(self, *args, **kwargs)\n        except Exception:\n            if set_keepalive:\n                self.set_keepalive()\n            raise\n\n        if set_keepalive:\n            self.set_keepalive()\n        return result\n\n    return handler\n\n\nclass CloneThread(HookedThread):\n\n    def __init__(self, parent):\n        self.parent = parent\n        self.clone = None\n        self.end = False\n        super(CloneThread, self).__init__()\n        return\n\n    def run(self):\n        try:\n            args = []\n            self.clone = self.parent.clone()\n            while not self.end:\n                args = self.parent.pop_list_queue()\n                if args:\n                    success, paths = self.clone.list(*args)\n                    self.parent.push_list_result(args[0], success, paths)\n                    self.parent.clear_list_running(args[0])\n                else:\n                    time.sleep(0.1)\n\n        except ConnectionError as e:\n            pass\n        except OSError as e:\n            if isinstance(e, (CancelledError, DisconnectionError)):\n                if args:\n                    self.parent.clear_list_running(args[0])\n                    self.parent.list_queue.append(args)\n                return\n            raise\n\n\nclass FileTransfer(object):\n\n    def __init__(self, printer, user=None, host=None, port=None, password=None, remote_time_offset=None, **kwargs):\n        self.ibm_ftp = False\n        self.connected = False\n        self.dir = None\n        self.local_dir = None\n        self.printer = printer\n        self.shown_locale_set_error = False\n        self.port = port\n        self.host = host\n        self.user = user\n        self.password = password\n        self.timeout = kwargs['timeout']\n        self.remote_locale = kwargs['remote_locale']\n        self.month_info = {'C': {'jan': 1, \n               'feb': 2, \n               'mar': 3, \n               'apr': 4, \n               'may': 5, \n               'jun': 6, \n               'jul': 7, \n               'aug': 8, \n               'sep': 9, \n               'oct': 10, \n               'nov': 11, \n               'dec': 12}}\n        self.clock_info = {'C': {'am': 0, \n               'pm': 12}}\n        if self.remote_locale != 'C':\n            try:\n                months_file = os.path.join(sublime.packages_path(), 'SFTP', 'lang', 'months.json')\n                with open(months_file, 'r') as (f):\n                    self.month_info = json.load(f)\n                if self.remote_locale not in self.month_info:\n                    remote_locale = self.remote_locale\n\n                    def show_locale_error():\n                        sublime.error_message('Sublime SFTP\\n\\nThe remote_locale \"%s\" is not defined in %s' % (\n                         remote_locale, months_file))\n\n                    sublime.set_timeout(show_locale_error, 1)\n                    self.remote_locale = 'C'\n            except ValueError as e:\n                exception = str(e)\n\n                def show_parse_error():\n                    sublime.error_message('Sublime SFTP\\n\\nError parsing %s:\\n%s' % (\n                     months_file, exception))\n\n                sublime.set_timeout(show_parse_error, 1)\n\n            try:\n                clock_file = os.path.join(sublime.packages_path(), 'SFTP', 'lang', 'clock.json')\n                with open(clock_file, 'r') as (f):\n                    self.clock_info = json.load(f)\n            except ValueError as e:\n                exception = str(e)\n\n                def show_parse_error2():\n                    sublime.error_message('Sublime SFTP\\n\\nError parsing %s:\\n%s' % (\n                     clock_file, exception))\n\n                sublime.set_timeout(show_parse_error2, 1)\n\n        self.remote_encoding = kwargs['remote_encoding']\n        self.keepalive = 0\n        if kwargs.get('keepalive'):\n            self.keepalive = kwargs['keepalive']\n        self.keepalive_at = 0\n        offset = kwargs.get('remote_time_offset_in_hours')\n        if isinstance(offset, basestring):\n            offset = int(offset)\n        if offset is not None:\n            offset *= -3600\n        if offset is None and remote_time_offset is not None:\n            offset = remote_time_offset\n        self.remote_time_offset = offset\n        self.preserve_modification_times = kwargs.get('preserve_modification_times', False)\n        self.extra_list_connections = kwargs.get('extra_list_connections')\n        self.clones = []\n        self.clone_threads = []\n        self.list_queue = []\n        self.list_results = []\n        self.list_args = []\n        self.list_paths = []\n        self.list_running_paths = []\n        return\n\n    def clone(self):\n        kwargs = self.kwargs.copy()\n        kwargs['keepalive'] = 0\n        debug_print('SFTP: Cloning connection for recursive remote listing', 2)\n        clone = self.__class__(self.printer, self.user, self.host, self.port, self.password, self.remote_time_offset, **kwargs)\n        self.clones.append(clone)\n        clone.connect(quiet=True)\n        return clone\n\n    def debug(self, debug):\n        pass\n\n    def clear_keepalive(self):\n        if not self.keepalive:\n            return\n        should_set = False\n        if self.keepalive_at < int(time.time()) + 1000000 - self.keepalive - 5:\n            should_set = True\n            debug_print('SFTP: Clearing keepalive', 2)\n        self.keepalive_at = int(time.time()) + 1000000\n        return should_set\n\n    def set_keepalive(self):\n        if not self.keepalive:\n            return\n        keepalive_at = int(time.time()) + self.keepalive - 1\n        debug_print('SFTP: Setting keepalive to ' + str(keepalive_at), 2)\n        self.keepalive_at = keepalive_at\n\n        def perform_keepalive():\n            if int(time.time()) < self.keepalive_at:\n                return\n            try:\n                self.do_keepalive()\n                self.set_keepalive()\n            except OSError:\n                self.close(True)\n\n        sublime.set_timeout(perform_keepalive, self.keepalive * 1000)\n\n    def do_keepalive(self):\n        pass\n\n    def connect(self):\n        pass\n\n    def close(self, disconnected=False):\n        pass\n\n    def decode(self, string):\n        if isinstance(string, str_cls):\n            return string\n        try:\n            output = str_cls(string, self.remote_encoding, errors='strict')\n        except UnicodeDecodeError:\n            self.remote_encoding = 'cp1252'\n            output = str_cls(string, self.remote_encoding)\n\n        return output\n\n    def encode(self, string):\n        if not isinstance(string, str_cls):\n            return string\n        return string.encode(self.remote_encoding)\n\n    def determine_time_offset(self, path_map, config):\n        if self.remote_time_offset is not None:\n            if self.remote_time_offset is False:\n                return 0\n            return self.remote_time_offset\n        else:\n            old_pwd = self.pwd()\n            local_root = list(path_map.keys())[0]\n            remote_root = config.get('initial_remote_dir')\n            self.cd(remote_root)\n            tmp_dir = os.path.join(tempfile.gettempdir(), 'sublime-sftp-offset-') + str(int(time.time()))\n            tmp_dir = canonicalize(tmp_dir, 'local')\n            if not os.path.exists(tmp_dir):\n                os.makedirs(tmp_dir)\n            tmp_file = canonicalize(tmp_dir, 'local') + '__sublime_sftp_offset'\n            path_map = {tmp_dir: remote_root}\n            f = open(tmp_file, 'w')\n            f.write('Sublime SFTP Offset Detection Dummy File')\n            f.close()\n            self.remote_time_offset = False\n            try:\n                success, result = self.put(tmp_file, path_map, quiet=True)\n                if not success:\n                    raise PermissionError('Permission denied')\n                files = self.ls(path_map, config=config)\n                remote_tmp_file = local_to_remote(tmp_file, path_map, self.remote_encoding)\n                self.rm(remote_tmp_file, path_map, quiet=True)\n                for file in files:\n                    if file[0] == '__sublime_sftp_offset':\n                        self.remote_time_offset = int(time.time() - file[1])\n                        break\n\n                debug_print('SFTP Remote time offset: %s' % str(self.remote_time_offset))\n            except PermissionError:\n                self.printer.write('\\nUnable to determine remote time offset since \"%s\" is not writable. Please set the \"remote_time_offset_in_hours\" setting in sftp-config.json for sync commands to work properly.' % remote_root, key='offset_priv', finish=True)\n                self.remote_time_offset = 0\n\n            self.cd(old_pwd)\n            self.lcd(local_root)\n            if os.path.exists(tmp_dir):\n                shutil.rmtree(tmp_dir)\n            return self.remote_time_offset\n\n    def cd(self, dir):\n        pass\n\n    def lcd(self, dir):\n        pass\n\n    def cwd(self, *args, **kwargs):\n        return [\n         True, self.pwd()]\n\n    def get(self, remote_files, path_map, quiet=False, **kwargs):\n        pass\n\n    def handle_get_dirs(self, file, remote_file, single_file):\n        if not is_dir(file):\n            file_dir = dirname(file)\n            remote_file_dir = dirname(remote_file)\n        else:\n            file_dir = file\n            remote_file_dir = remote_file\n        local_dir = canonicalize(file_dir, 'local')\n        remote_dir = canonicalize(remote_file_dir, 'remote')\n        if local_dir != self.lpwd():\n            try:\n                self.lcd(local_dir)\n                if file_dir == file:\n                    self.printer.write('\\nFolder \"%s\" already exists' % local_dir)\n            except NotFoundError as e:\n                os.makedirs(local_dir)\n                self.printer.write('\\nCreating folder \"%s\" ... success' % local_dir)\n                self.lcd(local_dir)\n\n        else:\n            if file_dir == file:\n                self.printer.write('\\nFolder \"%s\" already exists' % local_dir)\n            if remote_dir != self.pwd():\n                try:\n                    self.cd(remote_dir)\n                except (PermissionError, NotFoundError) as e:\n                    self.printer.write('\\nChanging to remote folder \"%s\" ... failure (%s)' % (remote_dir, str(e)))\n                    if single_file:\n                        self.printer.error(e)\n                    return (True, True)\n\n            if remote_dir == remote_file:\n                return (False, True)\n            return (False, False)\n\n    def handle_put_dirs(self, file, remote_file, chmod_dirs, single_file):\n        if os.path.isdir(file):\n            try:\n                self.mkdir(remote_file, chmod_dirs)\n                return (False, True)\n            except PermissionError as e:\n                self.printer.write('\\nCreating remote folder \"%s\" ... failure (%s)' % (remote_file, str(e)))\n                if single_file:\n                    self.printer.error(e)\n                return (True, True)\n\n        local_dir = canonicalize(dirname(file), 'local')\n        remote_dir = canonicalize(dirname(remote_file), 'remote')\n        if local_dir != self.lpwd():\n            self.lcd(local_dir)\n        if remote_dir != self.pwd():\n            try:\n                try:\n                    self.cd(remote_dir)\n                except NotFoundError:\n                    self.mkdir(remote_dir, chmod_dirs)\n                    self.cd(remote_dir)\n\n            except PermissionError as e:\n                self.printer.write('\\nChanging to remote folder \"%s\" ... failure (%s)' % (remote_dir, str(e)))\n                if single_file:\n                    self.printer.error(e)\n                return (True, True)\n\n        return (False, False)\n\n    def handle_rm_dirs(self, file, remote_file, single_file):\n        remote_dir = canonicalize(dirname(remote_file), 'remote')\n        if remote_dir != self.pwd():\n            try:\n                self.cd(remote_dir)\n            except NotFoundError:\n                return (False, True)\n            except PermissionError:\n                self.printer.write('\\nChanging to remote folder \"%s\" ... failure' % remote_dir)\n                return (True, True)\n\n        return (False, False)\n\n    def pop_list_queue(self):\n        try:\n            self.list_running_paths.append(self.list_queue[0][0])\n            return self.list_queue.pop(0)\n        except IndexError:\n            return\n\n        return\n\n    def clear_list_running(self, path):\n        try:\n            self.list_running_paths.remove(path)\n        except ValueError:\n            pass\n\n    def push_list_result(self, remote_dir, success, paths, include_remote_dir=False):\n        self.list_results.append([remote_dir, success, paths])\n        if not success:\n            return\n        for path in paths:\n            if path[0] == '.':\n                path[0] = ''\n            full_dir_path = '/'.join([remote_dir, path[0]]).replace('//', '/')\n            if not include_remote_dir and full_dir_path == remote_dir:\n                continue\n            self.list_paths.append([full_dir_path, path[1]])\n            if full_dir_path == remote_dir:\n                continue\n            if full_dir_path[(-1)] == '/':\n                args = [\n                 full_dir_path]\n                args.extend(self.list_args)\n                self.list_queue.append(args)\n                continue\n\n    @keepaliveize\n    def list(self, remote_dir, path_map, include_self=True, ignore_regex=None, quiet=False, config=None, skip_symlinks=True, **kwargs):\n        remote_dir = canonicalize(remote_dir, 'remote')\n        if remote_dir != self.pwd():\n            try:\n                self.cd(remote_dir)\n            except (PermissionError, NotFoundError) as e:\n                if not quiet:\n                    self.printer.write('\\nChanging to remote folder \"%s\" ... failure (%s)' % (remote_dir, str(e)))\n                    self.printer.error(e)\n                return [False, str(e)]\n\n        try:\n            paths = self.ls(path_map, include_self, config=config, skip_symlinks=skip_symlinks)\n        except (PermissionError, NotFoundError) as e:\n            if not quiet:\n                self.printer.write('\\nListing remote folder \"%s\" ... failure (%s)' % (remote_dir, str(e)))\n                self.printer.error(e)\n            return [False, str(e)]\n        except UnicodeDecodeError:\n            if not quiet:\n                self.printer.write('\\nListing remote folder \"%s\" ... failure (Encoding error)' % remote_dir)\n                self.printer.error('Encoding error')\n            raise\n\n        paths, unignored, ignored = ignore_paths(paths, {'ignore_regex': ignore_regex})\n        return [\n         True, paths]\n\n    @keepaliveize\n    def listr(self, remote_dir, path_map, include_self=True, ignore_regex=None, quiet=False, skip_symlinks=True, **kwargs):\n        remote_dir = canonicalize(remote_dir, 'remote')\n        for i in range(self.extra_list_connections):\n            clone_thread = CloneThread(self)\n            self.clone_threads.append(clone_thread)\n            clone_thread.start()\n\n        success, result = self.list(remote_dir, path_map, include_self=include_self, ignore_regex=ignore_regex, quiet=quiet, skip_symlinks=skip_symlinks)\n        if not success:\n            return [success, result]\n        self.list_args = [path_map, False, ignore_regex, quiet, skip_symlinks]\n        self.push_list_result(remote_dir, success, result, True)\n        while True:\n            if not len(self.list_queue) and not len(self.list_running_paths):\n                break\n            args = self.pop_list_queue()\n            if args:\n                success, paths = self.list(*args)\n                self.push_list_result(args[0], success, paths)\n                self.clear_list_running(args[0])\n            else:\n                time.sleep(0.1)\n\n        for result in self.list_results:\n            if not result[1]:\n                self.printer.write('\\nListing remote folder \"%s\" ... failure (%s)' % (result[0], result[2]))\n                continue\n\n        output = sorted(self.list_paths)\n        for thread in self.clone_threads:\n            thread.end = True\n\n        for clone in self.clones:\n            debug_print('SFTP: Closing cloned connection', 2)\n            clone.close()\n\n        self.clones = []\n        self.clone_threads = []\n        self.list_queue = []\n        self.list_results = []\n        self.list_args = []\n        self.list_paths = []\n        self.list_running_paths = []\n        return [\n         True, output]\n\n    def llist(self, local_dir, path_map, include_self=True, ignore_regex=None, quiet=False, **kwargs):\n        try:\n            local_dir = canonicalize(local_dir, 'local')\n            paths = self.lls(local_dir, include_self)\n            paths, unignored, ignored = ignore_paths(paths, {'ignore_regex': ignore_regex})\n            return [\n             True, paths]\n        except NotFoundError as e:\n            return [\n             False, str(e)]\n\n    def llistr(self, local_dir, path_map, include_self=True, ignore_regex=None, quiet=False, **kwargs):\n        local_dir = canonicalize(local_dir, 'local')\n        success, result = self.llist(local_dir, path_map, include_self=include_self, ignore_regex=ignore_regex, quiet=quiet)\n        if not success:\n            return [success, result]\n        output = []\n        for path in result:\n            if path[0] == '.':\n                path[0] = ''\n            full_dir_path = os.path.join(local_dir, path[0])\n            output.append([full_dir_path, path[1]])\n            if full_dir_path == local_dir:\n                continue\n            if path[0][(-1)] == '/' or path[0][(-1)] == '\\\\':\n                success, result = self.llistr(full_dir_path, path_map, include_self=False, ignore_regex=ignore_regex, quiet=quiet)\n                if success:\n                    output.extend(result)\n                else:\n                    if quiet:\n                        self.printer.write('\\nListing local folder \"%s\" ... failure (%s)' % (full_dir_path, result))\n                    else:\n                        continue\n\n        return [\n         True, output]\n\n    def ls(self, path_map, include_self=True, thread=None, config=None):\n        pass\n\n    def lls(self, local_dir, include_self=True):\n        files = []\n        if not os.path.exists(local_dir):\n            raise NotFoundError('Folder not found')\n        if include_self:\n            files.append(['.', int(os.lstat(local_dir)[8])])\n        for file in os.listdir(local_dir):\n            if os.name != 'nt':\n                file = unicodedata.normalize('NFC', file)\n            full_path = os.path.join(local_dir, file)\n            path = file\n            if os.path.isdir(full_path):\n                path = canonicalize(path, 'local')\n            timestamp = int(os.lstat(full_path)[8])\n            files.append([path, timestamp])\n\n        files = sorted(files, key=lambda ar: ar[0].lower())\n        return files\n\n    def make_absolute_dir(self, dir, type):\n        dir_prefix = self.pwd() if type == 'remote' else self.lpwd()\n        if type == 'local' and os.name == 'nt':\n            if not re.match('[A-Za-z]:\\\\\\\\|\\\\\\\\\\\\\\\\', dir):\n                dir = dir_prefix + dir\n        else:\n            if dir[0] != '/' and re.match('[A-Za-z]:\\\\\\\\', dir) is None:\n                dir = dir_prefix + dir\n            return canonicalize(dir, type)\n\n    def mkdir(self, dir, chmod_dirs=None, **kwargs):\n        pass\n\n    def mv(self, names, quiet=False, **kwargs):\n        pass\n\n    def put(self, files, path_map, chmod_files=None, chmod_dirs=None, quiet=False, **kwargs):\n        pass\n\n    def pwd(self):\n        pass\n\n    def lpwd(self):\n        pass\n\n    def rm(self, remote_files, path_map, quiet=False, **kwargs):\n        pass\n\n    def lrm(self, local_files, path_map, quiet=False, **kwargs):\n        if not isinstance(local_files, list):\n            local_files = [\n             local_files]\n        error = False\n        single_file = len(local_files) == 1\n        for local_file in local_files:\n            if os.path.isdir(local_file):\n                sub_files = [os.path.join(local_file, sub_file) for sub_file in os.listdir(local_file)]\n                self.lrm(sub_files, path_map)\n            if not quiet:\n                progress = ProgressThread(self.printer, '\\nDeleting local \"%s\"' % local_file)\n            try:\n                if os.path.isdir(local_file):\n                    os.rmdir(local_file)\n                else:\n                    os.unlink(local_file)\n            except OSError:\n                message = 'Permission denied'\n                if not quiet:\n                    progress.stop('failure (%s)' % message)\n                    progress.join()\n                if single_file:\n                    self.printer.error(message)\n                error = True\n                continue\n\n            if not quiet:\n                progress.stop('success')\n                progress.join()\n                continue\n\n        result = None\n        if error and not quiet and not single_file:\n            string = 'One or more errors occured while removing files'\n            result = string\n            self.printer.write('\\n' + string)\n            self.printer.error(string)\n        return [\n         not error, result]\n\n    def encourage_report(self, popup_message, log_message):\n        timestamp = timestamp_to_string(time.time(), '%Y-%m-%d %H:%M:%S\\n')\n        log_file_path = os.path.join(sublime.packages_path(), 'User', 'SFTP.errors.log')\n        send_log_path = log_file_path\n        with open(log_file_path, 'ab') as (f):\n            f.write(timestamp.encode('utf-8'))\n            f.write(log_message.encode('utf-8'))\n\n        def notify_parse_error():\n            sublime.error_message('Sublime SFTP\\n\\n%s, please send the file %s to support@wbond.net' % (\n             popup_message, send_log_path))\n            sublime.active_window().run_command('open_file', {'file': fix_windows_path(send_log_path)})\n\n        sublime.set_timeout(notify_parse_error, 1)\n\n    def parse_month(self, month, lines):\n        try:\n            if not re.match('^\\\\d+$', month):\n                month = month.strip(' \\t.').lower()\n                if month not in self.month_info[self.remote_locale]:\n                    raise ValueError('')\n                month = self.month_info[self.remote_locale][month]\n            return str(month)\n        except ValueError:\n            popup_message = 'There was an error parsing the month \"%s\" with the remote_locale \"%s\". Please check your \"remote_locale\" setting.\\n\\nIf you continue to have trouble' % (\n             month, self.remote_locale)\n            indented_lines = ['  ' + l for l in lines]\n            log_message = '%s\\n%s\\n' % (popup_message, '\\n'.join(indented_lines))\n            self.encourage_report(popup_message, log_message)\n            raise ConnectionError('Error parsing remote folder listing')\n\n    def parse_date(self, date, lines, format='%Y-%m-%d %H:%M'):\n        try:\n            timestamp = datetime.datetime.strptime(date, format)\n        except ValueError:\n            popup_message = 'There was an error parsing the date \"%s\" with the remote_locale \"%s\". Please check your \"remote_locale\" setting.\\n\\nIf you continue to have trouble' % (\n             date, self.remote_locale)\n            indented_lines = ['  ' + l for l in lines]\n            log_message = '%s\\n%s\\n' % (popup_message, '\\n'.join(indented_lines))\n            self.encourage_report(popup_message, log_message)\n            raise ConnectionError('Error parsing remote folder listing')\n\n        return timestamp\n\n    def parse_ls(self, lines, offset, include_self, skip_symlinks):\n        output = []\n        vshell_sftp_regex = '^(?:\\\\s*\\\\d+\\\\s+([^ ]+)\\\\s+(\\\\d+),\\\\s+(\\\\d+)\\\\s+(\\\\d{2}:\\\\d{2})\\\\s+(.*)|\\\\s*0\\\\s+([A-Z]/))$'\n        data_set = None\n        for line in lines:\n            line = line.lstrip()\n            line = line.rstrip('\\n\\r')\n            if not line == 'ls':\n                if line == 'ls -la':\n                    continue\n                if self.ibm_ftp:\n                    if data_set is None:\n                        if line.find('Dsname') != -1:\n                            data_set = False\n                        else:\n                            data_set = True\n                        continue\n                    if data_set:\n                        parts = re.split('\\\\s+', line, maxsplit=9)\n                        file = parts[0]\n                        if len(parts) > 1:\n                            date = ('%s %s' % (parts[3], parts[4])).replace('/', '-')\n                            timestamp = self.parse_date(date, lines)\n                        else:\n                            timestamp = int(time.time())\n                            output.append([file, timestamp])\n                            continue\n                    else:\n                        parts = re.split('\\\\s+', line, maxsplit=8)\n                        file = parts[7]\n                        if file.find('.') != -1:\n                            prefix = file[:file.find('.')]\n                            for entry in output:\n                                if entry[0] == prefix:\n                                    continue\n                                    continue\n\n                            file = prefix\n                        date = parts[3].replace('/', '-') + ' 00:00'\n                        timestamp = self.parse_date(date, lines)\n                else:\n                    if re.search(vshell_sftp_regex, line) is not None:\n                        match = re.search(vshell_sftp_regex, line)\n                        parts = list(match.groups())\n                        file = parts[4]\n                        if parts[0] is None and parts[5] is not None:\n                            continue\n                        if not file == '../':\n                            if not include_self and file == './':\n                                continue\n                            if file == './':\n                                file = '.'\n                            month = parts[0]\n                            day = parts[1]\n                            year = parts[2]\n                            _time = parts[3]\n                            if len(day) == 1:\n                                day = '0' + day\n                            if len(_time) == 4:\n                                _time = '0' + _time\n                            month = self.parse_month(month, lines)\n                            date = '%s-%s-%s %s' % (year, month, day, _time)\n                            timestamp = self.parse_date(date, lines)\n                    else:\n                        if re.match('[0-9]', line) is not None:\n                            parts = re.split('\\\\s+', line, maxsplit=3)\n                            file = parts[3]\n                            if parts[2] == '<DIR>':\n                                file += '/'\n                            parts[1] = parts[1].replace('.', '').lower()\n                            if self.remote_locale in self.clock_info:\n                                for suffix in self.clock_info[self.remote_locale]:\n                                    new_part = parts[1].replace(suffix, '')\n                                    if new_part != parts[1]:\n                                        hours, minutes = new_part.split(':')\n                                        adjustment = self.clock_info[self.remote_locale][suffix]\n                                        if hours == '12':\n                                            hours = str(adjustment)\n                                        else:\n                                            hours = str(int(hours) + int(adjustment))\n                                        if len(hours) < 2:\n                                            hours = '0' + str(hours)\n                                        parts[1] = '%s:%s' % (hours, minutes)\n                                        continue\n\n                            month, day, year = parts[0].split('-')\n                            if len(str(year)) == 2:\n                                if int(year) > int(datetime.datetime.now().strftime('%y')):\n                                    year = '19' + year\n                                else:\n                                    year = '20' + year\n                            date = '%s-%s-%s %s' % (year, month, day, parts[1])\n                            timestamp = self.parse_date(date, lines)\n                        else:\n                            if re.match('total \\\\d+', line, re.I) is not None:\n                                continue\n                            match = re.match('^([^ ]+)\\\\s+(\\\\d+)\\\\s+(.*?)\\\\s+(.*?)\\\\s+(\\\\d+)\\\\s+([^\\\\d\\\\s]+)\\\\s+(\\\\d+)\\\\s+((?:19|20)\\\\d{2}\\\\s?|[012]?\\\\d:\\\\d{2})\\\\s(.+)$', line)\n                            if match is None:\n                                match = re.match('^([^ ]+)\\\\s+(\\\\d+)\\\\s+(.*?)\\\\s+(.*?)\\\\s+(\\\\d+)\\\\s+(\\\\d+)\\\\s+([^\\\\d\\\\s]+)\\\\s+((?:19|20)\\\\d{2}\\\\s?|[012]?\\\\d:\\\\d{2})\\\\s(.+)$', line)\n                            if match is None:\n                                match = re.match('^([^ ]+)\\\\s+(\\\\d+)\\\\s+(.*?)\\\\s+(.*?)\\\\s+(\\\\d+)\\\\s+(\\\\d+)\\\\s+(\\\\d+)\\\\s+((?:19|20)\\\\d{2}\\\\s?|[012]?\\\\d:\\\\d{2})\\\\s(.+)$', line)\n                            if match is None:\n                                match = re.match('^([^ ]+)\\\\s+(\\\\d+)\\\\s+(.*?)(\\\\s+)(\\\\d+)\\\\s+([^\\\\d\\\\s]+)\\\\s+(\\\\d+)\\\\s+((?:19|20)\\\\d{2}\\\\s?|[012]?\\\\d:\\\\d{2})\\\\s(.*)$', line)\n                            if match is None:\n                                match = re.match('^([^ ]+)(\\\\s+)(folder)(\\\\s+)(0)\\\\s+([^\\\\d\\\\s]+)\\\\s+(\\\\d+)\\\\s+((?:19|20)\\\\d{2}|[012]?\\\\d:\\\\d{2})\\\\s(.*)$', line)\n                            if match is None:\n                                match = re.match('^([^ ]+)\\\\s+(\\\\d+)\\\\s+(.*?)\\\\s+(.*?)\\\\s+(\\\\d+)\\\\s+(\\\\.\\\\.)$', line)\n                            if match is None:\n                                popup_message = 'There was an error parsing the remote folder listing'\n                                indented_lines = ['  ' + l for l in lines]\n                                log_message = 'Error parsing remote folder listing:\\n' + '\\n'.join(indented_lines) + '\\n'\n                                self.encourage_report(popup_message, log_message)\n                                raise ConnectionError('Error parsing remote folder listing')\n                            parts = list(match.groups())\n                            if len(parts) == 6:\n                                continue\n                            file = parts[8]\n                            if not file == '..':\n                                if not include_self and file == '.':\n                                    continue\n                                if line[0] == 'l':\n                                    if skip_symlinks is False:\n                                        file = self.check_symlink(file)\n                                    else:\n                                        if skip_symlinks == 'file':\n                                            file = re.sub(' -> [^ ].*$', '', file)\n                                        else:\n                                            continue\n                                if parts[0][0] == 'd' and file != '.':\n                                    file += '/'\n                                if re.match('^\\\\d+$', parts[5]):\n                                    day = parts[5]\n                                    month = parts[6]\n                                else:\n                                    month = parts[5]\n                                    day = parts[6]\n                                month = self.parse_month(month, lines)\n                                month = str(month)\n                                if len(str(day)) == 1:\n                                    day = '0' + str(day)\n                                if str(parts[7]).find(':') == -1:\n                                    year = str(parts[7]).strip()\n                                    _time = '00:00'\n                                else:\n                                    year = datetime.datetime.now().strftime('%Y')\n                                    _time = str(parts[7])\n                                    if len(_time) == 4:\n                                        _time = '0' + _time\n                                    current_month = datetime.datetime.now().strftime('%m')\n                                    if int(month) > int(current_month):\n                                        year = str(int(year) - 1)\n                                    date = '%s-%s-%s %s' % (year, month, day, _time)\n                                    timestamp = self.parse_date(date, lines)\n                                try:\n                                    timestamp = int(time.mktime(timestamp.timetuple())) + offset\n                                except OverflowError:\n                                    if int(timestamp.strftime('%Y')) <= 1970:\n                                        timestamp = 0\n                                    else:\n                                        timestamp = int(time.time())\n\n                                output.append([file, timestamp])\n\n        return output",
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py",
+					"file_size": 35072,
+					"file_write_time": 132495667693276633,
+					"settings":
+					{
+						"buffer_size": 34263,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "# uncompyle6 version 3.6.4\n# Python bytecode 3.3 (3230)\n# Decompiled from: Python 3.7.2 (tags/v3.7.2:9a3ffc0492, Dec 23 2018, 23:09:28) [MSC v.1916 64 bit (AMD64)]\n# Embedded file name: /Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/debug.py\n# Compiled at: 2015-11-05 02:17:09\n# Size of source mod 2**32: 2114 bytes\nimport sublime\nimport locale\nimport time\ntry:\n    str_cls = unicode\n    str_cls_name = 'unicode'\nexcept NameError:\n    str_cls = str\n    str_cls_name = 'str'\n\nfrom .times import timestamp_to_string\nstatus = {'debug': False,\n          'debug_log_file': None,\n          'inited': False}\n\n\ndef debug_print(message, level=1, force=False):\n    debug = status['debug']\n    debug_log_file = status['debug_log_file']\n    if not status['inited']:\n\n        def init():\n            settings = sublime.load_settings('SFTP.sublime-settings')\n            print('settings:\\r{}'.format(settings))\n            debug_print('SFTP Email: ' + str(settings.get('email')))\n            debug_print('SFTP Key: ' + str(settings.get('product_key')))\n\n        sublime.set_timeout(init, 1)\n        status['inited'] = True\n    if (not debug or int(debug) < level) and not force:\n        return\n    typeof = type(message).__name__\n    is_string = typeof == 'str' or typeof == str_cls_name\n    if is_string and message[-1:] == '\\n':\n        message = message[0:-1]\n    else:\n        if not is_string:\n            message = str(message)\n        if type(message).__name__ != str_cls_name:\n            try:\n                message = str_cls(message, 'utf-8', errors='strict')\n            except UnicodeDecodeError:\n                encoding = locale.getpreferredencoding(do_setlocale=True)\n                try:\n                    message = str_cls(message, encoding)\n                except UnicodeDecodeError:\n                    message = str_cls(message, encoding, 'replace')\n\n        message = str_cls(timestamp_to_string(time.time(), '%Y-%m-%d %H:%M:%S, ')) + message\n        message = message.replace('\\r\\n', '\\n')\n    if debug and debug_log_file:\n        with open(debug_log_file, 'ab') as (f):\n            f.write(message.encode('utf-8') + '\\n')\n    else:\n        if int(sublime.version()) < 3000:\n            if isinstance(message, str_cls):\n                message = message.encode('UTF-8')\n        print(message)\n\n\ndef set_debug(enabled):\n    status['debug'] = enabled\n\n\ndef set_debug_log_file(path):\n    status['debug_log_file'] = path\n\n\ndef get_debug():\n    return status['debug']\n\n\ndef get_debug_log_file():\n    return status['debug_log_file']\n",
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/debug.py",
+					"file_size": 2646,
+					"file_write_time": 132509270860574488,
+					"settings":
+					{
+						"buffer_size": 2566,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+					"settings":
+					{
+						"buffer_size": 9627,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Anaconda Python Builder",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"pi",
+						"Package Control: Install Package"
+					],
+					[
+						"pacc",
+						"Install Package Control"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 653.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp"
+			],
+			"file_history":
+			[
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/ftplib2.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/ftp_transport.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/commands.py",
+				"/D/desktop/test.py",
+				"/D/desktop/py_test/t3.py",
+				"/D/desktop/py_test/t2.py",
+				"/D/desktop/py_test/t1.py",
+				"/D/desktop/testpyc.py",
+				"/D/desktop/openacs/.git/config",
+				"/C/Program Files/Sublime Text 3/Packages/Text.sublime-package",
+				"/C/Program Files/Sublime Text 3/sublime.py",
+				"/D/desktop/直真日志/ACSServer.traces",
+				"/D/desktop/直真日志/TR069Adaptor.traces",
+				"/D/desktop/直真日志/ITFService.traces",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+				"/D/hgu_autotestc103/Lib/Service/AC/bizAC.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_TwoFilter_Black_015.py",
+				"/D/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/D/hgu_autotestc103/Lib/Service/AC/impACWeb.py",
+				"/D/hgu_autotestc103/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+				"/D/hgu_autotestc103/Service/Global.py",
+				"/D/desktop/电信直真日志/TR069Adaptor.traces",
+				"/D/desktop/电信直真日志/ACSServer.traces",
+				"/D/desktop/电信直真日志/ITFService.traces",
+				"/D/hgu_autotestc103/sftp-config.json",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeSimpleSync/SublimeSimpleSync.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeSimpleSync.sublime-settings",
+				"/C/Users/cienet/Desktop/py_test/log01/__init__.py",
+				"/C/Users/cienet/Desktop/py_test/conftest.py",
+				"/C/Users/cienet/Desktop/py_test/pytest.ini",
+				"/C/Users/cienet/Desktop/py_test/test_py_001.py",
+				"/C/Users/cienet/Desktop/烽火/系统启动/资料/模块.py",
+				"/C/Users/cienet/Desktop/py_test/test002.py",
+				"/C/Users/cienet/Desktop/py_test/log01/test.log",
+				"/C/Users/cienet/Desktop/py_test/log01/boss.log",
+				"/C/Users/cienet/Desktop/py_test/log01/coder.log",
+				"/C/Users/cienet/Desktop/py_test/log01",
+				"/C/Users/cienet/Desktop/test.py",
+				"/C/Users/cienet/Desktop/烽火/系统启动/资料/test.py",
+				"/C/Users/cienet/Desktop/py_test/assets/console.py",
+				"/C/Users/cienet/Desktop/py_test/report.html",
+				"/C/Users/cienet/Desktop/py_test/bbb.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Word Highlight.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/WordHighlight/Word Highlight.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+				"/c/Python/lib/site-packages/pexpect/__init__.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/CTags/CTags.sublime-settings",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/BRDGMC/bizBRDGMC.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/hgu_telnet.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Config/site_para.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/absHGUProduct.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/general/util_basic/impWEBChn.py",
+				"//10.182.33.15/d$/FHATP/user/hgu_autotestc103/Lib/Service/Start/bizStart.py",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings"
+			],
+			"find":
+			{
+				"height": 34.0
+			},
+			"find_in_files":
+			{
+				"height": 261.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sftp_diff_remote_file",
+					"sftp_upload_file"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -660,30 +547,30 @@
 			"folders":
 			[
 				{
-					"path": "D:\\desktop\\py_test"
+					"path": "C:\\Users\\cienet\\AppData\\Roaming\\Sublime Text 3\\Packages\\SFTP"
 				}
 			],
 			"groups":
 			[
 				{
-					"selected": 3,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/desktop/py_test/test001.py",
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/listeners.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1057,
+								"buffer_size": 14453,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										323,
-										323
+										11456,
+										11456
 									]
 								],
 								"settings":
@@ -706,26 +593,16 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
 										"bh_round_close",
 										"bh_round_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -736,31 +613,41 @@
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"c_time":
 									[
@@ -792,13 +679,13 @@
 										7,
 										228,
 										11,
-										5,
-										9,
-										21,
-										24,
-										11,
-										137,
-										22,
+										27,
+										10,
+										47,
+										23,
+										1,
+										216,
+										227,
 										113,
 										1,
 										133,
@@ -817,27 +704,27 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 150.0,
+								"translation.y": 7945.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/desktop/py_test/bbb.py",
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Context.sublime-menu",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2949,
+								"buffer_size": 1613,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										400,
-										400
+										511,
+										532
 									]
 								],
 								"settings":
@@ -849,8 +736,330 @@
 										{
 											"1":
 											[
-												399,
-												400
+												532,
+												533
+											]
+										},
+										"icon":
+										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/double_quote.png",
+												"region.greenish"
+											]
+										},
+										"open":
+										{
+											"1":
+											[
+												510,
+												511
+											]
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										12,
+										8,
+										56,
+										38,
+										0,
+										208,
+										166,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 156.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/file_transfer.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 34263,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+										},
+										"icon":
+										{
+										},
+										"open":
+										{
+										},
+										"unmatched":
+										{
+										}
+									},
+									"bracket_highlighter.regions":
+									[
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content"
+									],
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										228,
+										11,
+										27,
+										10,
+										47,
+										23,
+										1,
+										142,
+										168,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 5226.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/sftp/debug.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2566,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										795,
+										799
+									]
+								],
+								"settings":
+								{
+									"bracket_highlighter.busy": false,
+									"bracket_highlighter.locations":
+									{
+										"close":
+										{
+											"1":
+											[
+												800,
+												801
 											]
 										},
 										"icon":
@@ -865,8 +1074,8 @@
 										{
 											"1":
 											[
-												398,
-												399
+												799,
+												800
 											]
 										},
 										"unmatched":
@@ -875,61 +1084,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"c_time":
 									[
@@ -961,165 +1170,13 @@
 										7,
 										228,
 										11,
-										5,
-										9,
-										21,
-										24,
-										11,
-										86,
-										111,
-										113,
+										27,
+										10,
+										47,
+										23,
 										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 482.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 2,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/desktop/py_test/test002.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 618344,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										796,
-										796
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
-									],
-									"c_time":
-									[
+										107,
 										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										5,
-										9,
-										21,
-										24,
-										11,
-										152,
-										169,
 										113,
 										1,
 										133,
@@ -1138,14 +1195,14 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 663.0,
+								"translation.y": 390.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 4,
 							"type": "text"
 						},
 						{
-							"buffer": 3,
+							"buffer": 4,
 							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
 							"semi_transient": false,
 							"settings":
@@ -1157,8 +1214,8 @@
 								"selection":
 								[
 									[
-										498,
-										498
+										64,
+										64
 									]
 								],
 								"settings":
@@ -1181,61 +1238,61 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_c_define",
 										"bh_c_define_center",
 										"bh_c_define_open",
 										"bh_c_define_close",
 										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_angle",
 										"bh_angle_center",
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content"
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content",
+										"bh_regex",
+										"bh_regex_center",
+										"bh_regex_open",
+										"bh_regex_close",
+										"bh_regex_content"
 									],
 									"c_time":
 									[
@@ -1267,13 +1324,13 @@
 										7,
 										228,
 										11,
+										12,
+										8,
+										56,
+										38,
+										1,
+										187,
 										5,
-										10,
-										41,
-										30,
-										5,
-										184,
-										51,
 										113,
 										1,
 										133,
@@ -1285,15 +1342,17 @@
 										46
 									],
 									"incomplete_sync": null,
+									"remote_loading": false,
+									"synced": false,
 									"syntax": "Packages/Python/Python.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 265.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 2,
 							"type": "text"
 						}
 					]
@@ -1343,7 +1402,7 @@
 				"height": 151.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,2,-32000,-32000,-1,-1,648,609,290,1506",
+			"position": "0,0,1,-32000,-32000,-1,-1,783,-1194,425,-297",
 			"project": "",
 			"replace":
 			{
@@ -1404,13 +1463,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 266.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 80,
+			"window_id": 152,
 			"workspace_name": ""
 		}
 	],
