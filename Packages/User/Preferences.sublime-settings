@@ -13,12 +13,14 @@
 		"gray_antialias",
 		"subpixel_antialias"
 	],
-	"font_size": 13,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"SublimeCodeIntel"
+		"CTags",
+		"SublimeCodeIntel",
+		"Terminus"
 	],
 	"indent_guide_options":
 	[
@@ -31,12 +33,11 @@
 	"material_theme_bold_tab": true,
 	"overlay_scroll_bars": "enabled",
 	"save_on_focus_lost": true,
+	"show_encoding": true,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
-	"word_wrap": "true",
-	"show_encoding": true,
-
+	"word_wrap": "true"
 }

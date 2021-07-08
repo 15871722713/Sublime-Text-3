@@ -4,12 +4,21 @@
         "count": 1,
         "press_command": "drag_select",
         "modifiers": ["alt"],
-        "command": "navigate_to_definition"
+        // "command": "navigate_to_definition"
+        "command": "goto_definition"
     },
     {
         "button": "button2",
         "count": 1,
         "modifiers": ["alt"],
-        "command": "jump_prev"
+        // "command": "jump_prev"
+        "command": "jump_back"
+    },
+    {
+        "button": "button3",
+        "count": 1,
+        "modifiers": ["alt"],
+        // "command": "jump_prev"
+        "command": "goto_reference"
     }
 ]

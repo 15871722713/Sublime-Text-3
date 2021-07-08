@@ -1,4 +1,7 @@
 {
 	"command": "C:/ctags/ctags.exe",
 	"debug": true,
+    "extra_tag_paths": [
+        [["source.python", "windows"], "C:\\Python\\Lib\\tags"]
+    ],
 }

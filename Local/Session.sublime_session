@@ -1,25 +1,39 @@
 {
 	"folder_history":
 	[
+		"/D/Autotest",
+		"/C/config",
+		"/C/Python/Lib/site-packages/selenium",
+		"/D/Autotest_Dev",
+		"/D/desktop/daily_test_stable",
+		"/D/desktop/homeassistant-config",
+		"/D/desktop/homeassistant",
+		"/D/desktop/baacloud",
+		"/D/desktop/Autotest",
+		"/D/desktop/core",
+		"/C/Python/Lib/site-packages/pydivert",
+		"/C/Python/Lib/site-packages/rawpy",
+		"/D/desktop/aiqicha",
+		"/C/Python/Lib/site-packages/tenacity",
+		"/D/desktop/proxy_pool-master",
+		"/D/aiqicha",
+		"/D/desktop/spider_frame",
+		"/C/Python/Lib/site-packages/requests",
+		"/D/desktop/py_test",
+		"/D/desktop/ansible_study",
 		"/D/desktop/genieacs",
 		"/D/desktop/ten",
 		"/D/desktop/baa",
 		"/D/desktop/captcha_trainer",
 		"/D/desktop/cnn_captcha",
-		"/D/desktop/Autotest",
-		"/D/desktop/baacloud",
-		"/D/desktop/daily_test_stable",
 		"/D/desktop/genieacs_old",
 		"/D/desktop/test_gateway",
 		"/D/desktop/jd_maotai_seckill",
-		"/D/desktop/py_test",
-		"/D/Autotest_Dev",
 		"/D/desktop/genieacs-sim",
 		"/D/desktop/daily_test_stable/test_gateway/lxd",
 		"/D/desktop/pytest-html-reporter",
 		"/D/Autotest_Dev/验收/Start/四次验收/06 Start特性脚本执行",
 		"/C/Python/Lib/site-packages/scapy",
-		"/D/Autotest",
 		"/D/hgu_autotestc103",
 		"/D/hgu_autotestc103/testData/version",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP",
@@ -39,7 +53,6 @@
 		"//10.182.33.15/d$/autotest",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3",
 		"/C/Users/cienet/Desktop/hgu_autotest",
-		"/C/Python/Lib/site-packages/selenium",
 		"//10.182.33.15/d$/FHATP/user/hgu_autotestc103",
 		"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages",
 		"//10.182.34.15/d$/FHATP/user/hgu_autotestc103",
@@ -47,17 +60,25 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 238,
+	"last_window_id": 318,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 724.0,
+		"new_window_height": 677.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"do",
+						"divmod\tfunction"
+					],
+					[
+						"id",
+						"imgData\tstatement"
+					],
 					[
 						"sl",
 						"sleep_time"
@@ -122,7 +143,7 @@
 						]
 					],
 					[
-						"Packages/User/terminus.sublime-build",
+						"Packages/Python/Python.sublime-build",
 						""
 					]
 				],
@@ -151,24 +172,16 @@
 				"selected_items":
 				[
 					[
-						"pcrep",
-						"Package Control: Remove Package"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
-					],
-					[
-						"profile",
-						"Plugin Development: Profile Events"
-					],
-					[
 						"pcip",
 						"Package Control: Install Package"
 					],
 					[
 						"pcrp",
 						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
 					],
 					[
 						"pi",
@@ -183,7 +196,7 @@
 			},
 			"console":
 			{
-				"height": 493.0,
+				"height": 653.0,
 				"history":
 				[
 				]
@@ -199,138 +212,138 @@
 			},
 			"file_history":
 			[
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_006.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/wcwidth/README.md",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Context.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Main.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Tab Context.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Side Bar.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Modific/README.md",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Modific/Default (Windows).sublime-keymap",
-				"/D/Autotest_Dev/Config/ver_para.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Modific/Modific.sublime-settings",
-				"/D/Autotest_Dev/Config/JsonData/CMCC_addInstance.txt",
-				"/D/Autotest_Dev/Config/site_para.py",
-				"/D/Autotest_Dev/testData/report/特性脚本.zip",
-				"/D/Autotest_Dev/Service/Tools/solocase/regist.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_URLFilter_White_004.py",
-				"/D/Autotest_Dev/Lib/general/tcsbase.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_WEB_RECOV_002.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartWeb.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impFactory.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStart.py",
+				"/D/新建文件夹/test.py",
+				"/D/新建文件夹/test2.py",
+				"/D/新建文件夹/test3.py",
+				"/D/新建文件夹/test4.py",
+				"/D/Autotest/.gitignore",
+				"/D/Autotest_Dev/.git/index",
+				"/D/Autotest_Dev/.git/config",
+				"/D/Autotest_Dev/sftp-config.json",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMCMD.py",
+				"/D/Autotest_Dev/Lib/general/hgu_telnet.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMWeb.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impFactory.py",
 				"/D/Autotest_Dev/Lib/Service/Start/impStartCMD.py",
-				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_002.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/absHGUProduct.py",
+				"/D/Autotest_Dev/Service/AC/solocase/AC_PG_001.py",
 				"/D/Autotest_Dev/Lib/general/jsonlib.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
-				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACWeb.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_PortFilter_Black_001.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
-				"/D/Autotest_Dev/Lib/general/stc/stream.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_ComplexFilter_Black_001.py",
-				"/D/Autotest_Dev/Lib/general/stc/HGU_Vesion_Sverver.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_008.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_001.py",
-				"/D/Autotest_Dev/Lib/general/stc/impDevice.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_003.py",
-				"/D/Autotest_Dev/Lib/general/stc/absDevice.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_004.py",
-				"/D/Autotest_Dev/Lib/general/package_analyze_exist_or_not.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_010.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_DS_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_004.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_007.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_006.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv4_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv6_Stateful_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv6_Stateful_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv6_Stateless_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_SSIPv6_Stateless_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Vbind_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_004.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_011.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_004.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Vbind_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Vbind_007.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Vbind_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Vbind_008.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_PPPoE_DS_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_006.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_BRDG_007.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_006.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_008.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_009.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_Static_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateful_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateful_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_002.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStartWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/bizBSDM.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/bizTR069.py",
 				"/D/Autotest_Dev/Lib/general/log/bizLog.py",
-				"/D/desktop/genieacs-sim/data_model_202BC1-BM632w-8KA8WA1151100043.json",
-				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
-				"/D/Autotest/Lib/Service/Voice/__init__.py",
-				"/D/Autotest/Lib/Service/__init__.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
-				"/D/desktop/Autotest/output/report.html",
-				"/D/desktop/Autotest/test/output/report.html",
-				"/D/desktop/Autotest/output/20201217103827/test.log",
-				"/D/desktop/baacloud/baacloud.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACNum_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_Telnet_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_URLFilter_White_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_UsrNum_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_008.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_Admin_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_MTN_001.py",
+				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACFactory.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
 				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
-				"/D/Autotest_Dev/Lib/Service/Voice/bizVOICE.py",
-				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_RECOV_Cold_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_TR069_001.py",
-				"/D/Autotest_Dev/Service/Start/parameter_file/parameter.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Safe_001.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impConsle.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impOLT.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impServiceReady.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStart.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStartTr069.py",
+				"/D/Autotest_Dev/Lib/Service/Start/intfServiceReady.py",
+				"/D/Autotest_Dev/Lib/Service/Start/map_web_element.py",
+				"/D/Autotest_Dev/Lib/general/stc/impDevice.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACWeb.py",
+				"/D/Autotest_Dev/Lib/general/log/unilogintf.py",
+				"/D/Autotest_Dev/Config/site_para.py",
+				"/D/Autotest_Dev/Service/BSDM/parameter_file/parameter.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_008.py",
+				"/D/Autotest/Config/site_para.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/impTR069.py",
+				"/D/Autotest/Lib/Service/__init__.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_004.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/absWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/map_web_element.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/test.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/test4.py",
+				"/D/Autotest_Dev/test4.py",
+				"/D/Autotest_Dev/name.txt",
+				"/D/Autotest_Dev/Config/ver_para.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxWeb.py",
+				"/D/Autotest_Dev/test2.py",
 				"/D/Autotest_Dev/Lib/Service/WAN/srvWANConnect.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_CRCERR_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_FNCH_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_HFE_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_NMF_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Local_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Patch_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_EPOff_Safe_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_DUPWEB_001.py"
+				"/D/Autotest_Dev/Lib/general/util_basic/impWEBChn.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/mapWan.py",
+				"/D/Autotest_Dev/test3.py",
+				"/D/Autotest_Dev/test.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/bizWan.py",
+				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_CFG_TR069_WAN_006.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_TFS_001.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absTrafficMngFactory.py",
+				"/D/Autotest_Dev/Service/SINTF/solocase/PT_IFP_TSP_TFS_001.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMTr069.py",
+				"/D/Autotest_Dev/filename.xml",
+				"/D/desktop/烽火/业务部署/电信工单/电信工单.jmx",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_005.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_004.py",
+				"/D/Autotest_Dev/Lib/general/stc/absDevice.py",
+				"/D/Autotest_Dev/Lib/general/stc/absNetwork.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
+				"/D/desktop/烽火/业务部署/移动工单/省级数字家庭管理平台与网管系统间接口.jmx",
+				"/D/Autotest_Dev/Service/Global.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_015.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_007.py",
+				"/D/Autotest_Dev/Service/TR069/solocase/TR069_Procedure_FactoryReset_002.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_001.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_005.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_003.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_002.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxTR069.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxAllComm.py",
+				"/D/Autotest_Dev/Lib/Service/DHCPOption/bizDHCPOption.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_014.py",
+				"/C/config/home-assistant.log",
+				"/C/config/custom_components/baidu_face/__init__.py",
+				"/C/config/custom_components/baidu_face/sensor.py",
+				"/C/config/custom_components/baidu_face/manifest.json",
+				"/C/config/blueprints/script/homeassistant/confirmable_notification.yaml",
+				"/C/config/readme.md",
+				"/C/config/configuration.yaml",
+				"/C/config/automations.yaml_backup.yaml",
+				"/D/Autotest_Dev/Lib/general/util_basic/absHGUProduct.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/__init__.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/impTR069Web.py",
+				"/D/Autotest_Dev/Lib/Service/RTMC/impMCWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impbsdmweb.py",
+				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
+				"/D/Autotest_Dev/Lib/general/tcsbase.py",
+				"/D/Autotest_Dev/Service/Tools/solocase/svn_update.py",
+				"/D/Autotest_Dev/Service/Tools/solocase/regist.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/base.py",
+				"/D/Autotest_Dev/Service/AC/solocase/AC_MACNum_003.py",
+				"/D/Autotest/Lib/Service/AC/bizAC.py"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -344,9 +357,10 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"'slib', 'fail'"
 				],
 				"highlight": true,
-				"in_selection": true,
+				"in_selection": false,
 				"preserve_case": false,
 				"regex": false,
 				"replace_history":
@@ -360,13 +374,21 @@
 			},
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 32.0
 			},
 			"input":
 			{
 				"height": 71.0
 			},
 			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 174.0
+			},
+			"output.Terminus Build Results":
+			{
+				"height": 391.0
+			},
 			"output.exec":
 			{
 				"height": 503.0
@@ -381,12 +403,12 @@
 			},
 			"output.sftp":
 			{
-				"height": 151.0
+				"height": 158.0
 			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -396,56 +418,100 @@
 				"selected_items":
 				[
 					[
-						"json",
-						"Lib\\general\\jsonlib.py"
+						"pg",
+						"Service\\AC\\solocase\\AC_PG_001.py"
 					],
 					[
-						"sitep",
+						"impde",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"site",
 						"Config\\site_para.py"
 					],
 					[
-						"hgutel",
-						"Lib\\general\\hgu_telnet.py"
+						"VOIP_SYS_CFG_TR069_WAN_006 ",
+						"Service\\Voice\\solocase\\VOIP_SYS_CFG_TR069_WAN_006.py"
 					],
 					[
-						"testb",
-						"Lib\\general\\util_basic\\testbed.py"
+						"imp",
+						"Lib\\general\\stc\\impDevice.py"
 					],
 					[
-						"startcmd",
-						"Lib\\Service\\Start\\impStartCMD.py"
-					],
-					[
-						"tcsb",
-						"Lib\\general\\tcsbase.py"
+						"tfs_001",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_TSP_TFS_001.py"
 					],
 					[
 						"jsonl",
 						"Lib\\general\\jsonlib.py"
 					],
 					[
-						"abshgupro",
-						"Lib\\general\\util_basic\\absHGUProduct.py"
+						"impd",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"glo",
+						"Service\\Global.py"
+					],
+					[
+						"WAN_RT_IPoE_SSIPv4_DHCP_015.py",
+						"Service\\WAN\\solocase\\WAN_RT_IPoE_SSIPv4_DHCP_015.py"
+					],
+					[
+						"glob",
+						"Service\\Global.py"
 					],
 					[
 						"imphost",
 						"Lib\\general\\stc\\impHost.py"
 					],
 					[
-						"WAN_RT_Multi_001",
-						"Service\\WAN\\solocase\\WAN_RT_Multi_001.py"
+						"dslit002",
+						"Service\\WAN\\solocase\\WAN_RT_IPoE_SSIPv6_DSLite_002.py"
 					],
 					[
-						"WAN_RT_PPPoE_SSIPv4_001",
-						"Service\\WAN\\solocase\\WAN_RT_PPPoE_SSIPv4_001.py"
+						"test",
+						"test.py"
 					],
 					[
-						"absde",
-						"Lib\\general\\stc\\absDevice.py"
+						"telnet",
+						"Service\\AC\\solocase\\AC_Telnet_001.py"
 					],
 					[
-						"WAN_RT_IPoE_SSIPv6_Stateless_003",
-						"Service\\WAN\\solocase\\WAN_RT_IPoE_SSIPv6_Stateless_003.py"
+						"AC_URLFilter_White_004 ",
+						"Service\\AC\\solocase\\AC_URLFilter_White_004.py"
+					],
+					[
+						"AC_TwoFilter_White_003",
+						"Service\\AC\\solocase\\AC_TwoFilter_White_003.py"
+					],
+					[
+						"urlfiw",
+						"Service\\AC\\solocase\\AC_URLFilter_White_003.py"
+					],
+					[
+						"vbind002.",
+						"Service\\WAN\\solocase\\WAN_Vbind_002.py"
+					],
+					[
+						"impho",
+						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"testb",
+						"Lib\\general\\util_basic\\testbed.py"
+					],
+					[
+						"AC_URLFilter_Black_002",
+						"Service\\AC\\solocase\\AC_URLFilter_Black_002.py"
+					],
+					[
+						"sitep",
+						"Config\\site_para.py"
+					],
+					[
+						"AC_MACFilter_Black_006",
+						"Service\\AC\\solocase\\AC_MACFilter_Black_006.py"
 					],
 					[
 						"bizac",
@@ -456,20 +522,68 @@
 						"Lib\\Service\\Start\\bizStart.py"
 					],
 					[
+						"impcon",
+						"Lib\\Service\\Start\\impConsle.py"
+					],
+					[
+						"impwe",
+						"Lib\\general\\util_basic\\impWEBChn.py"
+					],
+					[
+						"biztr",
+						"Lib\\Service\\TR069\\bizTR069.py"
+					],
+					[
+						"impdevi",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"diag001",
+						"Service\\CyberApp\\solocase\\CyberApp_Diag_Ping_001.py"
+					],
+					[
+						"impdev",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"imph",
+						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"imphgu",
+						"Lib\\general\\util_basic\\impHGUProduct.py"
+					],
+					[
+						"sitepa",
+						"Config\\site_para.py"
+					],
+					[
+						"bizwan",
+						"Lib\\Service\\WAN\\bizWan.py"
+					],
+					[
+						"imppara",
+						"Lib\\Service\\Start\\impParaWork.py"
+					],
+					[
+						"WAN_RT_PPPoE_SSIPv4_009",
+						"Service\\WAN\\solocase\\WAN_RT_PPPoE_SSIPv4_009.py"
+					],
+					[
+						"biza",
+						"Lib\\Service\\AC\\bizAC.py"
+					],
+					[
+						"test.py",
+						"Lib\\general\\test.py"
+					],
+					[
 						"bizvoice",
 						"Lib\\Service\\Voice\\bizVOICE.py"
 					],
 					[
 						"macfiw",
 						"Service\\AC\\solocase\\AC_MACFilter_White_004.py"
-					],
-					[
-						"test",
-						"Lib\\general\\util_basic\\testbed.py"
-					],
-					[
-						"glob",
-						"Service\\Global.py"
 					],
 					[
 						"acsrec005.py",
@@ -494,10 +608,6 @@
 					[
 						"g",
 						"Service\\Global.py"
-					],
-					[
-						"imph",
-						"Lib\\general\\stc\\impHost.py"
 					],
 					[
 						"acsreco",
@@ -540,8 +650,8 @@
 						"Lib\\general\\util_basic\\absHGUProduct.py"
 					],
 					[
-						"impwe",
-						"Lib\\general\\util_basic\\impWEBChn.py"
+						"hgutel",
+						"Lib\\general\\hgu_telnet.py"
 					]
 				],
 				"width": 0.0
@@ -567,14 +677,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
-			"side_bar_width": 319.0,
+			"side_bar_visible": true,
+			"side_bar_width": 410.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 881.0
+		"new_window_width": 1208.0
 	},
 	"windows":
 	[
@@ -583,6 +693,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"do",
+						"divmod\tfunction"
+					],
+					[
+						"id",
+						"imgData\tstatement"
+					],
 					[
 						"sl",
 						"sleep_time"
@@ -604,54 +722,19 @@
 			"buffers":
 			[
 				{
-					"file": "/D/desktop/py_test/t1.py",
+					"file": "/D/Autotest/Lib/Service/AC/impACWeb.py",
 					"settings":
 					{
-						"buffer_size": 7877,
-						"encoding": "UTF-8",
-						"line_ending": "Unix",
-						"read_only": true
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/t2.py",
-					"settings":
-					{
-						"buffer_size": 2173,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/test001.py",
-					"settings":
-					{
-						"buffer_size": 1121,
-						"line_ending": "Windows"
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/test002.py",
-					"settings":
-					{
-						"buffer_size": 1272,
+						"buffer_size": 56381,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/D/desktop/py_test/woniu.py",
+					"file": "/D/Autotest/.gitignore",
 					"settings":
 					{
-						"buffer_size": 805,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/desktop/py_test/t3.py",
-					"settings":
-					{
-						"buffer_size": 269,
+						"buffer_size": 188,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
@@ -704,7 +787,7 @@
 						]
 					],
 					[
-						"Packages/User/terminus.sublime-build",
+						"Packages/Python/Python.sublime-build",
 						""
 					]
 				],
@@ -773,142 +856,146 @@
 			},
 			"expanded_folders":
 			[
-				"/D/desktop/py_test"
+				"/D/Autotest",
+				"/D/Autotest/Autotest_Maintain",
+				"/D/Autotest/Autotest_Maintain/Lib",
+				"/D/Autotest/Autotest_Tianyi4.0",
+				"/D/Autotest/Autotest_Tianyi4.0/Lib"
 			],
 			"file_history":
 			[
-				"/D/desktop/genieacs-sim/data_model_202BC1-BM632w-8KA8WA1151100043.json",
-				"/D/desktop/py_test/t1.py",
-				"/D/Autotest_Dev/Lib/general/log/bizLog.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
-				"/D/Autotest/Lib/Service/Voice/__init__.py",
-				"/D/Autotest/Lib/Service/__init__.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Sublimerge.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Sublimerge Pro/Sublimerge.sublime-settings",
-				"/D/desktop/Autotest/output/report.html",
-				"/D/desktop/Autotest/test/output/report.html",
-				"/D/desktop/Autotest/output/20201217103827/test.log",
-				"/D/desktop/baacloud/baacloud.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACNum_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_Telnet_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_URLFilter_White_001.py",
-				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_UsrNum_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_008.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_Admin_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_MTN_001.py",
-				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
-				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
-				"/D/Autotest_Dev/Lib/Service/Voice/bizVOICE.py",
-				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_RECOV_Cold_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_TR069_001.py",
-				"/D/Autotest_Dev/Service/Start/parameter_file/parameter.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
-				"/C/Windows/System32/drivers/etc/hosts",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Safe_001.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/srvWANConnect.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_CRCERR_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_FNCH_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_HFE_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_NMF_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Local_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Patch_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_EPOff_Safe_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_DUPWEB_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_PCRboot_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_SDWP_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_SwhWEB_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_016.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_ACS_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_Admin_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_MTN_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBY_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERRT_001.py",
-				"/D/Autotest_Dev/Service/AC/parameter_file/parameter.py",
-				"/D/Autotest_Dev/Lib/Service/RTMC/absMultiCastSwitch.py",
-				"/D/Autotest_Dev/Lib/Service/RTMC/impMC.py",
-				"/D/Autotest_Dev/Lib/Service/RTMC/impMCFactory.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxTR069.py",
-				"/D/Autotest_Dev/Lib/Service/BRDGMC/bizBRDGMC.py",
-				"/D/Autotest_Dev/Lib/Service/RTMC/intfMCSwitch.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_White_004.py",
-				"/D/Autotest_Dev/Service/Global.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impServiceReady.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_SHORT_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_RANDOM_001.py",
-				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_H248_BS_BCP_DTO_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_PG_001.py",
-				"/D/Autotest_Dev/Lib/general/stc/impSTA.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_004.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_010.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/absHGUProduct.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_012.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_WEB_RECOV_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_WEB_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_Key_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CM_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CTC_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CM_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACNum_001.py",
+				"/D/新建文件夹/test.py",
+				"/D/新建文件夹/test2.py",
+				"/D/新建文件夹/test3.py",
+				"/D/新建文件夹/test4.py",
+				"/D/Autotest/.gitignore",
+				"/D/Autotest_Dev/.git/index",
+				"/D/Autotest_Dev/.git/config",
 				"/D/Autotest_Dev/sftp-config.json",
-				"/D/hgu_autotestc103/sftp-config.json",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_007.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_009.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_011.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_013.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_014.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_015.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_GEN_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_GEN_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_Key_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_Key_002.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_FR_RFS_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_FR_RFS_003.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CM_GEN_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CM_Key_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_001.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_002.py"
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMCMD.py",
+				"/D/Autotest_Dev/Lib/general/hgu_telnet.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMWeb.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CM_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_001.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impFactory.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStartCMD.py",
+				"/D/Autotest_Dev/Service/AC/solocase/AC_PG_001.py",
+				"/D/Autotest_Dev/Lib/general/jsonlib.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStartWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/bizBSDM.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/bizTR069.py",
+				"/D/Autotest_Dev/Lib/general/log/bizLog.py",
+				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACFactory.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
+				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impConsle.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impOLT.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impServiceReady.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStart.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impStartTr069.py",
+				"/D/Autotest_Dev/Lib/Service/Start/intfServiceReady.py",
+				"/D/Autotest_Dev/Lib/Service/Start/map_web_element.py",
+				"/D/Autotest_Dev/Lib/general/stc/impDevice.py",
+				"/D/Autotest_Dev/Lib/Service/AC/impACWeb.py",
+				"/D/Autotest_Dev/Lib/general/log/unilogintf.py",
+				"/D/Autotest_Dev/Config/site_para.py",
+				"/D/Autotest_Dev/Service/BSDM/parameter_file/parameter.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_008.py",
+				"/D/Autotest/Config/site_para.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/impTR069.py",
+				"/D/Autotest/Lib/Service/__init__.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_004.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/absWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/map_web_element.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_002.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/test.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/test4.py",
+				"/D/Autotest_Dev/test4.py",
+				"/D/Autotest_Dev/name.txt",
+				"/D/Autotest_Dev/Config/ver_para.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxWeb.py",
+				"/D/Autotest_Dev/test2.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/srvWANConnect.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/impWEBChn.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/mapWan.py",
+				"/D/Autotest_Dev/test3.py",
+				"/D/Autotest_Dev/test.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/bizWan.py",
+				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_CFG_TR069_WAN_006.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_TFS_001.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absTrafficMngFactory.py",
+				"/D/Autotest_Dev/Service/SINTF/solocase/PT_IFP_TSP_TFS_001.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMTr069.py",
+				"/D/Autotest_Dev/filename.xml",
+				"/D/desktop/烽火/业务部署/电信工单/电信工单.jmx",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_005.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_004.py",
+				"/D/Autotest_Dev/Lib/general/stc/absDevice.py",
+				"/D/Autotest_Dev/Lib/general/stc/absNetwork.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
+				"/D/desktop/烽火/业务部署/移动工单/省级数字家庭管理平台与网管系统间接口.jmx",
+				"/D/Autotest_Dev/Service/Global.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_015.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
+				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_007.py",
+				"/D/Autotest_Dev/Service/TR069/solocase/TR069_Procedure_FactoryReset_002.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_001.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_005.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_003.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_002.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxTR069.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxAllComm.py",
+				"/D/Autotest_Dev/Lib/Service/DHCPOption/bizDHCPOption.py",
+				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_014.py",
+				"/C/config/home-assistant.log",
+				"/C/config/custom_components/baidu_face/__init__.py",
+				"/C/config/custom_components/baidu_face/sensor.py",
+				"/C/config/custom_components/baidu_face/manifest.json",
+				"/C/config/blueprints/script/homeassistant/confirmable_notification.yaml",
+				"/C/config/readme.md",
+				"/C/config/configuration.yaml",
+				"/C/config/automations.yaml_backup.yaml",
+				"/D/Autotest_Dev/Lib/general/util_basic/absHGUProduct.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/__init__.py",
+				"/D/Autotest_Dev/Lib/Service/TR069/impTR069Web.py",
+				"/D/Autotest_Dev/Lib/Service/RTMC/impMCWeb.py",
+				"/D/Autotest_Dev/Lib/Service/BSDM/impbsdmweb.py",
+				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
+				"/D/Autotest_Dev/Lib/general/tcsbase.py",
+				"/D/Autotest_Dev/Service/Tools/solocase/svn_update.py",
+				"/D/Autotest_Dev/Service/Tools/solocase/regist.py",
+				"/D/Autotest_Dev/Service/BSDM/solocase/base.py",
+				"/D/Autotest_Dev/Service/AC/solocase/AC_MACNum_003.py",
+				"/D/Autotest/Lib/Service/AC/bizAC.py"
 			],
 			"find":
 			{
-				"height": 34.0
+				"height": 32.0
 			},
 			"find_in_files":
 			{
@@ -922,8 +1009,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"localhost",
-					"192.168.8.3"
+					"'slib', 'fail'"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -941,7 +1027,7 @@
 			"folders":
 			[
 				{
-					"path": "D:\\desktop\\py_test"
+					"path": "D:\\Autotest"
 				}
 			],
 			"groups":
@@ -952,19 +1038,19 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/D/desktop/py_test/t1.py",
+							"file": "/D/Autotest/Lib/Service/AC/impACWeb.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 7877,
+								"buffer_size": 56381,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										6718,
-										6718
+										8918,
+										8918
 									]
 								],
 								"settings":
@@ -976,24 +1062,24 @@
 										{
 											"1":
 											[
-												6872,
-												6873
+												8917,
+												8918
 											]
 										},
 										"icon":
 										{
 											"1":
 											[
-												"Packages/BracketHighlighter/icons/square_bracket.png",
-												"region.bluish"
+												"Packages/BracketHighlighter/icons/round_bracket.png",
+												"region.yellowish"
 											]
 										},
 										"open":
 										{
 											"1":
 											[
-												6717,
-												6718
+												8849,
+												8850
 											]
 										},
 										"unmatched":
@@ -1007,327 +1093,21 @@
 										"bh_square_open",
 										"bh_square_close",
 										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
 										"bh_single_quote_close",
 										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
 										"bh_double_quote_close",
 										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										23,
-										14,
-										38,
-										25,
-										3,
-										79,
-										36,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 5018.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/D/desktop/py_test/t2.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 2173,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										2173,
-										2173
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										23,
-										14,
-										38,
-										39,
-										9,
-										211,
-										27,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 1763.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/desktop/py_test/test001.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1121,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
 										"bh_round",
 										"bh_round_center",
 										"bh_round_open",
@@ -1338,165 +1118,16 @@
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										5,
-										9,
-										21,
-										24,
-										11,
-										137,
-										22,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 412.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/desktop/py_test/test002.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 1272,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
 										"bh_tag_close",
 										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
@@ -1507,170 +1138,11 @@
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										228,
-										11,
-										5,
-										9,
-										21,
-										24,
-										11,
-										152,
-										169,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 1026.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/desktop/py_test/woniu.py",
-							"semi_transient": true,
-							"settings":
-							{
-								"buffer_size": 805,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_curly_content"
 									],
 									"c_time":
 									[
@@ -1701,14 +1173,14 @@
 										10,
 										7,
 										229,
-										1,
-										8,
-										13,
-										37,
-										46,
 										4,
-										108,
-										65,
+										22,
+										11,
+										18,
+										19,
+										11,
+										138,
+										45,
 										113,
 										1,
 										133,
@@ -1727,27 +1199,27 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 5328.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
-							"buffer": 5,
-							"file": "/D/desktop/py_test/t3.py",
+							"buffer": 1,
+							"file": "/D/Autotest/.gitignore",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 269,
+								"buffer_size": 188,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										230,
-										230
+										89,
+										89
 									]
 								],
 								"settings":
@@ -1770,36 +1242,41 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_default",
 										"bh_default_center",
 										"bh_default_open",
 										"bh_default_close",
 										"bh_default_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content",
+										"bh_angle",
+										"bh_angle_center",
+										"bh_angle_open",
+										"bh_angle_close",
+										"bh_angle_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
 										"bh_square",
 										"bh_square_center",
 										"bh_square_open",
@@ -1810,21 +1287,16 @@
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content"
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_tag",
+										"bh_tag_center",
+										"bh_tag_open",
+										"bh_tag_close",
+										"bh_tag_content"
 									],
 									"c_time":
 									[
@@ -1854,15 +1326,15 @@
 										67,
 										10,
 										7,
-										228,
-										11,
-										23,
-										14,
-										38,
-										46,
-										13,
-										155,
-										223,
+										229,
+										7,
+										2,
+										16,
+										40,
+										59,
+										2,
+										84,
+										208,
 										113,
 										1,
 										133,
@@ -1876,13 +1348,13 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax"
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"type": "text"
 						}
 					]
@@ -1890,7 +1362,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 34.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -1919,6 +1391,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.Terminus":
+			{
+				"height": 174.0
+			},
 			"output.Terminus Build Results":
 			{
 				"height": 391.0
@@ -1937,14 +1413,14 @@
 			},
 			"output.sftp":
 			{
-				"height": 151.0
+				"height": 158.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,2,-32000,-32000,-1,-1,808,253,65,1150",
+			"position": "0,2,3,-1,-1,-1,-1,808,225,72,1449",
 			"project": "",
 			"replace":
 			{
-				"height": 64.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1954,24 +1430,44 @@
 				"selected_items":
 				[
 					[
-						"bizac",
-						"Lib\\Service\\AC\\bizAC.py"
+						"pg",
+						"Service\\AC\\solocase\\AC_PG_001.py"
 					],
 					[
-						"bizstart",
-						"Lib\\Service\\Start\\bizStart.py"
+						"impde",
+						"Lib\\general\\stc\\impDevice.py"
 					],
 					[
-						"bizvoice",
-						"Lib\\Service\\Voice\\bizVOICE.py"
+						"site",
+						"Config\\site_para.py"
 					],
 					[
-						"macfiw",
-						"Service\\AC\\solocase\\AC_MACFilter_White_004.py"
+						"VOIP_SYS_CFG_TR069_WAN_006 ",
+						"Service\\Voice\\solocase\\VOIP_SYS_CFG_TR069_WAN_006.py"
 					],
 					[
-						"test",
-						"Lib\\general\\util_basic\\testbed.py"
+						"imp",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"tfs_001",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_TSP_TFS_001.py"
+					],
+					[
+						"jsonl",
+						"Lib\\general\\jsonlib.py"
+					],
+					[
+						"impd",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"glo",
+						"Service\\Global.py"
+					],
+					[
+						"WAN_RT_IPoE_SSIPv4_DHCP_015.py",
+						"Service\\WAN\\solocase\\WAN_RT_IPoE_SSIPv4_DHCP_015.py"
 					],
 					[
 						"glob",
@@ -1980,6 +1476,126 @@
 					[
 						"imphost",
 						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"dslit002",
+						"Service\\WAN\\solocase\\WAN_RT_IPoE_SSIPv6_DSLite_002.py"
+					],
+					[
+						"test",
+						"test.py"
+					],
+					[
+						"telnet",
+						"Service\\AC\\solocase\\AC_Telnet_001.py"
+					],
+					[
+						"AC_URLFilter_White_004 ",
+						"Service\\AC\\solocase\\AC_URLFilter_White_004.py"
+					],
+					[
+						"AC_TwoFilter_White_003",
+						"Service\\AC\\solocase\\AC_TwoFilter_White_003.py"
+					],
+					[
+						"urlfiw",
+						"Service\\AC\\solocase\\AC_URLFilter_White_003.py"
+					],
+					[
+						"vbind002.",
+						"Service\\WAN\\solocase\\WAN_Vbind_002.py"
+					],
+					[
+						"impho",
+						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"testb",
+						"Lib\\general\\util_basic\\testbed.py"
+					],
+					[
+						"AC_URLFilter_Black_002",
+						"Service\\AC\\solocase\\AC_URLFilter_Black_002.py"
+					],
+					[
+						"sitep",
+						"Config\\site_para.py"
+					],
+					[
+						"AC_MACFilter_Black_006",
+						"Service\\AC\\solocase\\AC_MACFilter_Black_006.py"
+					],
+					[
+						"bizac",
+						"Lib\\Service\\AC\\bizAC.py"
+					],
+					[
+						"bizstart",
+						"Lib\\Service\\Start\\bizStart.py"
+					],
+					[
+						"impcon",
+						"Lib\\Service\\Start\\impConsle.py"
+					],
+					[
+						"impwe",
+						"Lib\\general\\util_basic\\impWEBChn.py"
+					],
+					[
+						"biztr",
+						"Lib\\Service\\TR069\\bizTR069.py"
+					],
+					[
+						"impdevi",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"diag001",
+						"Service\\CyberApp\\solocase\\CyberApp_Diag_Ping_001.py"
+					],
+					[
+						"impdev",
+						"Lib\\general\\stc\\impDevice.py"
+					],
+					[
+						"imph",
+						"Lib\\general\\stc\\impHost.py"
+					],
+					[
+						"imphgu",
+						"Lib\\general\\util_basic\\impHGUProduct.py"
+					],
+					[
+						"sitepa",
+						"Config\\site_para.py"
+					],
+					[
+						"bizwan",
+						"Lib\\Service\\WAN\\bizWan.py"
+					],
+					[
+						"imppara",
+						"Lib\\Service\\Start\\impParaWork.py"
+					],
+					[
+						"WAN_RT_PPPoE_SSIPv4_009",
+						"Service\\WAN\\solocase\\WAN_RT_PPPoE_SSIPv4_009.py"
+					],
+					[
+						"biza",
+						"Lib\\Service\\AC\\bizAC.py"
+					],
+					[
+						"test.py",
+						"Lib\\general\\test.py"
+					],
+					[
+						"bizvoice",
+						"Lib\\Service\\Voice\\bizVOICE.py"
+					],
+					[
+						"macfiw",
+						"Service\\AC\\solocase\\AC_MACFilter_White_004.py"
 					],
 					[
 						"acsrec005.py",
@@ -2006,16 +1622,8 @@
 						"Service\\Global.py"
 					],
 					[
-						"imph",
-						"Lib\\general\\stc\\impHost.py"
-					],
-					[
 						"acsreco",
 						"Service\\Start\\solocase\\Start_Reboot_Remote_ACS_RECOV_009.py"
-					],
-					[
-						"testb",
-						"Lib\\general\\util_basic\\testbed.py"
 					],
 					[
 						"tcs",
@@ -2056,10 +1664,6 @@
 					[
 						"hgutel",
 						"Lib\\general\\hgu_telnet.py"
-					],
-					[
-						"impwe",
-						"Lib\\general\\util_basic\\impWEBChn.py"
 					]
 				],
 				"width": 0.0
@@ -2090,12 +1694,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 319.0,
+			"side_bar_width": 410.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 202,
+			"window_id": 318,
 			"workspace_name": ""
 		}
 	],

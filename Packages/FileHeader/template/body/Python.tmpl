@@ -1,0 +1,33 @@
+
+from base import *
+
+
+class {{file_name}}(AbsHGUTCSBase):
+
+    def __init__(self):
+        """
+        子类基本初始化
+        """
+        super().__init__()
+
+    def prepare(self):
+        pass
+
+    def process(self):
+        pass
+
+    def teardown(self):
+        """
+        删除用例配置
+        :return:None
+        """
+        if hasattr(self, 'wanconx'):
+            self.wanconx.delete()  # 删除wan连接
+
+
+wo1 = {{file_name}}()
+wo1.execute()
+if wo1.res == 0:
+    print("Test Result: pass", flush=True)
+else:
+    print("Test Result: fail", flush=True)
