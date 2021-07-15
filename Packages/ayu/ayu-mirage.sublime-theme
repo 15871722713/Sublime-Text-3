@@ -1319,7 +1319,8 @@
     },
     {
         "class": "scroll_track_control",
-        "layer0.tint": "#1f2430",
+        "layer0.texture": "Theme - Default/default/sidebar_scroll_bar.png",  //滚动条背景色
+        "layer0.tint": "#707a8c",
         "layer0.opacity": 1
     },
     {
@@ -1338,7 +1339,7 @@
         ],
         "content_margin": [
             6,
-            12
+            100
         ]
     },
     {
