@@ -19,6 +19,8 @@
 	"ignored_packages":
 	[
 		"CTags",
+		"Git",
+		"Git Formats",
 		"SublimeCodeIntel",
 		"Terminus"
 	],
@@ -32,7 +34,7 @@
 	"material_theme_big_fileicons": true,
 	"material_theme_bold_tab": true,
 	"overlay_scroll_bars": "disabled",
-	"save_on_focus_lost": true,
+	"save_on_focus_lost": false,
 	"show_encoding": true,
 	"theme": "ayu-mirage.sublime-theme",
 	"translate_tabs_to_spaces": true,

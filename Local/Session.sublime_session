@@ -1,15 +1,30 @@
 {
 	"folder_history":
 	[
+		"/D/desktop/go_study",
+		"/D/desktop/leanote",
+		"/D/desktop/mogui",
 		"/D/Autotest",
+		"//192.168.1.3/hgu_autotestc103",
+		"/D/desktop/wxPython",
+		"/C/Python/Lib/site-packages/WMI-1.5.1.dist-info",
+		"/D/Autotest_DataCollect",
 		"/D/Autotest_Dev",
-		"/C/config",
+		"//192.168.1.3/fhbsautotest1",
+		"/D/fhbsautotest1",
+		"/D/desktop/烽火/插件接口/20210824_183119117",
 		"/C/Python/Lib/site-packages/selenium",
+		"/D/desktop/烽火/插件接口/DataCollect",
+		"/D/desktop/baa",
+		"/D/desktop/baacloud",
+		"/C/config",
 		"/D/desktop/daily_test_stable",
+		"/D/desktop/Autotest",
+		"/D/desktop/Teamcat",
+		"/D/desktop/web-demotest",
+		"/D/desktop/boss-spider",
 		"/D/desktop/homeassistant-config",
 		"/D/desktop/homeassistant",
-		"/D/desktop/baacloud",
-		"/D/desktop/Autotest",
 		"/D/desktop/core",
 		"/C/Python/Lib/site-packages/pydivert",
 		"/C/Python/Lib/site-packages/rawpy",
@@ -23,7 +38,6 @@
 		"/D/desktop/ansible_study",
 		"/D/desktop/genieacs",
 		"/D/desktop/ten",
-		"/D/desktop/baa",
 		"/D/desktop/captcha_trainer",
 		"/D/desktop/cnn_captcha",
 		"/D/desktop/genieacs_old",
@@ -60,11 +74,11 @@
 		"/C/Users/cienet/Desktop/py_test"
 	],
 	"last_version": 3211,
-	"last_window_id": 332,
+	"last_window_id": 385,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 677.0,
+		"new_window_height": 669.0,
 		"new_window_settings":
 		{
 			"auto_complete":
@@ -72,12 +86,40 @@
 				"selected_items":
 				[
 					[
-						"getipv",
-						"get_ipv6_prix"
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"tit",
+						"title_num_list\tstatement"
 					],
 					[
 						"do",
-						"divmod\tfunction"
+						"download_url\tstatement"
+					],
+					[
+						"up",
+						"upload_url\tstatement"
+					],
+					[
+						"wanip_",
+						"wanip_v4"
+					],
+					[
+						"fil",
+						"filters\tstatement"
+					],
+					[
+						"ipmo",
+						"ipv6mode\tstatement"
+					],
+					[
+						"ipv",
+						"ipv6mode\tstatement"
+					],
+					[
+						"getipv",
+						"get_ipv6_prix"
 					],
 					[
 						"id",
@@ -176,6 +218,26 @@
 				"selected_items":
 				[
 					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"pce",
+						"Package Control: Enable Package"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"pci",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
 						"prv",
 						"PackageResourceViewer: Open Resource"
 					],
@@ -184,20 +246,12 @@
 						"PackageResourceViewer: Open Resource"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Disable Package"
-					],
-					[
 						"pcip",
 						"Package Control: Install Package"
 					],
 					[
 						"pcrp",
 						"Package Control: Remove Package"
-					],
-					[
-						"pci",
-						"Package Control: Install Package"
 					],
 					[
 						"pi",
@@ -212,7 +266,7 @@
 			},
 			"console":
 			{
-				"height": 653.0,
+				"height": 406.0,
 				"history":
 				[
 				]
@@ -228,134 +282,134 @@
 			},
 			"file_history":
 			[
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-mirage.sublime-color-scheme",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_DHCP_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_001.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/srvWANConnect.py",
+				"/D/desktop/mogui/public/v1/js/common.js",
 				"/D/Autotest_Dev/Config/site_para.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMTr069.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/bizBSDM.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxWeb.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-mirage.sublime-theme",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_005.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absSmartPluginPkgMng.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/bizCMCCIP.py",
 				"/D/Autotest_Dev/test.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-dark.sublime-color-scheme",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_002.py",
-				"/D/Autotest_Dev/Service/BSDM/parameter_file/parameter.py",
-				"/D/Autotest_Dev/Lib/general/jsonlib.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxTR069.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_002.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/bizWan.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_001.py",
-				"/D/Autotest_Dev/Lib/general/log/bizLog.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/test.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMCMD.py",
-				"/D/Autotest_Dev/Config/JsonData/CMCC_pppwanbridge.txt",
-				"/D/Autotest_Dev/Lib/Service/AC/impACWeb.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_LANSP_LAN_LANHAC_006_2PC.py",
-				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
+				"/D/Autotest_Dev/Lib/general/stc/HGU_Vesion_Sverver.py",
+				"/D/Autotest_Dev/Lib/Service/Voice/impMGTr069.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_019.py",
 				"/D/Autotest_Dev/Service/Global.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_LANSP_LANHIQ_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_White_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_003.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMWeb.py",
-				"/D/Autotest_Dev/Lib/Service/AC/mapAC.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_003.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-				"/D/Autotest_Dev/Config/ver_para.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_004.py",
-				"/D/新建文件夹/test.py",
-				"/D/新建文件夹/test2.py",
-				"/D/新建文件夹/test3.py",
-				"/D/新建文件夹/test4.py",
-				"/D/Autotest/.gitignore",
-				"/D/Autotest_Dev/.git/index",
-				"/D/Autotest_Dev/.git/config",
-				"/D/Autotest_Dev/sftp-config.json",
-				"/D/Autotest_Dev/Lib/general/hgu_telnet.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impFactory.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartCMD.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_PG_001.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartWeb.py",
-				"/D/Autotest_Dev/Lib/Service/TR069/bizTR069.py",
-				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACFactory.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
-				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impConsle.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_016.py",
+				"/D/Autotest_Dev/Service/CMCCIP/parameter_file/parameter.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_BootReport_001.py",
+				"/D/Autotest_Dev/Lib/Service/DataCollect/bizDataCollect.py",
+				"/D/Autotest_Dev/Lib/Service/DataCollect/impDBOpt.py",
 				"/D/Autotest_Dev/Lib/Service/Start/impOLT.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impServiceReady.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStart.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartTr069.py",
-				"/D/Autotest_Dev/Lib/Service/Start/intfServiceReady.py",
-				"/D/Autotest_Dev/Lib/Service/Start/map_web_element.py",
-				"/D/Autotest_Dev/Lib/general/stc/impDevice.py",
-				"/D/Autotest_Dev/Lib/general/log/unilogintf.py",
-				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_008.py",
-				"/D/Autotest/Config/site_para.py",
-				"/D/Autotest_Dev/Lib/Service/TR069/impTR069.py",
-				"/D/Autotest/Lib/Service/__init__.py",
-				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_004.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/absWeb.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/map_web_element.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/test4.py",
-				"/D/Autotest_Dev/test4.py",
-				"/D/Autotest_Dev/name.txt",
-				"/D/Autotest_Dev/test2.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/impWEBChn.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/mapWan.py",
-				"/D/Autotest_Dev/test3.py",
-				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_CFG_TR069_WAN_006.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_TFS_001.py",
-				"/D/Autotest_Dev/Lib/Service/CMCCIP/absTrafficMngFactory.py",
-				"/D/Autotest_Dev/Service/SINTF/solocase/PT_IFP_TSP_TFS_001.py",
-				"/D/Autotest_Dev/filename.xml",
-				"/D/desktop/烽火/业务部署/电信工单/电信工单.jmx",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_004.py",
-				"/D/Autotest_Dev/Lib/general/stc/absDevice.py",
-				"/D/Autotest_Dev/Lib/general/stc/absNetwork.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
-				"/D/desktop/烽火/业务部署/移动工单/省级数字家庭管理平台与网管系统间接口.jmx",
-				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_015.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
-				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_007.py",
-				"/D/Autotest_Dev/Service/TR069/solocase/TR069_Procedure_FactoryReset_002.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_001.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_003.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_Oprt_002.py",
+				"/D/desktop/烽火/插件接口/测速结果/get_data_from_mysql_write_to_excel.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_001.py",
 				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxAllComm.py",
-				"/D/Autotest_Dev/Lib/Service/DHCPOption/bizDHCPOption.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_014.py",
-				"/C/config/home-assistant.log"
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxSmartIntfCMCC.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/smartGwFactory.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_004.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_AFSP_LANIP_LANIPIC_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_L2TPVPN_003.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_001.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absMSGinJson.py",
+				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
+				"/D/desktop/speed_test_result.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/impFaultDiagFactory.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_002.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absSmartPluginPkgManageFactory.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_026.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_027.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_028.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_029.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_030.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_031.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_032.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_033.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_034.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_035.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_036.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_037.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_038.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_039.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_041.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_040.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_042.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_043.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_045.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_044.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_046.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_047.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_048.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_049.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_050.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_051.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_052.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_002.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_003.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_004.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_006.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_007.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_008.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_009.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_010.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_011.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_012.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_013.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_014.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_015.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_016.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_017.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_018.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_019.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_020.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_021.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_022.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_023.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_024.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_025.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_ActualtimeReport_013.py",
+				"/D/desktop/烽火/插件接口/测速结果/test.py",
+				"/c/Python/lib/site-packages/xlwt/__init__.py",
+				"/C/Python/Lib/site-packages/xlwt/Formatting.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_ActualtimeReport_014.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_ActualtimeReport_015.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_ActualtimeReport_016.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_003.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_BootReport_005.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_BootReport_003.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/atest.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_BootReport_008.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_007.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_002.py",
+				"//192.168.1.3/fhbsautotest1/Lib/Service/CMCCIP/absSmartPluginPkgMng.py",
+				"//192.168.1.3/fhbsautotest1/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py",
+				"//192.168.1.3/fhbsautotest1/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_002.py",
+				"//192.168.1.3/fhbsautotest1/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_001.py",
+				"//192.168.1.3/fhbsautotest1/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_001.py",
+				"//192.168.1.3/fhbsautotest1/Service/Global.py",
+				"/D/Autotest_Dev/Lib/general/third_party_files/scapy/layers/tls/crypto/suites.py",
+				"/D/desktop/烽火/插件接口/jni_api_0824095302.log",
+				"/D/desktop/烽火/插件接口/other_0824095302.log",
+				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
+				"//192.168.1.3/fhbsautotest1/Lib/general/util_basic/impHGUProduct.py",
+				"/D/desktop/烽火/插件接口/me60.log",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absSmartPlugin.py",
+				"/D/desktop/烽火/插件接口/建表语句.txt",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_029.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_001.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_002.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_002.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_003.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_005.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_011.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_027.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_028.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_030.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_031.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_037.py",
+				"/D/desktop/烽火/插件接口/session.log",
+				"/D/Autotest_Dev/Lib/general/tcsbase.py"
 			],
 			"find":
 			{
@@ -363,14 +417,9 @@
 			},
 			"find_in_files":
 			{
-				"height": 826.0,
+				"height": 318.0,
 				"where_history":
 				[
-					"D:\\Autotest_Dev\\",
-					"D:\\Autotest_Dev\\Service\\BSDM\\",
-					"D:\\Autotest_Dev\\Service\\BSDM",
-					"D:\\Autotest_Dev\\Lib\\Service\\",
-					"D:\\Autotest_Dev\\Service\\BSDM"
 				]
 			},
 			"find_state":
@@ -378,68 +427,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"rol",
-					"com",
-					"side",
-					"ipv4地址获取方式的查询结果",
-					"输入值为",
-					"BSDM_WorkOrder_WO_INTERNET_PPPOE_002",
-					"dhcp",
-					"if 'process100' in self.result and self.result",
-					"if 'process60' in self.result and self.result",
-					"if 'process50' in self.result and self.result",
-					"if 'process40' in self.result and self.result",
-					"if 'process30' in self.result and self.result",
-					"if 'process20' in self.result and self.result",
-					"in self.result and self.result",
-					"if 'process40' in self.result and '已获得管理IP，正在连接ITMS' in self.result['process40']['res']:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条未跳转至40%，“已获得管理IP，正在连接ITMS”；')",
-					"if 'process30' in self.result and '注册OLT成功，正在获取管理IP' in self.result['process30']['res']:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；',\n                           '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；', '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；',\n                           '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；', '观察进度条未跳转至30%，“注册OLT成功，正在获取管理IP”；')",
-					"if 'process20' in self.result and '正在注册OLT' in self.result['process20']['res']:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条停留在20%“正在注册OLT”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条没有停留在20%“正在注册OLT”')",
-					"省注册OLT成功，正在获取管理IP",
-					"self.assertion(AbsInCo('process'",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至60%'",
-					"self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至40%'",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至40%'",
-					"跳转至30%",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')",
-					"if 'process100' in self.result and self.result['process100']['res'] == 'ITMS平台业务数据下发成功':\n            self.assertion(AbsInCo('process', 'success'), '9、【check】观察进度条跳转至100%，“ITMS平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.', '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】观察进度条跳转至100%，“ITMS平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.', '观察进度条未跳转至100%，“ITMS平台业务数据下发成功”.')",
-					"if 'process60' in self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n            self.assertion(AbsInCo('process', 'success'), '8、【check】观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                           '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                           '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', '观察进度条未跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；')",
-					"if 'process50' in self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n            self.assertion(AbsInCo('process', 'success'), '7、【check】观察进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                           '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；', '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】观察进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                           '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；', '进度条未跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条未跳转至40%，“已获得管理IP，正在连接ITMS”；')",
-					"if 'process30' in self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”',\n                           '进度条跳转至30%，“注册OLT成功，正在获取管理IP”', '进度条跳转至30%，“注册OLT成功，正在获取管理IP”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”',\n                           '进度条跳转至30%，“注册OLT成功，正在获取管理IP”', '进度条未跳转至30%，“注册OLT成功，正在获取管理IP”')",
-					"if 'process100' in self.result and self.result['process100']['res'] == '省级数字家庭管理平台业务数据下发成功':\n            self.assertion(AbsInCo('process', 'success'), '9、【check】观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.', '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.', '观察进度条未跳转至100%，“省级数字家庭管理平台业务数据下发成功”.')",
-					"if 'process60' in self.result and self.result['process60']['res'] == '省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤':\n            self.assertion(AbsInCo('process', 'success'), '8、【check】观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                           '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                           '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', '观察进度条未跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；')",
-					"if 'process50' in self.result and self.result['process50']['res'] == '等待省级数字家庭管理平台下发业务数据':\n            self.assertion(AbsInCo('process', 'success'), '7、【check】观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；',\n                           '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；', '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；',\n                           '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；', '观察进度条跳未转至50%，“等待省级数字家庭管理平台下发业务数据”；')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；', '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；', '观察进度条未跳转至40%，显示“已获得管理IP，正在连接省级数字家庭管理平台”；')",
-					"30",
-					"if 'process30' in self.result and self.result['process30']['res'] == '正在获取管理IP':\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“正在获取管理IP”',\n                           '进度条跳转至30%，“正在获取管理IP”', '进度条跳转至30%，“正在获取管理IP”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“正在获取管理IP”',\n                           '进度条跳转至30%，“正在获取管理IP”', '进度条未跳转至30%，“正在获取管理IP”')",
-					"if 'process20' in self.result and self.result['process20']['res'] == '正在注册OLT':\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条停留在20%“正在注册OLT”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条没有停留在20%“正在注册OLT”')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':",
-					"2、失败提示标点符号与实际不一致",
-					"IPv4",
-					"ipv4",
-					"IPv4",
-					"ipv4",
-					"lanport",
-					"wband_name",
-					"user",
-					"            vectorargues[\"wband_name\"] = user\n",
-					"user",
-					"HGU_LOID",
-					"psw",
-					"vlan",
-					"ipv6_prix",
-					"i",
-					"int",
-					"vlan",
-					"wan_query",
-					"self.web.get_and_set_regist_status()  # 获取注册结果\n            if 'process50' in self.result:"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -447,31 +434,6 @@
 				"regex": false,
 				"replace_history":
 				[
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process20' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')\n            if self.result and self.result['process20']['res'] == '正在注册OLT':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')",
-					"注册OLT成功，正在获取管理IP",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '8、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '7、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"self.assertion(AbsInCo('process', 'success'), '8、【check】查看进度条是否跳转至60%'",
-					"self.assertion(AbsInCo('process', 'fail'), '7、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'success'), '7、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%'",
-					"self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%'",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process100' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '9、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')\n            if self.result and self.result['process100']['res'] == 'ITMS平台业务数据下发成功':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台业务数据下发成功”；',\n                               '显示“ITMS平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台业务数据下发成功”；',\n                               '显示“ITMS平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process100' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')\n            if self.result and self.result['process100']['res'] == '省级数字家庭管理平台业务数据下发成功':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省级数字家庭管理平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省级数字家庭管理平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == '省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                               '显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                               '显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '等待省级数字家庭管理平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“等待省级数字家庭管理平台下发业务数据”；',\n                               '显示“等待省级数字家庭管理平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“等待省级数字家庭管理平台下发业务数据”；',\n                               '显示“等待省级数字家庭管理平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                               '显示“已获得管理IP，正在连接省级数字家庭管理平台”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                               '显示“已获得管理IP，正在连接省级数字家庭管理平台”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')",
-					"if 'process20' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')\n            if self.result and self.result['process20']['res'] == '正在注册OLT':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -481,7 +443,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 33.0
+				"height": 32.0
 			},
 			"input":
 			{
@@ -498,7 +460,7 @@
 			},
 			"output.exec":
 			{
-				"height": 503.0
+				"height": 672.0
 			},
 			"output.find_results":
 			{
@@ -515,7 +477,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 62.0
+				"height": 60.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -529,24 +491,156 @@
 						"Config\\site_para.py"
 					],
 					[
-						"bizbsdm",
-						"Lib\\Service\\BSDM\\bizBSDM.py"
-					],
-					[
-						"BSDM_Registerbar_ACS_Success_CTCU_002",
-						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Success_CTCU_002.py"
-					],
-					[
-						"dsfailctcu",
-						"Service\\BSDM\\solocase\\BSDM_Registerbar_DS_Fail_CTCU_001.py"
+						"glo",
+						"Service\\Global.py"
 					],
 					[
 						"glob",
 						"Service\\Global.py"
 					],
 					[
+						"impMGTr069",
+						"Lib\\Service\\Voice\\impMGTr069.py"
+					],
+					[
+						"sitep",
+						"Config\\site_para.py"
+					],
+					[
+						"absSmartPluginPkgManageFactory",
+						"Lib\\Service\\CMCCIP\\absSmartPluginPkgManageFactory.py"
+					],
+					[
+						"ActualtimeReport013",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_ActualtimeReport_013.py"
+					],
+					[
+						"mgtr",
+						"Lib\\Service\\Voice\\impMGTr069.py"
+					],
+					[
+						"sites",
+						"Lib\\general\\third_party_files\\scapy\\layers\\tls\\crypto\\suites.py"
+					],
+					[
+						"33.py",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_Capability_Speed_033.py"
+					],
+					[
 						"sitepa",
 						"Config\\site_para.py"
+					],
+					[
+						"CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002.py"
+					],
+					[
+						"CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py"
+					],
+					[
+						"ntp001",
+						"Service\\CyberApp\\solocase\\CyberApp_NTP_001.py"
+					],
+					[
+						"ciberapp",
+						"Lib\\Service\\CyberApp\\bizCyberApp.py"
+					],
+					[
+						"package_analyze_exist_or_not",
+						"Lib\\general\\package_analyze_exist_or_not.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_001",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_001.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_006.py"
+					],
+					[
+						"FOIS_DPI_BootReport_007",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_007.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_004",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_004.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_003",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_003.py"
+					],
+					[
+						"CMCCIP_FP_CFSP_DAR_DARC_018",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_CFSP_DAR_DARC_018.py"
+					],
+					[
+						"FOIS_DPI_BootReport_008",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_008.py"
+					],
+					[
+						"FOIS_DPI_BootReport_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_006.py"
+					],
+					[
+						"impstat",
+						"Lib\\Service\\Start\\impStartCMD.py"
+					],
+					[
+						"WAN_Vbind_005",
+						"Service\\WAN\\solocase\\WAN_Vbind_005.py"
+					],
+					[
+						"startcmd",
+						"Lib\\Service\\Start\\impStartCMD.py"
+					],
+					[
+						"sit",
+						"Config\\site_para.py"
+					],
+					[
+						"FOIS_DPI_BootReport_001",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_001.py"
+					],
+					[
+						"hgute",
+						"Lib\\general\\hgu_telnet.py"
+					],
+					[
+						"cmccip.",
+						"Lib\\Service\\CMCCIP\\bizCMCCIP.py"
+					],
+					[
+						"FOIS_DPI_Capability_Speed_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_Capability_Speed_006.py"
+					],
+					[
+						"testbed",
+						"Lib\\general\\util_basic\\testbed.py"
+					],
+					[
+						"jsonl",
+						"Lib\\general\\jsonlib.py"
+					],
+					[
+						"ctcu007.py",
+						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Fail_CTCU_007.py"
+					],
+					[
+						"BSDM_Registerbar_ACS_Fail_CTCU_001",
+						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Fail_CTCU_001.py"
+					],
+					[
+						"BSDM_Registerbar_ACS_Success_CTCU_002",
+						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Success_CTCU_002.py"
+					],
+					[
+						"bizbsdm",
+						"Lib\\Service\\BSDM\\bizBSDM.py"
+					],
+					[
+						"dsfailctcu",
+						"Service\\BSDM\\solocase\\BSDM_Registerbar_DS_Fail_CTCU_001.py"
 					],
 					[
 						"cmccipfplansp00",
@@ -585,16 +679,8 @@
 						"Service\\CMCCIP\\solocase\\CMCCIP_FP_TSP_TFS_001.py"
 					],
 					[
-						"jsonl",
-						"Lib\\general\\jsonlib.py"
-					],
-					[
 						"impd",
 						"Lib\\general\\stc\\impDevice.py"
-					],
-					[
-						"glo",
-						"Service\\Global.py"
 					],
 					[
 						"WAN_RT_IPoE_SSIPv4_DHCP_015.py",
@@ -643,10 +729,6 @@
 					[
 						"AC_URLFilter_Black_002",
 						"Service\\AC\\solocase\\AC_URLFilter_Black_002.py"
-					],
-					[
-						"sitep",
-						"Config\\site_para.py"
 					],
 					[
 						"AC_MACFilter_Black_006",
@@ -761,10 +843,6 @@
 						"Lib\\general\\hgu_telnet.py"
 					],
 					[
-						"hgute",
-						"Lib\\general\\hgu_telnet.py"
-					],
-					[
 						"htu",
 						"testData\\version\\HG6543C1\\CT\\Hubei\\targetversion\\local_frk_image_UniPon_20200401230806.img"
 					],
@@ -798,10 +876,50 @@
 			},
 			"select_symbol":
 			{
-				"height": 345.0,
-				"last_filter": "setpppwan",
+				"height": 81.0,
+				"last_filter": "impWanConxSmartIntfCMCC",
 				"selected_items":
 				[
+					[
+						"impWanConxSmartIntfCMCC",
+						"ImpWanConxSmartIntfCMCC"
+					],
+					[
+						"enable",
+						"enable_telnet"
+					],
+					[
+						"enable_tel",
+						"enable_telnet"
+					],
+					[
+						"get_http_packets_info",
+						"get_http_packets_info"
+					],
+					[
+						"get_link_Information",
+						"get_link_Information"
+					],
+					[
+						"get_time_stamp",
+						"get_time_stamp"
+					],
+					[
+						"account",
+						"get_account"
+					],
+					[
+						"accoun",
+						"get_account"
+					],
+					[
+						"hidden",
+						"get_hidden"
+					],
+					[
+						"check_web",
+						"check_web"
+					],
 					[
 						"setpppwan",
 						"set_pppwanbridge"
@@ -815,13 +933,13 @@
 						"enable_telnet"
 					]
 				],
-				"width": 580.0
+				"width": 640.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 385.0,
+			"side_bar_width": 338.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -837,12 +955,44 @@
 				"selected_items":
 				[
 					[
-						"getipv",
-						"get_ipv6_prix"
+						"olt",
+						"OLT\tclass"
+					],
+					[
+						"if",
+						"ifmain\tif __name__ == '__main__'"
+					],
+					[
+						"tit",
+						"title_num_list\tstatement"
 					],
 					[
 						"do",
-						"divmod\tfunction"
+						"download_url\tstatement"
+					],
+					[
+						"up",
+						"upload_url\tstatement"
+					],
+					[
+						"wanip_",
+						"wanip_v4"
+					],
+					[
+						"fil",
+						"filters\tstatement"
+					],
+					[
+						"ipmo",
+						"ipv6mode\tstatement"
+					],
+					[
+						"ipv",
+						"ipv6mode\tstatement"
+					],
+					[
+						"getipv",
+						"get_ipv6_prix"
 					],
 					[
 						"id",
@@ -869,84 +1019,30 @@
 			"buffers":
 			[
 				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
+					"file": "/D/desktop/烽火/OLT项目/olt.py",
 					"settings":
 					{
-						"buffer_size": 8494,
+						"buffer_size": 12383,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
+					"file": "/D/desktop/烽火/OLT项目/test.py",
 					"settings":
 					{
-						"buffer_size": 8741,
+						"buffer_size": 3233,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					}
 				},
 				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
+					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 					"settings":
 					{
-						"buffer_size": 11026,
+						"buffer_size": 781,
 						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
-					"settings":
-					{
-						"buffer_size": 8751,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
-					"settings":
-					{
-						"buffer_size": 10968,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
-					"settings":
-					{
-						"buffer_size": 8751,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
-					"settings":
-					{
-						"buffer_size": 11026,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
-					"settings":
-					{
-						"buffer_size": 10358,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.py",
-					"settings":
-					{
-						"buffer_size": 4232,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
+						"line_ending": "Windows"
 					}
 				}
 			],
@@ -1026,6 +1122,14 @@
 				"selected_items":
 				[
 					[
+						"pcd",
+						"Package Control: Disable Package"
+					],
+					[
+						"pce",
+						"Package Control: Enable Package"
+					],
+					[
 						"pcr",
 						"Package Control: Remove Package"
 					],
@@ -1034,16 +1138,16 @@
 						"Package Control: Install Package"
 					],
 					[
+						"Package Control: ",
+						"Package Control: Disable Package"
+					],
+					[
 						"prv",
 						"PackageResourceViewer: Open Resource"
 					],
 					[
 						"pr",
 						"PackageResourceViewer: Open Resource"
-					],
-					[
-						"Package Control: ",
-						"Package Control: Disable Package"
 					],
 					[
 						"pcip",
@@ -1083,144 +1187,147 @@
 			"expanded_folders":
 			[
 				"/D/Autotest_Dev",
-				"/D/Autotest_Dev/Config",
 				"/D/Autotest_Dev/Lib",
 				"/D/Autotest_Dev/Lib/Service",
+				"/D/Autotest_Dev/Lib/Service/DataCollect",
 				"/D/Autotest_Dev/Service",
-				"/D/Autotest_Dev/Service/BSDM",
-				"/D/Autotest_Dev/Service/BSDM/parameter_file",
-				"/D/Autotest_Dev/Service/BSDM/solocase"
+				"/D/Autotest_Dev/Service/CMCCIP",
+				"/D/Autotest_Dev/Service/CMCCIP/parameter_file",
+				"/D/Autotest_Dev/Service/Start",
+				"/D/Autotest_Dev/Service/Start/parameter_file",
+				"/D/Autotest_Dev/Service/Voice",
+				"/D/Autotest_Dev/Service/Voice/parameter_file"
 			],
 			"file_history":
 			[
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impFactory.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/bizBSDM.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMTr069.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/map_web_element.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMWeb.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
-				"/D/desktop/sublime-TortoiseSVN/TortoiseSVN.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Context.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/TortoiseSVN.sublime-settings",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/Side Bar.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Installed Packages/TortoiseSVN.sublime-package",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Tab Context.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/SFTP/Side Bar.sublime-menu",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
-				"/D/Autotest_Dev/Lib/Service/WAN/mapWan.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CM_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CM_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_DS_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_IP_Success_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Fail_CTCU_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_OLT_Success_CM_001.py",
-				"/D/Autotest_Dev/Service/BSDM/parameter_file/parameter.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-mirage.sublime-theme",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-mirage.sublime-color-scheme",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/Theme - Default/Default.sublime-theme",
-				"/D/Autotest_Dev/Lib/general/hgu_telnet.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_DHCP_001.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_001.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/srvWANConnect.py",
-				"/D/Autotest_Dev/Config/site_para.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxWeb.py",
-				"/D/Autotest_Dev/test.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/ayu/ayu-dark.sublime-color-scheme",
-				"/D/Autotest_Dev/Service/BSDM/solocase/BSDM_WorkOrder_WO_INTERNET_PPPOE_002.py",
-				"/D/Autotest_Dev/Lib/general/jsonlib.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxTR069.py",
-				"/D/Autotest_Dev/Lib/Service/WAN/bizWan.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_001.py",
-				"/D/Autotest_Dev/Lib/general/log/bizLog.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/test.py",
-				"/D/Autotest_Dev/Lib/Service/BSDM/impBSDMCMD.py",
-				"/D/Autotest_Dev/Config/JsonData/CMCC_pppwanbridge.txt",
-				"/D/Autotest_Dev/Lib/Service/AC/impACWeb.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_LANSP_LAN_LANHAC_006_2PC.py",
-				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
-				"/D/Autotest_Dev/Service/Global.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_LANSP_LANHIQ_001.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_White_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_004.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_MACFilter_Black_003.py",
-				"/D/Autotest_Dev/Lib/Service/AC/mapAC.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_003.py",
-				"/D/Autotest_Dev/Config/ver_para.py",
-				"/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv6_Stateless_004.py",
-				"/D/新建文件夹/test.py",
-				"/D/新建文件夹/test2.py",
-				"/D/新建文件夹/test3.py",
-				"/D/新建文件夹/test4.py",
-				"/D/Autotest/.gitignore",
-				"/D/Autotest_Dev/.git/index",
-				"/D/Autotest_Dev/.git/config",
-				"/D/Autotest_Dev/sftp-config.json",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartCMD.py",
-				"/D/Autotest_Dev/Service/AC/solocase/AC_PG_001.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartWeb.py",
-				"/D/Autotest_Dev/Lib/Service/TR069/bizTR069.py",
-				"/D/Autotest_Dev/Lib/Service/AC/bizAC.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACFactory.py",
-				"/D/Autotest_Dev/Lib/Service/AC/impACTr069.py",
-				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impConsle.py",
+				"/D/leanote/conf/app.conf",
+				"/D/mongodb/data/db/_mdb_catalog.wt",
+				"/D/mongodb/data/log/mongodb.log.2021-09-08T06-49-13",
+				"/D/leanote/mongodb_backup/leanote_install_data/albums.metadata.json",
+				"/D/desktop/烽火/OLT项目/test.sql",
+				"/D/desktop/烽火/OLT项目/test.db",
 				"/D/Autotest_Dev/Lib/Service/Start/impOLT.py",
+				"/D/Autotest_Dev/Lib/Service/Start/bizStart.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_008.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_007.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_008.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CTC_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_CRCERR_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_FNCH_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_HFE_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_ABNRM_NMF_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Local_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Patch_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_DPOff_Safe_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_EPOff_Safe_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_DUPWEB_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_PCRboot_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_SDWP_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_ABNR_Local_SwhWEB_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_ACS_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_Admin_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Local_MTN_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBY_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERRT_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_Admin_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_Safe_MTN_001.py",
+				"/D/Autotest_Dev/Service/Global.py",
+				"/D/Autotest_Dev/Service/CMCCIP/parameter_file/parameter.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_FLASH_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_RANDOM_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_ABNORMAL_REPEAT_SHORT_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_007.py",
+				"/D/Autotest_Dev/Service/Start/parameter_file/parameter.py",
 				"/D/Autotest_Dev/Lib/Service/Start/impParaWork.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impServiceReady.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStart.py",
-				"/D/Autotest_Dev/Lib/Service/Start/impStartTr069.py",
-				"/D/Autotest_Dev/Lib/Service/Start/intfServiceReady.py",
-				"/D/Autotest_Dev/Lib/Service/Start/map_web_element.py",
-				"/D/Autotest_Dev/Lib/general/stc/impDevice.py",
-				"/D/Autotest_Dev/Lib/general/log/unilogintf.py",
-				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_008.py",
-				"/D/Autotest/Config/site_para.py",
-				"/D/Autotest_Dev/Lib/Service/TR069/impTR069.py",
-				"/D/Autotest/Lib/Service/__init__.py",
-				"/D/Autotest_Dev/Service/CyberApp/solocase/CyberApp_Diag_Inform_004.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/absWeb.py",
-				"/D/Autotest_Dev/Service/BSDM/solocase/test4.py",
-				"/D/Autotest_Dev/test4.py",
-				"/D/Autotest_Dev/name.txt",
-				"/D/Autotest_Dev/test2.py",
-				"/D/Autotest_Dev/Lib/general/util_basic/impWEBChn.py",
-				"/D/Autotest_Dev/test3.py",
-				"/D/Autotest_Dev/Service/Voice/solocase/VOIP_SYS_CFG_TR069_WAN_006.py",
-				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_TFS_001.py",
-				"/D/Autotest_Dev/Lib/Service/CMCCIP/absTrafficMngFactory.py",
-				"/D/Autotest_Dev/Service/SINTF/solocase/PT_IFP_TSP_TFS_001.py",
-				"/D/Autotest_Dev/filename.xml",
-				"/D/desktop/烽火/业务部署/电信工单/电信工单.jmx",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_DS_005.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_Multi_004.py",
-				"/D/Autotest_Dev/Lib/general/stc/absDevice.py",
-				"/D/Autotest_Dev/Lib/general/stc/absNetwork.py",
+				"/D/Autotest/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Key_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_004.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_005.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_006.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_007.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_008.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_NOSW_RECOV_009.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_004.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_005.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_009.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_010.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_011.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_012.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_013.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_014.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_015.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_Switch_RECOV_016.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_WEB_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Local_WEB_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_004.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_005.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_009.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_010.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_011.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_012.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_013.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_014.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_015.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_ACS_RECOV_016.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_APP_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_Reboot_Remote_OLT_RECOV_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_GEN_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_GEN_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_Key_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Default_CM_Key_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_FR_RFS_003.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CM_GEN_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CM_Key_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_GEN_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Local_CTC_Key_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Remote_CTC_GEN_002.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_Remote_CTC_Key_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_ACS_CM_001.py",
+				"/D/Autotest_Dev/Service/Start/solocase/Start_RECOV_RRECOV_OLT_CM_001.py",
+				"/D/Autotest_Dev/Lib/Service/Start/impFactory.py",
+				"/D/Autotest_Dev/Lib/general/stc/impHost.py",
+				"/D/Autotest_Dev/Config/site_para.py",
+				"/D/Autotest_Dev/Service/TR069/solocase/TR069_Workflow_Upgrade_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_005.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absSmartPluginPkgMng.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/bizCMCCIP.py",
+				"/D/Autotest_Dev/test.py",
+				"/D/Autotest_Dev/Lib/general/stc/HGU_Vesion_Sverver.py",
+				"/D/Autotest_Dev/Lib/Service/Voice/impMGTr069.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_019.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_016.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_BootReport_001.py",
+				"/D/Autotest_Dev/Lib/Service/DataCollect/bizDataCollect.py",
+				"/D/Autotest_Dev/Lib/Service/DataCollect/impDBOpt.py",
+				"/D/desktop/烽火/插件接口/测速结果/get_data_from_mysql_write_to_excel.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_001.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxAllComm.py",
+				"/D/Autotest_Dev/Lib/Service/WAN/impWanConxSmartIntfCMCC.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/smartGwFactory.py",
+				"/D/Autotest_DataCollect/Service/CMCCIP/solocase/FOIS_DPI_Capability_Speed_004.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_AFSP_LANIP_LANIPIC_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_TSP_L2TPVPN_003.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/FOIS_DPI_PeriodReport_001.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/absMSGinJson.py",
 				"/D/Autotest_Dev/Lib/general/util_basic/testbed.py",
-				"/D/desktop/烽火/业务部署/移动工单/省级数字家庭管理平台与网管系统间接口.jmx",
-				"/D/Autotest_Dev/Lib/general/util_basic/impHGUProduct.py",
-				"/D/Autotest_Dev/Service/WAN/solocase/WAN_RT_IPoE_SSIPv4_DHCP_015.py",
-				"/D/Autotest_Dev/Service/Start/solocase/Start_UPGRD_NRM_RMSCENE_INTERBN_001.py"
+				"/D/desktop/speed_test_result.py",
+				"/D/Autotest_Dev/Lib/Service/CMCCIP/impFaultDiagFactory.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_DHTTPDS_002.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py",
+				"/D/Autotest_Dev/Service/CMCCIP/solocase/CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002.py"
 			],
 			"find":
 			{
@@ -1228,17 +1335,15 @@
 			},
 			"find_in_files":
 			{
-				"height": 218.0,
+				"height": 318.0,
 				"where_history":
 				[
-					"<current file>",
-					"D:\\Autotest_Dev\\Service\\BSDM",
-					"D:\\Autotest_Dev\\Service\\BSDM\\",
-					"D:\\Autotest_Dev\\",
-					"D:\\Autotest_Dev\\Service\\BSDM\\",
-					"D:\\Autotest_Dev\\Service\\BSDM",
-					"D:\\Autotest_Dev\\Lib\\Service\\",
-					"D:\\Autotest_Dev\\Service\\BSDM"
+					"D:\\Autotest_Dev\\Service\\Start\\solocase",
+					"D:\\Autotest_Dev\\Lib",
+					"<open files>",
+					"D:\\Autotest_Dev\\Service\\CMCCIP\\solocase",
+					"<open files>",
+					"D:\\Autotest_Dev\\Service\\CMCCIP\\solocase"
 				]
 			},
 			"find_state":
@@ -1246,99 +1351,65 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"注册超时！请检查线路后重试",
-					"身份证与宽带账号不匹配！注册失败，请联系10000号",
-					"身份证与宽带账号不匹配！请重试（剩余尝试次数：9）",
-					"宽带帐号不存在！注册失败，请联系10000号",
-					"宽带帐号不存在！请重试（剩余尝试次数：9）",
-					"身份证不存在！注册失败，请联系10000号",
-					"10、【check】观察页面提示，“身份证不存在！注册失败，请联系10000号”.",
-					"身份证不存在！请重试（剩余尝试次数：9）",
-					"4、【check】查看进度条是否停留在20",
-					"3、在注册页面输入LOID或者密码var1进行注册；",
-					"身份证不存在！请重试（剩余尝试次数：9）",
-					"【check】观察页面提示，“身份证不存在！请重试（剩余尝试次数：9）”.",
-					"7、模拟TR069平台下发Status值为1；",
-					"merges",
-					"['default']",
-					"_regist_web_anhui",
-					"TelnetCT",
-					"switch_frame",
-					"change_to",
-					"self\\.get_element\\((.*?)\\)",
-					"self\\.get_element\\((.*)\\)",
-					"self.get_element",
-					"self\\.get_element\\(",
-					"self\\.get_element\\((.*)\\)",
-					"self\\.get_element\\(.*\\)",
-					"self.opt.cfg_acs_wan",
-					"res = self.opt.cfg_acs_wan_and_del_other_wan()  # 修改管理WAN的vlan，删除其他WAN连接.\n        if res:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg'), '删除其他WAN连接成功，配置TR069的WAN连接参数与环境一致。')\n        else:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg-quit'), '删除其他WAN连接失败；')",
-					"scroll_track_control",
-					"reg_wait_time",
-					"puck_control",
-					"scroll",
-					"rol",
-					"com",
-					"side",
-					"ipv4地址获取方式的查询结果",
-					"输入值为",
-					"BSDM_WorkOrder_WO_INTERNET_PPPOE_002",
-					"dhcp",
-					"if 'process100' in self.result and self.result",
-					"if 'process60' in self.result and self.result",
-					"if 'process50' in self.result and self.result",
-					"if 'process40' in self.result and self.result",
-					"if 'process30' in self.result and self.result",
-					"if 'process20' in self.result and self.result",
-					"in self.result and self.result",
-					"if 'process40' in self.result and '已获得管理IP，正在连接ITMS' in self.result['process40']['res']:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条未跳转至40%，“已获得管理IP，正在连接ITMS”；')",
-					"if 'process30' in self.result and '注册OLT成功，正在获取管理IP' in self.result['process30']['res']:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；',\n                           '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；', '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；',\n                           '观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”；', '观察进度条未跳转至30%，“注册OLT成功，正在获取管理IP”；')",
-					"if 'process20' in self.result and '正在注册OLT' in self.result['process20']['res']:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条停留在20%“正在注册OLT”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条没有停留在20%“正在注册OLT”')",
-					"省注册OLT成功，正在获取管理IP",
-					"self.assertion(AbsInCo('process'",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至60%'",
-					"self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至40%'",
-					"self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至40%'",
-					"跳转至30%",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')",
-					"if 'process100' in self.result and self.result['process100']['res'] == 'ITMS平台业务数据下发成功':\n            self.assertion(AbsInCo('process', 'success'), '9、【check】观察进度条跳转至100%，“ITMS平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.', '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】观察进度条跳转至100%，“ITMS平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“ITMS平台业务数据下发成功”.', '观察进度条未跳转至100%，“ITMS平台业务数据下发成功”.')",
-					"if 'process60' in self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n            self.assertion(AbsInCo('process', 'success'), '8、【check】观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                           '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                           '观察进度条跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', '观察进度条未跳转至60%，“ITMS平台正在下发业务数据，请勿断电或拨光纤”；')",
-					"if 'process50' in self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n            self.assertion(AbsInCo('process', 'success'), '7、【check】观察进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                           '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；', '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】观察进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                           '进度条跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；', '进度条未跳转至50%，“注册ITMS成功，等待ITMS平台下发业务数据”；')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接ITMS”；', '观察进度条未跳转至40%，“已获得管理IP，正在连接ITMS”；')",
-					"if 'process30' in self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”',\n                           '进度条跳转至30%，“注册OLT成功，正在获取管理IP”', '进度条跳转至30%，“注册OLT成功，正在获取管理IP”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“注册OLT成功，正在获取管理IP”',\n                           '进度条跳转至30%，“注册OLT成功，正在获取管理IP”', '进度条未跳转至30%，“注册OLT成功，正在获取管理IP”')",
-					"if 'process100' in self.result and self.result['process100']['res'] == '省级数字家庭管理平台业务数据下发成功':\n            self.assertion(AbsInCo('process', 'success'), '9、【check】观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.', '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.',\n                           '观察进度条跳转至100%，“省级数字家庭管理平台业务数据下发成功”.', '观察进度条未跳转至100%，“省级数字家庭管理平台业务数据下发成功”.')",
-					"if 'process60' in self.result and self.result['process60']['res'] == '省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤':\n            self.assertion(AbsInCo('process', 'success'), '8、【check】观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                           '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                           '观察进度条跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', '观察进度条未跳转至60%，“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；')",
-					"if 'process50' in self.result and self.result['process50']['res'] == '等待省级数字家庭管理平台下发业务数据':\n            self.assertion(AbsInCo('process', 'success'), '7、【check】观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；',\n                           '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；', '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；',\n                           '观察进度条跳转至50%，“等待省级数字家庭管理平台下发业务数据”；', '观察进度条跳未转至50%，“等待省级数字家庭管理平台下发业务数据”；')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':\n            self.assertion(AbsInCo('process', 'success'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；', '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                           '观察进度条跳转至40%，“已获得管理IP，正在连接省级数字家庭管理平台”；', '观察进度条未跳转至40%，显示“已获得管理IP，正在连接省级数字家庭管理平台”；')",
-					"30",
-					"if 'process30' in self.result and self.result['process30']['res'] == '正在获取管理IP':\n            self.assertion(AbsInCo('process', 'success'), '5、【check】观察进度条跳转至30%，“正在获取管理IP”',\n                           '进度条跳转至30%，“正在获取管理IP”', '进度条跳转至30%，“正在获取管理IP”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】观察进度条跳转至30%，“正在获取管理IP”',\n                           '进度条跳转至30%，“正在获取管理IP”', '进度条未跳转至30%，“正在获取管理IP”')",
-					"if 'process20' in self.result and self.result['process20']['res'] == '正在注册OLT':\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条停留在20%“正在注册OLT”')\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%“正在注册OLT”；',\n                           '查看进度条停留在20%“正在注册OLT”', '进度条没有停留在20%“正在注册OLT”')",
-					"if 'process40' in self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':",
-					"2、失败提示标点符号与实际不一致",
-					"IPv4",
-					"ipv4",
-					"IPv4",
-					"ipv4",
-					"lanport",
-					"wband_name",
-					"user",
-					"            vectorargues[\"wband_name\"] = user\n",
-					"user",
-					"HGU_LOID",
-					"psw",
-					"vlan",
-					"ipv6_prix",
-					"i",
-					"int",
-					"vlan",
-					"wan_query",
-					"self.web.get_and_set_regist_status()  # 获取注册结果\n            if 'process50' in self.result:"
+					"aaa",
+					"read_until",
+					"{{}}",
+					"\\{\\}",
+					"conn",
+					"sip",
+					"self.igmp.IsWorking(self.wan, self.lan1)",
+					"start_para",
+					"version_path",
+					"start_para",
+					"CreateSrvInstance('IGMP').IsWorking(self.wan, self.lan1)",
+					"CreateSrvInstance('IGMP').IsWorking",
+					"tb_host",
+					"start_para",
+					"\\\\service",
+					"([],",
+					"logger.*?\\n",
+					"logger.*?\\)",
+					"logger.*?)",
+					"logger(.*?)\\r",
+					"logge(.*?)",
+					"logger.*?",
+					"logger(.*?)",
+					"olt",
+					"logger.show_one_step(AbsInCo('process'), '1、配置带宽为100M的上网双栈WAN连接，均可获取到v4和v6地址；')\n        self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('dw', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")",
+					"logger.show_one_step(AbsInCo('process'), '1、配置带宽为100M的上网双栈WAN连接，均可获取到v4和v6地址；')\n        self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('up', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")",
+					"self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"\n        # 按要求建立WAN口\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"inst = AbsSmartPluginPkgManageFactory().create_plg_pkg_manage()  # 插件操作对象\n        res = inst.check_is_Installable(plugin_para.plugin_name)",
+					"\n            # 安装插件前，建立WAN口通讯\n            self.wan1 = CMCCIPWanOpt()  # 建立WAN口类实例化\n            self.wan1.add_wan_ipoe()  # 新增一条internet路由WAN",
+					"if hasattr(self, 'wan1'):\n            self.wan1.del_wan()\n        if hasattr(self, 'wan3'):\n            self.wan3.del_wan()",
+					"wan1",
+					"res = self.tb.operate_bw_profile_to_ME60('up', str(self.bw))  # 配置带宽模板",
+					"logger.show_one_step(AbsInCo('prepare'), '3、网关配置一条通道可以连接上软探针前置机平台。')\n        self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('dw', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")\n\n        # 按要求建立WAN口\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"logger.show_one_step(AbsInCo('prepare'), '3、网关配置一条通道可以连接上软探针前置机平台。')\n        self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('up', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")\n\n        # 按要求建立WAN口\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"self.wan1.del_wan()  # 删除WAN连接\n            delattr(self, \"wan1\")  # 删除对应WAN对象",
+					"self.wan1 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan1.add_wan_ipoe()  # 新增一条internet路由WAN",
+					"self.var1 = f'http://(.*?)/upload/(.*?).zip'",
+					"self.var1 = f'http://.*?/upload/(.*?).zip'",
+					"self.var1 = f'http://{site_para.speed_test_server_ipv4}:{site_para.speed_test_server_port}/upload/(.*?).zip'",
+					"self\\.var1 = f'http://{site_para\\.speed_test_server_ipv4}:{site_para.speed_test_server_port}/upload/(.*?)\\.zip'",
+					"self\\.var1 = f'http://{site_para\\.speed_test_server_ipv4}:{site_para.speed_test_server_port}/upload/(.*+)\\.zip'",
+					"self.var1 = f'http://{site_para.speed_test_server_ipv4}:{site_para.speed_test_server_port}/upload/(.*+).zip'",
+					"self.var1 = f'http://.*?/upload/(.*+).zip'",
+					"self.vlan = site_para.vlan_dual_pppoe_speed_test  # 建立WAN口的VLAN信息\n        self.bw = (\\d+)  # 带宽",
+					"self.vlan = site_para.vlan_dual_pppoe_speed_test  # 建立WAN口的VLAN信息\n        self.bw = ",
+					"while i < 10:\n            user_status = self.sip_server.check_user_status()\n            # Up:注册正常，Initializing：初始化中，Registering：注册中，Disabled：去使能语音用户，Error:注册异常\n            if user_status == 'Up':\n                logger.show_opr_one_step(AbsInCo('prepare', 'cfg'), '语音用户1注册状态正常，可以正常通话')\n                break\n            time.sleep(10)\n            i += 1\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', 'cfg-quit'), '语音用户1注册状态异常')",
+					"hgu_netcard_port",
+					"interfaceVersion",
+					"{site_para.speed_test_server_port}/download/speedtest_",
+					"f'http://[{site_para.speed_test_server_ipv6}]/download/speedtest_2G.jar'",
+					"f'http://{site_para.speed_test_server_ipv4}/download/speedtest_2G.jar'",
+					"f'http://[{site_para.speed_test_server_ipv6}]:{site_para.speed_test_server_port}/download/speedtest_400M.jar'",
+					"f'http://[{site_para.speed_test_server_ipv6}]/download/speedtest_400M.jar'",
+					"f'http://{site_para.speed_test_server_ipv6}/download/speedtest_400M.jar'",
+					"f'http://{site_para.speed_test_server_ipv4}/download/speedtest_400M.jar'",
+					"table=f\"OSGI_IPV6_{self.bw}",
+					"table=f\"OSGI_IPV4_{self.bw}",
+					"结果"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1346,33 +1417,33 @@
 				"regex": false,
 				"replace_history":
 				[
-					"menu[$1]",
-					"res = self.opt.cfg_acs_wan()  # 修改管理WAN的vlan.\n        if res:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg'), '配置TR069的WAN连接参数与环境一致成功。')\n        else:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg-quit'), '配置TR069的WAN连接参数失败；')\n        res = self.opt.del_other_wan()  # 删除其他WAN连接.\n        if res:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg'), '删除其他WAN连接成功。')\n        else:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg-quit'), '删除其他WAN连接失败；')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process20' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')\n            if self.result and self.result['process20']['res'] == '正在注册OLT':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')",
-					"注册OLT成功，正在获取管理IP",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '8、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '8、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '7、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '7、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接ITMS':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接ITMS”；',\n                               '显示“已获得管理IP，正在连接ITMS”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"self.assertion(AbsInCo('process', 'success'), '8、【check】查看进度条是否跳转至60%'",
-					"self.assertion(AbsInCo('process', 'fail'), '7、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'success'), '7、【check】查看进度条是否跳转至50%'",
-					"self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%'",
-					"self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%'",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process100' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '9、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')\n            if self.result and self.result['process100']['res'] == 'ITMS平台业务数据下发成功':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台业务数据下发成功”；',\n                               '显示“ITMS平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台业务数据下发成功”；',\n                               '显示“ITMS平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '9、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == 'ITMS平台正在下发业务数据，请勿断电或拨光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；',\n                               '显示“ITMS平台正在下发业务数据，请勿断电或拨光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '注册ITMS成功，等待ITMS平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“注册ITMS成功，等待ITMS平台下发业务数据”；',\n                               '显示“注册ITMS成功，等待ITMS平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '6、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')\n            if self.result and self.result['process30']['res'] == '注册OLT成功，正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“注册OLT成功，正在获取管理IP”；',\n                               '显示“注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省注册OLT成功，正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '5、【check】查看进度条是否跳转至30%', '进度条跳转至30%', '进度条跳转至30%')",
-					"if 'process100' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')\n            if self.result and self.result['process100']['res'] == '省级数字家庭管理平台业务数据下发成功':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省级数字家庭管理平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台业务数据下发成功”；',\n                               '显示“省级数字家庭管理平台业务数据下发成功”；', f\"显示“{self.result['process100']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至100%', '进度条跳转至100%', '进度条跳转至100%')",
-					"if 'process60' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')\n            if self.result and self.result['process60']['res'] == '省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                               '显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；',\n                               '显示“省级数字家庭管理平台正在下发业务数据，请勿断电或拔光纤”；', f\"显示“{self.result['process60']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至60%', '进度条跳转至60%', '进度条跳转至60%')",
-					"if 'process50' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')\n            if self.result and self.result['process50']['res'] == '等待省级数字家庭管理平台下发业务数据':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“等待省级数字家庭管理平台下发业务数据”；',\n                               '显示“等待省级数字家庭管理平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“等待省级数字家庭管理平台下发业务数据”；',\n                               '显示“等待省级数字家庭管理平台下发业务数据”；', f\"显示“{self.result['process50']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至50%', '进度条跳转至50%', '进度条跳转至50%')",
-					"if 'process40' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')\n            if self.result and self.result['process40']['res'] == '已获得管理IP，正在连接省级数字家庭管理平台':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                               '显示“已获得管理IP，正在连接省级数字家庭管理平台”；', f\"显示“{self.result['process40']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“已获得管理IP，正在连接省级数字家庭管理平台”；',\n                               '显示“已获得管理IP，正在连接省级数字家庭管理平台”；', f\"显示“{self.result['process40']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否跳转至40%', '进度条跳转至40%', '进度条跳转至40%')",
-					"if 'process30' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')\n            if self.result and self.result['process30']['res'] == '正在获取管理IP':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在获取管理IP”；',\n                               '显示“正在获取管理IP”；', f\"显示“{self.result['process30']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在30%', '进度条停留在30%', '进度条停留在30%')",
-					"if 'process20' in self.result:\n            self.assertion(AbsInCo('process', 'success'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')\n            if self.result and self.result['process20']['res'] == '正在注册OLT':\n                self.assertion(AbsInCo('process', 'success'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n            else:\n                self.assertion(AbsInCo('process', 'fail'), '是否显示“正在注册OLT”；',\n                               '显示“正在注册OLT”；', f\"显示“{self.result['process20']['res']}”；\")\n        else:\n            self.assertion(AbsInCo('process', 'fail'), '4、【check】查看进度条是否停留在20%', '进度条停留在20%', '进度条停留在20%')"
+					"{}",
+					"self.igmp.IsWorking(self.wan, self.lan1, self.igmp_load)",
+					"CreateSrvInstance('IGMP').IsWorking(self.wan, self.lan1, self.igmp_load)",
+					"\\n",
+					"",
+					"logger.show_one_step(AbsInCo('process'), '1、配置带宽为100M的上网双栈WAN连接，均可获取到v4和v6地址；')\n        logger.show_opr_one_step(AbsInCo('process', 'cfg'), \"预置条件2中已配置一条WAN连接\")",
+					"self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('up', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"",
+					"inst = AbsSmartPluginPkgManageFactory().create_plg_pkg_manage()  # 插件操作对象\n        res = inst.check_is_Installable(plugin_para.plugin_name)\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"",
+					"if hasattr(self, 'wan3'):\n            self.wan3.del_wan()",
+					"res = self.tb.operate_bw_profile_to_ME60('dw', str(self.bw))  # 配置带宽模板",
+					"logger.show_one_step(AbsInCo('prepare'), '3、网关配置一条通道可以连接上软探针前置机平台。')",
+					"",
+					"self.tb = TestBed()  # 操作类实例化\n        res = self.tb.operate_bw_profile_to_ME60('up', str(self.bw))  # 配置带宽模板\n        if res:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg\"), f\"配置{self.bw}m带宽成功\")\n        else:\n            logger.show_opr_one_step(AbsInCo('prepare', \"cfg-quit\"), f\"配置{self.bw}m带宽失败\")\n\n        # 按要求建立WAN口\n        self.wan2 = CMCCIPWanOpt()  # 建立WAN口类实例化\n        self.wan2.add_wan_pppoe(wanvlan=self.vlan, ipmode=self.ipmode)  # 新增一条internet路由WAN",
+					"self.filesize = plugin_para.filesize if plugin_para.filesize_flag else '$2'  # 测速文件大小\n        self.var1 = f'http://$1/upload/{self.filesize}.zip'",
+					"self.bw = $1  # 带宽\n        self.vlan = site_para.vlan_dual_pppoe_speed_test  # 建立WAN口的VLAN信息",
+					"while i < 10:\n            user_status = self.sip_server.check_user_status()\n            # Up:注册正常，Initializing：初始化中，Registering：注册中，Disabled：去使能语音用户，Error:注册异常\n            if user_status == 'Up':\n                logger.show_opr_one_step(AbsInCo('process', 'cfg'), '语音用户1注册状态正常，可以正常通话')\n                break\n            time.sleep(10)\n            i += 1\n        else:\n            logger.show_opr_one_step(AbsInCo('process', 'cfg-quit'), '语音用户1注册状态异常')",
+					"{site_para.speed_test_server_port}/upload/",
+					"f'http://[{site_para.speed_test_server_ipv6}]:{site_para.speed_test_server_port}/download/speedtest_2G.zip'",
+					"f'http://{site_para.speed_test_server_ipv4}:{site_para.speed_test_server_port}/download/speedtest_2GB.zip'",
+					"f'http://[{site_para.speed_test_server_ipv6}]:{site_para.speed_test_server_port}/download/speedtest_400M.zip'",
+					"f'http://[{site_para.speed_test_server_ipv6}]:{site_para.speed_test_server_port}/download/speedtest_400M.jar'",
+					"f'http://{site_para.speed_test_server_ipv6}:{site_para.speed_test_server_port}/download/speedtest_400M.zip'",
+					"f'http://{site_para.speed_test_server_ipv4}:{site_para.speed_test_server_port}/download/speedtest_400M.zip'",
+					"table=f\"OSGI_{self.way.upper()}_IPV6_{self.bw}",
+					"table=f\"OSGI_{self.way.upper()}_IPV4_{self.bw}"
 				],
 				"reverse": false,
 				"show_context": true,
@@ -1389,24 +1460,24 @@
 			"groups":
 			[
 				{
-					"selected": 8,
+					"selected": 2,
 					"sheets":
 					[
 						{
 							"buffer": 0,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Success_CTCU_002.py",
+							"file": "/D/desktop/烽火/OLT项目/olt.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8494,
+								"buffer_size": 12383,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										267,
-										267
+										2298,
+										2298
 									]
 								],
 								"settings":
@@ -1429,31 +1500,16 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -1469,16 +1525,31 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -1514,14 +1585,14 @@
 										10,
 										7,
 										229,
+										9,
 										6,
+										11,
 										3,
-										14,
-										41,
-										10,
-										12,
-										72,
-										13,
+										31,
+										4,
+										131,
+										76,
 										113,
 										1,
 										133,
@@ -1535,36 +1606,35 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 72.0,
+								"translation.y": 1440.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 8,
+							"stack_index": 1,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_001.py",
+							"file": "/D/desktop/烽火/OLT项目/test.py",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 8741,
+								"buffer_size": 3233,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7192,
-										7192
+										943,
+										953
 									]
 								],
 								"settings":
 								{
+									"auto_name": "",
 									"bracket_highlighter.busy": false,
 									"bracket_highlighter.locations":
 									{
@@ -1572,793 +1642,8 @@
 										{
 											"1":
 											[
-												7196,
-												7197
-											]
-										},
-										"icon":
-										{
-											"1":
-											[
-												"Packages/BracketHighlighter/icons/single_quote.png",
-												"region.greenish"
-											]
-										},
-										"open":
-										{
-											"1":
-											[
-												7172,
-												7173
-											]
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										6,
-										10,
-										9,
-										25,
-										31,
-										8,
-										192,
-										80,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2736.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 7,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_002.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11026,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10713,
-										10713
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										6,
-										11,
-										15,
-										14,
-										36,
-										13,
-										126,
-										226,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4272.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 6,
-							"type": "text"
-						},
-						{
-							"buffer": 3,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_003.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8751,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										8041,
-										8041
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										6,
-										11,
-										15,
-										20,
-										23,
-										8,
-										120,
-										173,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3384.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 5,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_004.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 10968,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10106,
-										10106
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										6,
-										11,
-										15,
-										25,
-										55,
-										1,
-										11,
-										151,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 4169.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
-							"type": "text"
-						},
-						{
-							"buffer": 5,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_005.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 8751,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										7993,
-										7993
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										6,
-										11,
-										15,
-										29,
-										44,
-										12,
-										134,
-										18,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 2952.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 3,
-							"type": "text"
-						},
-						{
-							"buffer": 6,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_006.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 11026,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										10418,
-										10418
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-											"1":
-											[
-												10417,
-												10418
+												995,
+												996
 											]
 										},
 										"icon":
@@ -2373,8 +1658,8 @@
 										{
 											"1":
 											[
-												10416,
-												10417
+												953,
+												954
 											]
 										},
 										"unmatched":
@@ -2383,36 +1668,46 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
 										"bh_unmatched",
 										"bh_unmatched_center",
 										"bh_unmatched_open",
 										"bh_unmatched_close",
 										"bh_unmatched_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_single_quote",
+										"bh_single_quote_center",
+										"bh_single_quote_open",
+										"bh_single_quote_close",
+										"bh_single_quote_content",
+										"bh_curly",
+										"bh_curly_center",
+										"bh_curly_open",
+										"bh_curly_close",
+										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
 										"bh_tag",
 										"bh_tag_center",
 										"bh_tag_open",
@@ -2423,21 +1718,11 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
+										"bh_double_quote",
+										"bh_double_quote_center",
+										"bh_double_quote_open",
+										"bh_double_quote_close",
+										"bh_double_quote_content"
 									],
 									"c_time":
 									[
@@ -2468,14 +1753,14 @@
 										10,
 										7,
 										229,
-										6,
-										11,
-										15,
-										31,
 										9,
-										4,
-										22,
-										12,
+										8,
+										16,
+										55,
+										7,
+										2,
+										110,
+										169,
 										113,
 										1,
 										133,
@@ -2487,34 +1772,30 @@
 										46
 									],
 									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
+									"syntax": "Packages/Python/Python.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 3977.0,
+								"translation.y": 737.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 2,
 							"type": "text"
 						},
 						{
-							"buffer": 7,
-							"file": "/D/Autotest_Dev/Service/BSDM/solocase/BSDM_Registerbar_ACS_Fail_CTCU_007.py",
+							"buffer": 2,
+							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 10358,
+								"buffer_size": 781,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										9405,
-										9405
+										336,
+										336
 									]
 								],
 								"settings":
@@ -2524,12 +1805,27 @@
 									{
 										"close":
 										{
+											"1":
+											[
+												779,
+												780
+											]
 										},
 										"icon":
 										{
+											"1":
+											[
+												"Packages/BracketHighlighter/icons/curly_bracket.png",
+												"region.purplish"
+											]
 										},
 										"open":
 										{
+											"1":
+											[
+												0,
+												1
+											]
 										},
 										"unmatched":
 										{
@@ -2537,31 +1833,16 @@
 									},
 									"bracket_highlighter.regions":
 									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
 										"bh_regex",
 										"bh_regex_center",
 										"bh_regex_open",
 										"bh_regex_close",
 										"bh_regex_content",
+										"bh_default",
+										"bh_default_center",
+										"bh_default_open",
+										"bh_default_close",
+										"bh_default_content",
 										"bh_double_quote",
 										"bh_double_quote_center",
 										"bh_double_quote_open",
@@ -2577,16 +1858,31 @@
 										"bh_angle_open",
 										"bh_angle_close",
 										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
 										"bh_curly",
 										"bh_curly_center",
 										"bh_curly_open",
 										"bh_curly_close",
 										"bh_curly_content",
+										"bh_c_define",
+										"bh_c_define_center",
+										"bh_c_define_open",
+										"bh_c_define_close",
+										"bh_c_define_content",
+										"bh_square",
+										"bh_square_center",
+										"bh_square_open",
+										"bh_square_close",
+										"bh_square_content",
+										"bh_round",
+										"bh_round_center",
+										"bh_round_open",
+										"bh_round_close",
+										"bh_round_content",
+										"bh_unmatched",
+										"bh_unmatched_center",
+										"bh_unmatched_open",
+										"bh_unmatched_close",
+										"bh_unmatched_content",
 										"bh_single_quote",
 										"bh_single_quote_center",
 										"bh_single_quote_open",
@@ -2621,169 +1917,15 @@
 										67,
 										10,
 										7,
-										229,
-										6,
-										11,
-										15,
-										34,
-										3,
-										3,
-										83,
-										28,
-										113,
-										1,
-										133,
-										113,
-										2,
-										82,
-										113,
-										3,
-										46
-									],
-									"incomplete_sync": null,
-									"remote_loading": false,
-									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
-								"translation.y": 3840.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"type": "text"
-						},
-						{
-							"buffer": 8,
-							"file": "/C/Users/cienet/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.py",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4232,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										4232,
-										4232
-									]
-								],
-								"settings":
-								{
-									"bracket_highlighter.busy": false,
-									"bracket_highlighter.locations":
-									{
-										"close":
-										{
-										},
-										"icon":
-										{
-										},
-										"open":
-										{
-										},
-										"unmatched":
-										{
-										}
-									},
-									"bracket_highlighter.regions":
-									[
-										"bh_default",
-										"bh_default_center",
-										"bh_default_open",
-										"bh_default_close",
-										"bh_default_content",
-										"bh_square",
-										"bh_square_center",
-										"bh_square_open",
-										"bh_square_close",
-										"bh_square_content",
-										"bh_round",
-										"bh_round_center",
-										"bh_round_open",
-										"bh_round_close",
-										"bh_round_content",
-										"bh_unmatched",
-										"bh_unmatched_center",
-										"bh_unmatched_open",
-										"bh_unmatched_close",
-										"bh_unmatched_content",
-										"bh_regex",
-										"bh_regex_center",
-										"bh_regex_open",
-										"bh_regex_close",
-										"bh_regex_content",
-										"bh_double_quote",
-										"bh_double_quote_center",
-										"bh_double_quote_open",
-										"bh_double_quote_close",
-										"bh_double_quote_content",
-										"bh_tag",
-										"bh_tag_center",
-										"bh_tag_open",
-										"bh_tag_close",
-										"bh_tag_content",
-										"bh_angle",
-										"bh_angle_center",
-										"bh_angle_open",
-										"bh_angle_close",
-										"bh_angle_content",
-										"bh_c_define",
-										"bh_c_define_center",
-										"bh_c_define_open",
-										"bh_c_define_close",
-										"bh_c_define_content",
-										"bh_curly",
-										"bh_curly_center",
-										"bh_curly_open",
-										"bh_curly_close",
-										"bh_curly_content",
-										"bh_single_quote",
-										"bh_single_quote_center",
-										"bh_single_quote_open",
-										"bh_single_quote_close",
-										"bh_single_quote_content"
-									],
-									"c_time":
-									[
-										128,
-										3,
-										99,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										100,
-										97,
-										116,
-										101,
-										116,
-										105,
-										109,
-										101,
-										10,
-										113,
-										0,
-										67,
-										10,
-										7,
-										229,
-										7,
-										15,
+										228,
+										9,
+										4,
 										14,
-										52,
-										8,
-										8,
-										91,
-										36,
+										53,
+										59,
+										14,
+										144,
+										84,
 										113,
 										1,
 										133,
@@ -2797,12 +1939,12 @@
 									"incomplete_sync": null,
 									"remote_loading": false,
 									"synced": false,
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 3072.0,
+								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -2842,6 +1984,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.GoSublime/HUD":
+			{
+				"height": 0.0
+			},
 			"output.Terminus":
 			{
 				"height": 174.0
@@ -2852,7 +1998,7 @@
 			},
 			"output.exec":
 			{
-				"height": 503.0
+				"height": 672.0
 			},
 			"output.find_results":
 			{
@@ -2867,7 +2013,7 @@
 				"height": 158.0
 			},
 			"pinned_build_system": "",
-			"position": "0,2,3,-1,-1,-1,-1,728,183,-5,1407",
+			"position": "0,2,2,-32000,-32000,-1,-1,794,184,66,1408",
 			"project": "",
 			"replace":
 			{
@@ -2881,6 +2027,150 @@
 				"selected_items":
 				[
 					[
+						"glob",
+						"Service\\Global.py"
+					],
+					[
+						"sitepara",
+						"Config\\site_para.py"
+					],
+					[
+						"site",
+						"Config\\site_para.py"
+					],
+					[
+						"glo",
+						"Service\\Global.py"
+					],
+					[
+						"impMGTr069",
+						"Lib\\Service\\Voice\\impMGTr069.py"
+					],
+					[
+						"sitep",
+						"Config\\site_para.py"
+					],
+					[
+						"absSmartPluginPkgManageFactory",
+						"Lib\\Service\\CMCCIP\\absSmartPluginPkgManageFactory.py"
+					],
+					[
+						"ActualtimeReport013",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_ActualtimeReport_013.py"
+					],
+					[
+						"mgtr",
+						"Lib\\Service\\Voice\\impMGTr069.py"
+					],
+					[
+						"sites",
+						"Lib\\general\\third_party_files\\scapy\\layers\\tls\\crypto\\suites.py"
+					],
+					[
+						"33.py",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_Capability_Speed_033.py"
+					],
+					[
+						"sitepa",
+						"Config\\site_para.py"
+					],
+					[
+						"CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_ASP_HTTPDS_UHTTPDS_002.py"
+					],
+					[
+						"CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_ASP_HTTPDS_UHTTPDS_001.py"
+					],
+					[
+						"ntp001",
+						"Service\\CyberApp\\solocase\\CyberApp_NTP_001.py"
+					],
+					[
+						"ciberapp",
+						"Lib\\Service\\CyberApp\\bizCyberApp.py"
+					],
+					[
+						"package_analyze_exist_or_not",
+						"Lib\\general\\package_analyze_exist_or_not.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_001",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_001.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_006.py"
+					],
+					[
+						"FOIS_DPI_BootReport_007",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_007.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_004",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_004.py"
+					],
+					[
+						"FOIS_DPI_PeriodReport_003",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_PeriodReport_003.py"
+					],
+					[
+						"CMCCIP_FP_CFSP_DAR_DARC_018",
+						"Service\\CMCCIP\\solocase\\CMCCIP_FP_CFSP_DAR_DARC_018.py"
+					],
+					[
+						"FOIS_DPI_BootReport_008",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_008.py"
+					],
+					[
+						"FOIS_DPI_BootReport_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_006.py"
+					],
+					[
+						"impstat",
+						"Lib\\Service\\Start\\impStartCMD.py"
+					],
+					[
+						"WAN_Vbind_005",
+						"Service\\WAN\\solocase\\WAN_Vbind_005.py"
+					],
+					[
+						"startcmd",
+						"Lib\\Service\\Start\\impStartCMD.py"
+					],
+					[
+						"sit",
+						"Config\\site_para.py"
+					],
+					[
+						"FOIS_DPI_BootReport_001",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_BootReport_001.py"
+					],
+					[
+						"hgute",
+						"Lib\\general\\hgu_telnet.py"
+					],
+					[
+						"cmccip.",
+						"Lib\\Service\\CMCCIP\\bizCMCCIP.py"
+					],
+					[
+						"FOIS_DPI_Capability_Speed_006",
+						"Service\\CMCCIP\\solocase\\FOIS_DPI_Capability_Speed_006.py"
+					],
+					[
+						"testbed",
+						"Lib\\general\\util_basic\\testbed.py"
+					],
+					[
+						"jsonl",
+						"Lib\\general\\jsonlib.py"
+					],
+					[
+						"ctcu007.py",
+						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Fail_CTCU_007.py"
+					],
+					[
 						"BSDM_Registerbar_ACS_Fail_CTCU_001",
 						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Fail_CTCU_001.py"
 					],
@@ -2889,24 +2179,12 @@
 						"Service\\BSDM\\solocase\\BSDM_Registerbar_ACS_Success_CTCU_002.py"
 					],
 					[
-						"site",
-						"Config\\site_para.py"
-					],
-					[
 						"bizbsdm",
 						"Lib\\Service\\BSDM\\bizBSDM.py"
 					],
 					[
 						"dsfailctcu",
 						"Service\\BSDM\\solocase\\BSDM_Registerbar_DS_Fail_CTCU_001.py"
-					],
-					[
-						"glob",
-						"Service\\Global.py"
-					],
-					[
-						"sitepa",
-						"Config\\site_para.py"
 					],
 					[
 						"cmccipfplansp00",
@@ -2945,16 +2223,8 @@
 						"Service\\CMCCIP\\solocase\\CMCCIP_FP_TSP_TFS_001.py"
 					],
 					[
-						"jsonl",
-						"Lib\\general\\jsonlib.py"
-					],
-					[
 						"impd",
 						"Lib\\general\\stc\\impDevice.py"
-					],
-					[
-						"glo",
-						"Service\\Global.py"
 					],
 					[
 						"WAN_RT_IPoE_SSIPv4_DHCP_015.py",
@@ -3003,10 +2273,6 @@
 					[
 						"AC_URLFilter_Black_002",
 						"Service\\AC\\solocase\\AC_URLFilter_Black_002.py"
-					],
-					[
-						"sitep",
-						"Config\\site_para.py"
 					],
 					[
 						"AC_MACFilter_Black_006",
@@ -3121,10 +2387,6 @@
 						"Lib\\general\\hgu_telnet.py"
 					],
 					[
-						"hgute",
-						"Lib\\general\\hgu_telnet.py"
-					],
-					[
 						"htu",
 						"testData\\version\\HG6543C1\\CT\\Hubei\\targetversion\\local_frk_image_UniPon_20200401230806.img"
 					],
@@ -3158,10 +2420,50 @@
 			},
 			"select_symbol":
 			{
-				"height": 345.0,
-				"last_filter": "setpppwan",
+				"height": 81.0,
+				"last_filter": "impWanConxSmartIntfCMCC",
 				"selected_items":
 				[
+					[
+						"impWanConxSmartIntfCMCC",
+						"ImpWanConxSmartIntfCMCC"
+					],
+					[
+						"enable",
+						"enable_telnet"
+					],
+					[
+						"enable_tel",
+						"enable_telnet"
+					],
+					[
+						"get_http_packets_info",
+						"get_http_packets_info"
+					],
+					[
+						"get_link_Information",
+						"get_link_Information"
+					],
+					[
+						"get_time_stamp",
+						"get_time_stamp"
+					],
+					[
+						"account",
+						"get_account"
+					],
+					[
+						"accoun",
+						"get_account"
+					],
+					[
+						"hidden",
+						"get_hidden"
+					],
+					[
+						"check_web",
+						"check_web"
+					],
 					[
 						"setpppwan",
 						"set_pppwanbridge"
@@ -3175,7 +2477,7 @@
 						"enable_telnet"
 					]
 				],
-				"width": 580.0
+				"width": 640.0
 			},
 			"selected_group": 0,
 			"settings":
@@ -3185,12 +2487,12 @@
 			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 465.0,
+			"side_bar_width": 348.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 319,
+			"window_id": 373,
 			"workspace_name": ""
 		}
 	],
